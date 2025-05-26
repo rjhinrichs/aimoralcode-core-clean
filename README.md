@@ -25,7 +25,7 @@ To explore the system:
 2. See `/01_Canonical_Values/Deriving the 15 Canonical Values...` for taxonomy origin.
 3. See `/data/MASTER AI Moral Code Taxonomy...` for weighted value emergence.
 
-4. ## Contributions
+## Contributions
 
 This repository is under structured development. If you would like to collaborate or contribute to values expansion, disvalue modeling, or curriculum alignment, please contact the maintainer.
 
