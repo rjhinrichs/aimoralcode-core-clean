@@ -1,0 +1,10 @@
+# System files
+.DS_Store
+*.log
+
+# Excel autosaves
+~$*
+
+# Python/IDE artifacts
+__pycache__/
+*.pyc
