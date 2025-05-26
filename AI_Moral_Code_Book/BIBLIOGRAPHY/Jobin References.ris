@@ -1,0 +1,792 @@
+TY  - JOUR
+AU  - Harari, Y. N.
+PY  - 2017
+DA  - 2017//
+TI  - Reboot for the AI revolution
+JO  - Nature
+VL  - 550
+UR  - https://doi.org/10.1038/550324a
+DO  - 10.1038/550324a
+ID  - Harari2017
+ER  - 
+TY  - STD
+TI  - Appenzeller, T. The AI revolution in science. Sciencehttps://doi.org/10.1126/science.aan7064 (2017).
+ID  - ref2
+ER  - 
+TY  - JOUR
+AU  - Jordan, M. I.
+AU  - Mitchell, T. M.
+PY  - 2015
+DA  - 2015//
+TI  - Machine learning: trends, perspectives, and prospects
+JO  - Science
+VL  - 349
+UR  - https://doi.org/10.1126/science.aaa8415
+DO  - 10.1126/science.aaa8415
+ID  - Jordan2015
+ER  - 
+TY  - JOUR
+AU  - Stead, W. W.
+PY  - 2018
+DA  - 2018//
+TI  - Clinical implications and challenges of artificial intelligence and deep learning
+JO  - JAMA
+VL  - 320
+UR  - https://doi.org/10.1001/jama.2018.11029
+DO  - 10.1001/jama.2018.11029
+ID  - Stead2018
+ER  - 
+TY  - JOUR
+AU  - Vayena, E.
+AU  - Blasimme, A.
+AU  - Cohen, I. G.
+PY  - 2018
+DA  - 2018//
+TI  - Machine learning in medicine: addressing ethical challenges
+JO  - PLOS Med.
+VL  - 15
+UR  - https://doi.org/10.1371/journal.pmed.1002689
+DO  - 10.1371/journal.pmed.1002689
+ID  - Vayena2018
+ER  - 
+TY  - JOUR
+AU  - Awad, E.
+PY  - 2018
+DA  - 2018//
+TI  - The Moral Machine experiment
+JO  - Nature
+VL  - 563
+UR  - https://doi.org/10.1038/s41586-018-0637-6
+DO  - 10.1038/s41586-018-0637-6
+ID  - Awad2018
+ER  - 
+TY  - STD
+TI  - Science must examine the future of work. Nature550, 301–302 (2017).
+ID  - ref7
+ER  - 
+TY  - STD
+TI  - Brundage, M. et al. The Malicious Use of Artificial Intelligence: Forecasting, Prevention, and Mitigation (Future of Humanity Institute, University of Oxford, Centre for the Study of Existential Risk, University of Cambridge, Center for a New American Security, Electronic Frontier Foundation, OpenAI, 2018).
+ID  - ref8
+ER  - 
+TY  - JOUR
+AU  - Zou, J.
+AU  - Schiebinger, L.
+PY  - 2018
+DA  - 2018//
+TI  - AI can be sexist and racist — it’s time to make it fair
+JO  - Nature
+VL  - 559
+UR  - https://doi.org/10.1038/d41586-018-05707-8
+DO  - 10.1038/d41586-018-05707-8
+ID  - Zou2018
+ER  - 
+TY  - STD
+TI  - Boddington, P. Towards a Code of Ethics for Artificial Intelligence (Springer, 2017).
+ID  - ref10
+ER  - 
+TY  - STD
+TI  - Bostrom, N. & Yudkowsky, E. in The Cambridge Handbook of Artificial Intelligence (eds Frankish, K. & Ramsey, W. M.) 316–334 (Cambridge Univ. Press, 2014). https://doi.org/10.1017/CBO9781139046855.020
+ID  - ref11
+ER  - 
+TY  - JOUR
+AU  - Etzioni, A.
+AU  - Etzioni, O.
+PY  - 2016
+DA  - 2016//
+TI  - AI assisted ethics
+JO  - Ethics Inf. Technol.
+VL  - 18
+UR  - https://doi.org/10.1007/s10676-016-9400-6
+DO  - 10.1007/s10676-016-9400-6
+ID  - Etzioni2016
+ER  - 
+TY  - JOUR
+AU  - Yuste, R.
+PY  - 2017
+DA  - 2017//
+TI  - Four ethical priorities for neurotechnologies and AI
+JO  - Nature
+VL  - 551
+UR  - https://doi.org/10.1038/551159a
+DO  - 10.1038/551159a
+ID  - Yuste2017
+ER  - 
+TY  - JOUR
+AU  - Cath, C.
+AU  - Wachter, S.
+AU  - Mittelstadt, B.
+AU  - Taddeo, M.
+AU  - Floridi, L.
+PY  - 2018
+DA  - 2018//
+TI  - Artificial intelligence and the ‘good society’: the US, EU, and UK approach
+JO  - Sci. Eng. Ethics
+VL  - 24
+ID  - Cath2018
+ER  - 
+TY  - STD
+TI  - Zeng, Y., Lu, E. & Huangfu, C. Linking artificial intelligence principles. Preprint at https://arxiv.org/abs/1812.04814 (2018).
+UR  - https://arxiv.org/abs/1812.04814
+ID  - ref15
+ER  - 
+TY  - STD
+TI  - Greene, D., Hoffmann, A. L. & Stark, L. Better, nicer, clearer, fairer: a critical assessment of the movement for ethical artificial intelligence and machine learning. In Proc. 52nd Hawaii International Conference on System Sciences 2122–2131 (2019).
+ID  - ref16
+ER  - 
+TY  - JOUR
+AU  - Crawford, K.
+AU  - Calo, R.
+PY  - 2016
+DA  - 2016//
+TI  - There is a blind spot in AI research
+JO  - Nature
+VL  - 538
+UR  - https://doi.org/10.1038/538311a
+DO  - 10.1038/538311a
+ID  - Crawford2016
+ER  - 
+TY  - JOUR
+AU  - Altman, M.
+AU  - Wood, A.
+AU  - Vayena, E.
+PY  - 2018
+DA  - 2018//
+TI  - A harm-reduction framework for algorithmic fairness
+JO  - IEEE Security Privacy
+VL  - 16
+UR  - https://doi.org/10.1109/MSP.2018.2701149
+DO  - 10.1109/MSP.2018.2701149
+ID  - Altman2018
+ER  - 
+TY  - STD
+TI  - Bolukbasi, T., Chang, K.-W., Zou, J., Saligrama, V. & Kalai, A. Man is to computer programmer as woman is to homemaker? Debiasing word embeddings. Preprint at https://arxiv.org/abs/1607.06520 (2016).
+UR  - https://arxiv.org/abs/1607.06520
+ID  - ref19
+ER  - 
+TY  - STD
+TI  - O’Neil, C. Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy (Crown, 2016).
+ID  - ref20
+ER  - 
+TY  - JOUR
+AU  - Veale, M. i. c. h. a. e. l.
+AU  - Binns, R. e. u. b. e. n.
+PY  - 2017
+DA  - 2017//
+TI  - Fairer machine learning in the real world: Mitigating discrimination without collecting sensitive data
+JO  - Big Data & Society
+VL  - 4
+UR  - https://doi.org/10.1177/2053951717743530
+DO  - 10.1177/2053951717743530
+ID  - Veale2017
+ER  - 
+TY  - STD
+TI  - Shoham, Y. et al. The AI Index 2018 Annual Report (AI Index Steering Committee, Human-Centered AI Initiative, Stanford University, 2018).
+ID  - ref22
+ER  - 
+TY  - JOUR
+AU  - Sossin, L.
+AU  - Smith, C. W.
+PY  - 2003
+DA  - 2003//
+TI  - Hard choices and soft law: ethical codes, policy guidelines and the role of the courts in regulating government
+JO  - Alberta Law Rev.
+VL  - 40
+UR  - https://doi.org/10.29173/alr1344
+DO  - 10.29173/alr1344
+ID  - Sossin2003
+ER  - 
+TY  - JOUR
+AU  - Campbell, A.
+AU  - Glass, K. C.
+PY  - 2001
+DA  - 2001//
+TI  - The legal status of clinical and ethics policies, codes, and guidelines in medical practice and research
+JO  - McGill Law J.
+VL  - 46
+ID  - Campbell2001
+ER  - 
+TY  - JOUR
+AU  - Benkler, Y.
+PY  - 2019
+DA  - 2019//
+TI  - Don’t let industry write the rules for AI
+JO  - Nature
+VL  - 569
+UR  - https://doi.org/10.1038/d41586-019-01413-1
+DO  - 10.1038/d41586-019-01413-1
+ID  - Benkler2019
+ER  - 
+TY  - STD
+TI  - Wagner, B. in Being Profiled: Cogitas Ergo Sum: 10 Years of Profiling the European Citizen (eds Bayamlioglu, E., Baraliuc, I., Janssens, L. A. W. & Hildebrandt, M.) 84–89 (Amsterdam Univ. Press, 2018).
+ID  - ref26
+ER  - 
+TY  - JOUR
+AU  - Arksey, H.
+AU  - O’Malley, L.
+PY  - 2005
+DA  - 2005//
+TI  - Scoping studies: towards a methodological framework
+JO  - Int. J. Soc. Res. Methodol.
+VL  - 8
+UR  - https://doi.org/10.1080/1364557032000119616
+DO  - 10.1080/1364557032000119616
+ID  - Arksey2005
+ER  - 
+TY  - JOUR
+AU  - Pham, M. T.
+PY  - 2014
+DA  - 2014//
+TI  - A scoping review of scoping reviews: advancing the approach and enhancing the consistency
+JO  - Res. Synth. Meth.
+VL  - 5
+UR  - https://doi.org/10.1002/jrsm.1123
+DO  - 10.1002/jrsm.1123
+ID  - Pham2014
+ER  - 
+TY  - JOUR
+AU  - Liberati, A.
+PY  - 2009
+DA  - 2009//
+TI  - The PRISMA statement for reporting systematic reviews and meta-analyses of studies that evaluate health care interventions: explanation and elaboration
+JO  - PLOS Medicine
+VL  - 6
+UR  - https://doi.org/10.1371/journal.pmed.1000100
+DO  - 10.1371/journal.pmed.1000100
+ID  - Liberati2009
+ER  - 
+TY  - STD
+TI  - Boddington, P. Alphabetical list of resources. Ethics for Artificial Intelligencehttps://www.cs.ox.ac.uk/efai/resources/alphabetical-list-of-resources/ (2018).
+UR  - https://www.cs.ox.ac.uk/efai/resources/alphabetical-list-of-resources/
+ID  - ref30
+ER  - 
+TY  - STD
+TI  - Winfield, A. A round up of robotics and AI ethics. Alan Winfield’s Web Loghttp://alanwinfield.blogspot.com/2019/04/an-updated-round-up-of-ethical.html (2017).
+UR  - http://alanwinfield.blogspot.com/2019/04/an-updated-round-up-of-ethical.html
+ID  - ref31
+ER  - 
+TY  - STD
+TI  - National and international AI strategies. Future of Life Institutehttps://futureoflife.org/national-international-ai-strategies/ (2018)
+UR  - https://futureoflife.org/national-international-ai-strategies/
+ID  - ref32
+ER  - 
+TY  - STD
+TI  - Summaries of AI policy resources. Future of Life Institutehttps://futureoflife.org/ai-policy-resources/ (2018).
+UR  - https://futureoflife.org/ai-policy-resources/
+ID  - ref33
+ER  - 
+TY  - STD
+TI  - Hagstrom, C., Kendall, S. & Cunningham, H. Googling for grey: using Google and Duckduckgo to find grey literature. In Abstracts of the 23rd Cochrane Colloquium Vol. 10, LRO 3.6, 40 (Cochrane Database of Systematic Reviews, 2015).
+ID  - ref34
+ER  - 
+TY  - JOUR
+AU  - Piasecki, J.
+AU  - Waligora, M.
+AU  - Dranseika, V.
+PY  - 2017
+DA  - 2017//
+TI  - Google search as an additional source in systematic reviews
+JO  - Sci. Eng. Ethics
+VL  - 24
+ID  - Piasecki2017
+ER  - 
+TY  - JOUR
+AU  - Moher, D.
+AU  - Liberati, A.
+AU  - Tetzlaff, J.
+AU  - Altman, D. G.
+PY  - 2009
+DA  - 2009//
+TI  - Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement
+JO  - PLOS Med.
+VL  - 6
+UR  - https://doi.org/10.1371/journal.pmed.1000097
+DO  - 10.1371/journal.pmed.1000097
+ID  - Moher2009
+ER  - 
+TY  - STD
+TI  - Saldaña, J. The Coding Manual for Qualitative Researchers (SAGE, 2013).
+ID  - ref37
+ER  - 
+TY  - STD
+TI  - Noblit, G. W. & Hare, R. D. Meta-Ethnography: Synthesizing Qualitative Studies (SAGE, 1988).
+ID  - ref38
+ER  - 
+TY  - STD
+TI  - Daniels, N. Justice and Justification: Reflective Equilibrium in Theory and Practice (Cambridge Univ. Press, 1996).
+ID  - ref39
+ER  - 
+TY  - STD
+TI  - Guidelines for artificial intelligence. Deutsche Telekomhttps://www.telekom.com/en/company/digital-responsibility/details/artificial-intelligence-ai-guideline-524366 (2018).
+UR  - https://www.telekom.com/en/company/digital-responsibility/details/artificial-intelligence-ai-guideline-524366
+ID  - ref40
+ER  - 
+TY  - STD
+TI  - Transparency and trust in the cognitive era. IBMhttps://www.ibm.com/blogs/think/2017/01/ibm-cognitive-principles/ (2017).
+UR  - https://www.ibm.com/blogs/think/2017/01/ibm-cognitive-principles/
+ID  - ref41
+ER  - 
+TY  - STD
+TI  - Initial code of conduct for data-driven health and care technology. GOV.UKhttps://www.gov.uk/government/publications/code-of-conduct-for-data-driven-health-and-care-technology/initial-code-of-conduct-for-data-driven-health-and-care-technology (2019).
+UR  - https://www.gov.uk/government/publications/code-of-conduct-for-data-driven-health-and-care-technology/initial-code-of-conduct-for-data-driven-health-and-care-technology
+ID  - ref42
+ER  - 
+TY  - STD
+TI  - Diakopoulos, N. et al. Principles for accountable algorithms and a social impact statement for algorithms. FATMLhttp://www.fatml.org/resources/principles-for-accountable-algorithms (2016).
+UR  - http://www.fatml.org/resources/principles-for-accountable-algorithms
+ID  - ref43
+ER  - 
+TY  - STD
+TI  - AI principles of Telefónica. Telefónicahttps://www.telefonica.com/en/web/responsible-business/our-commitments/ai-principles (2018).
+UR  - https://www.telefonica.com/en/web/responsible-business/our-commitments/ai-principles
+ID  - ref44
+ER  - 
+TY  - STD
+TI  - Declaration on Ethics and Data Protection in Artificial Intelligence (Commission Nationale de l’Informatique et des Libertés, European Data Protection Supervisor & Garante per la protezione dei dati personali, 2018).
+ID  - ref45
+ER  - 
+TY  - STD
+TI  - Everyday Ethics for Artificial Intelligence (IBM, 2018).
+ID  - ref46
+ER  - 
+TY  - STD
+TI  - Ethics Commission: Automated and Connected Driving (Federal Ministry of Transport and Digital Infrastructure, 2017).
+ID  - ref47
+ER  - 
+TY  - STD
+TI  - Position on Robotics and Artificial Intelligence (Green Digital Working Group, 2016).
+ID  - ref48
+ER  - 
+TY  - STD
+TI  - Principles of robotics. EPSRChttps://epsrc.ukri.org/research/ourportfolio/themes/engineering/activities/principlesofrobotics/ (2011).
+UR  - https://epsrc.ukri.org/research/ourportfolio/themes/engineering/activities/principlesofrobotics/
+ID  - ref49
+ER  - 
+TY  - STD
+TI  - Ethics Guidelines for Trustworthy AI (High-Level Expert Group on AI, 2019).
+ID  - ref50
+ER  - 
+TY  - STD
+TI  - Artificial intelligence principles and ethics. Smart Dubaihttp://www.smartdubai.ae/initiatives/ai-principles-ethics (2019).
+UR  - http://www.smartdubai.ae/initiatives/ai-principles-ethics
+ID  - ref51
+ER  - 
+TY  - STD
+TI  - Dawson, D. et al. Artificial Intelligence: Australia’s Ethics Framework (Australian Government, 2019).
+ID  - ref52
+ER  - 
+TY  - STD
+TI  - Artificial intelligence and machine learning: policy paper. Internet Societyhttps://www.internetsociety.org/resources/doc/2017/artificial-intelligence-and-machine-learning-policy-paper/ (2017).
+UR  - https://www.internetsociety.org/resources/doc/2017/artificial-intelligence-and-machine-learning-policy-paper/
+ID  - ref53
+ER  - 
+TY  - STD
+TI  - Top 10 Principles for Ethical AI (UNI Global, 2017).
+ID  - ref54
+ER  - 
+TY  - STD
+TI  - Statement on Artificial Intelligence, Robotics and ‘Autonomous’ Systems (European Group on Ethics in Science and New Technologies, 2018).
+ID  - ref55
+ER  - 
+TY  - STD
+TI  - Big Data, Artificial Intelligence, Machine Learning and Data Protection. (ICO, 2017).
+ID  - ref56
+ER  - 
+TY  - STD
+TI  - Universal guidelines for artificial intelligence. The Public Voicehttps://thepublicvoice.org/ai-universal-guidelines/ (2018).
+UR  - https://thepublicvoice.org/ai-universal-guidelines/
+ID  - ref57
+ER  - 
+TY  - STD
+TI  - Science, law and society (SLS) initiative. The Future Societyhttps://web.archive.org/web/20180621203843/http://thefuturesociety.org/science-law-society-sls-initiative/ (2018).
+UR  - https://web.archive.org/web/20180621203843/http://thefuturesociety.org/science-law-society-sls-initiative/
+ID  - ref58
+ER  - 
+TY  - STD
+TI  - Statement on Algorithmic Transparency and Accountability (ACM, 2017).
+ID  - ref59
+ER  - 
+TY  - STD
+TI  - Dutch Artificial Intelligence Manifesto (Special Interest Group on Artificial Intelligence, 2018).
+ID  - ref60
+ER  - 
+TY  - STD
+TI  - Ethically Aligned Design: A Vision for Prioritizing Human Well-being with Autonomous and Intelligent Systems, Version 2 (IEEE, 2017).
+ID  - ref61
+ER  - 
+TY  - STD
+TI  - The Toronto declaration: protecting the right to equality and non-discrimination in machine learning systems. Human Rights Watchhttps://www.hrw.org/news/2018/07/03/toronto-declaration-protecting-rights-equality-and-non-discrimination-machine (2018).
+UR  - https://www.hrw.org/news/2018/07/03/toronto-declaration-protecting-rights-equality-and-non-discrimination-machine
+ID  - ref62
+ER  - 
+TY  - JOUR
+AU  - Floridi, L.
+PY  - 2018
+DA  - 2018//
+TI  - AI4People—an ethical framework for a good ai society: opportunities, risks, principles, and recommendations
+JO  - Minds Mach.
+VL  - 28
+UR  - https://doi.org/10.1007/s11023-018-9482-5
+DO  - 10.1007/s11023-018-9482-5
+ID  - Floridi2018
+ER  - 
+TY  - STD
+TI  - SAP’s guiding principles for artificial intelligence (AI). SAPhttps://www.sap.com/products/leonardo/machine-learning/ai-ethics.html#guiding-principles (2018).
+UR  - https://www.sap.com/products/leonardo/machine-learning/ai-ethics.html#guiding-principles
+ID  - ref64
+ER  - 
+TY  - STD
+TI  - Ethical Principles for Artificial Intelligence and Data Analytics (SIIA, 2017).
+ID  - ref65
+ER  - 
+TY  - STD
+TI  - Koski, O. & Husso, K. Work in the Age of Artificial Intelligence (Ministry of Economic Affairs and Employment, 2018).
+ID  - ref66
+ER  - 
+TY  - STD
+TI  - Digital decisions. Center for Democracy & Technologyhttps://cdt.org/issue/privacy-data/digital-decisions/ (2019).
+UR  - https://cdt.org/issue/privacy-data/digital-decisions/
+ID  - ref67
+ER  - 
+TY  - STD
+TI  - Ethics framework. MI Garagehttps://www.migarage.ai/ethics-framework/ (2019).
+UR  - https://www.migarage.ai/ethics-framework/
+ID  - ref68
+ER  - 
+TY  - STD
+TI  - Business Ethics and Artificial Intelligence (Institute of Business Ethics, 2018).
+ID  - ref69
+ER  - 
+TY  - STD
+TI  - Asilomar AI Principles. Future of Life Institutehttps://futureoflife.org/ai-principles/ (2017).
+UR  - https://futureoflife.org/ai-principles/
+ID  - ref70
+ER  - 
+TY  - STD
+TI  - The responsible AI framework. PwChttps://www.pwc.co.uk/services/audit-assurance/risk-assurance/services/technology-risk/technology-risk-insights/accelerating-innovation-through-responsible-ai/responsible-ai-framework.html (2019).
+UR  - https://www.pwc.co.uk/services/audit-assurance/risk-assurance/services/technology-risk/technology-risk-insights/accelerating-innovation-through-responsible-ai/responsible-ai-framework.html
+ID  - ref71
+ER  - 
+TY  - STD
+TI  - Whittaker, M. et al. AI Now Report 2018 (AI Now Institute, 2018).
+ID  - ref72
+ER  - 
+TY  - STD
+TI  - Discussion Paper on AI and Personal Data — Fostering Responsible Development and Adoption of AI (Personal Data Protection Commission Singapore, 2018).
+ID  - ref73
+ER  - 
+TY  - STD
+TI  - Artificial intelligence (AI) in health. RCP Londonhttps://www.rcplondon.ac.uk/projects/outputs/artificial-intelligence-ai-health (2018).
+UR  - https://www.rcplondon.ac.uk/projects/outputs/artificial-intelligence-ai-health
+ID  - ref74
+ER  - 
+TY  - STD
+TI  - Responsible bots: 10 guidelines for developers of conversational AI. Microsofthttps://www.microsoft.com/en-us/research/publication/responsible-bots/ (2018).
+UR  - https://www.microsoft.com/en-us/research/publication/responsible-bots/
+ID  - ref75
+ER  - 
+TY  - STD
+TI  - Villani, C. For a Meaningful Artificial Intelligence: Towards a French and European Strategy (AI for Humanity, 2018).
+ID  - ref76
+ER  - 
+TY  - STD
+TI  - The Japanese Society for Artificial Intelligence Ethical Guidelines (Japanese Society for Artificial Intelligence, 2017).
+ID  - ref77
+ER  - 
+TY  - STD
+TI  - Demiaux, V. How Can Humans Keep the Upper Hand? The Ethical Matters Raised by Algorithms and Artificial Intelligence (CNIL, 2017).
+ID  - ref78
+ER  - 
+TY  - STD
+TI  - European ethical charter on the use of artificial intelligence in judicial systems and their environment. Council of Europehttps://www.coe.int/en/web/cepej/cepej-european-ethical-charter-on-the-use-of-artificial-intelligence-ai-in-judicial-systems-and-their-environment (2019).
+UR  - https://www.coe.int/en/web/cepej/cepej-european-ethical-charter-on-the-use-of-artificial-intelligence-ai-in-judicial-systems-and-their-environment
+ID  - ref79
+ER  - 
+TY  - STD
+TI  - Ethics of AI in Radiology: European and North American Multisociety Statement (American College of Radiology, 2019).
+ID  - ref80
+ER  - 
+TY  - STD
+TI  - Charlevoix Common Vision for the Future of Artificial Intelligence (Leaders of the G7, 2018).
+ID  - ref81
+ER  - 
+TY  - STD
+TI  - DeepMind ethics and society principles. DeepMindhttps://deepmind.com/applied/deepmind-ethics-society/principles/ (2017).
+UR  - https://deepmind.com/applied/deepmind-ethics-society/principles/
+ID  - ref82
+ER  - 
+TY  - STD
+TI  - Sony Group AI Ethics Guidelines (Sony, 2018).
+ID  - ref83
+ER  - 
+TY  - STD
+TI  - Artificial Intelligence and Privacy (Datatilsynet, 2018).
+ID  - ref84
+ER  - 
+TY  - STD
+TI  - White Paper: How to Prevent Discriminatory Outcomes in Machine Learning (WEF, 2018).
+ID  - ref85
+ER  - 
+TY  - STD
+TI  - ITI AI Policy Principles (ITI, 2017).
+ID  - ref86
+ER  - 
+TY  - STD
+TI  - The Ethics of Code: Developing AI for Business with Five Core Principles (Sage, 2017).
+ID  - ref87
+ER  - 
+TY  - STD
+TI  - Commitments and principles. OPhttps://www.op.fi/op-financial-group/corporate-social-responsibility/commitments-and-principles (2019).
+UR  - https://www.op.fi/op-financial-group/corporate-social-responsibility/commitments-and-principles
+ID  - ref88
+ER  - 
+TY  - STD
+TI  - Tieto’s AI Ethics Guidelines (Tieto, 2018).
+ID  - ref89
+ER  - 
+TY  - STD
+TI  - Introducing Unity’s Guiding Principles for Ethical AI. Unity Bloghttps://blogs.unity3d.com/2018/11/28/introducing-unitys-guiding-principles-for-ethical-ai/ (2018).
+UR  - https://blogs.unity3d.com/2018/11/28/introducing-unitys-guiding-principles-for-ethical-ai/
+ID  - ref90
+ER  - 
+TY  - STD
+TI  - Discussion Paper: National Strategy for Artificial Intelligence (NITI Aayog, 2018).
+ID  - ref91
+ER  - 
+TY  - STD
+TI  - AI in the UK: Ready, Willing and Able 183 (House of Lords, 2018).
+ID  - ref92
+ER  - 
+TY  - STD
+TI  - Unified Ethical Frame for Big Data Analysis: IAF Big Data Ethics Initiative, Part A (The Information Accountability Foundation, 2015).
+ID  - ref93
+ER  - 
+TY  - STD
+TI  - Fenech, M., Strukelj, N. & Buston, O. Ethical, Social, and Political Challenges of Artificial Intelligence in Health (Future Advocacy, 2019).
+ID  - ref94
+ER  - 
+TY  - STD
+TI  - Responsible AI and robotics: an ethical framework. Accenturehttps://www.accenture.com/gb-en/company-responsible-ai-robotics (2019).
+UR  - https://www.accenture.com/gb-en/company-responsible-ai-robotics
+ID  - ref95
+ER  - 
+TY  - STD
+TI  - Artificial intelligence at Google: our principles. Google AIhttps://ai.google/principles/ (2019).
+UR  - https://ai.google/principles/
+ID  - ref96
+ER  - 
+TY  - STD
+TI  - Microsoft AI principles. Microsofthttps://www.microsoft.com/en-us/ai/our-approach-to-ai (2017).
+UR  - https://www.microsoft.com/en-us/ai/our-approach-to-ai
+ID  - ref97
+ER  - 
+TY  - STD
+TI  - Éthique de la Recherche en Robotique (Allistene, 2014).
+ID  - ref98
+ER  - 
+TY  - STD
+TI  - van Est, R. & Gerritsen, J. Human Rights in the Robot Age: Challenges Arising from the Use of Robotics, Artificial Intelligence, and Virtual and Augmented Reality (Rathenau Institute, 2017).
+ID  - ref99
+ER  - 
+TY  - STD
+TI  - The declaration. Montreal Declarationhttps://www.montrealdeclaration-responsibleai.com/the-declaration (2017).
+UR  - https://www.montrealdeclaration-responsibleai.com/the-declaration
+ID  - ref100
+ER  - 
+TY  - STD
+TI  - Mid- to Long-Term Master Plan in Preparation for the Intelligent Information Society: Managing the Fourth Industrial Revolution (Government of the Republic of Korea, 2017).
+ID  - ref101
+ER  - 
+TY  - STD
+TI  - Crawford, K. et al. The AI Now Report: The Social and Economic Implications of Artificial Intelligence Technologies in the Near-Term (AI Now Institute, 2016).
+ID  - ref102
+ER  - 
+TY  - STD
+TI  - Report on Artificial Intelligence and Human Society: Unofficial Translation (Ministry of State for Science and Technology Policy, 2017).
+ID  - ref103
+ER  - 
+TY  - STD
+TI  - Preparing for the future of Artificial Intelligence (NSTC, 2016).
+ID  - ref104
+ER  - 
+TY  - STD
+TI  - Artificial Intelligence: The Public Policy Opportunity (Intel, 2017).
+ID  - ref105
+ER  - 
+TY  - STD
+TI  - Machine Learning: The Power and Promise of Computers that Learn by Example (Royal Society, 2017).
+ID  - ref106
+ER  - 
+TY  - STD
+TI  - Ethically Aligned Design: A Vision for Prioritizing Human Well-being with Autonomous and Intelligent Systems, Version 1 (IEEE, 2019).
+ID  - ref107
+ER  - 
+TY  - STD
+TI  - Report with Recommendations to the Commission on Civil Law Rules on Robotics (European Parliament, 2017).
+ID  - ref108
+ER  - 
+TY  - STD
+TI  - Report of COMEST on Robotics Ethics (COMEST/UNESCO, 2017).
+ID  - ref109
+ER  - 
+TY  - STD
+TI  - Campolo, A., Sanfilippo, M., Whittaker, M. & Crawford, K. AI Now 2017 Report (AI ow Institute, 2017).
+ID  - ref110
+ER  - 
+TY  - STD
+TI  - Policy Recommendations on Augmented Intelligence in Health Care H-480.940 (AMA, 2018).
+ID  - ref111
+ER  - 
+TY  - STD
+TI  - Avila, R., Brandusescu, A., Freuler, J. O. & Thakur, D. Artificial Intelligence: Open Questions about Gender Inclusion (World Wide Web Foundation, 2018).
+ID  - ref112
+ER  - 
+TY  - STD
+TI  - Draft AI R&D Guidelines for International Discussions (The Conference toward AI Network Society, 2017).
+ID  - ref113
+ER  - 
+TY  - STD
+TI  - The National Artificial Intelligence Research and Development Strategic Plan (NSTC, 2016).
+ID  - ref114
+ER  - 
+TY  - STD
+TI  - Hoffmann, D. & Masucci, R. Intel’s AI Privacy Policy White Paper: Protecting Individuals’ Privacy and Data In The Artificial Intelligence World (Intel, 2018).
+ID  - ref115
+ER  - 
+TY  - STD
+TI  - Tenets. The Partnership on AIhttps://www.partnershiponai.org/tenets/ (2016).
+UR  - https://www.partnershiponai.org/tenets/
+ID  - ref116
+ER  - 
+TY  - STD
+TI  - Ethics Policy. IIIMhttp://www.iiim.is/2015/08/ethics-policy/ (2015).
+UR  - http://www.iiim.is/2015/08/ethics-policy/
+ID  - ref117
+ER  - 
+TY  - STD
+TI  - Latonero, M. Governing artificial intelligence: upholding human rights & dignity. Data & Societyhttps://datasociety.net/output/governing-artificial-intelligence/ (2018).
+UR  - https://datasociety.net/output/governing-artificial-intelligence/
+ID  - ref118
+ER  - 
+TY  - STD
+TI  - OpenAI Charter. OpenAIhttps://blog.openai.com/openai-charter/ (2018).
+UR  - https://blog.openai.com/openai-charter/
+ID  - ref119
+ER  - 
+TY  - STD
+TI  - L’Intelligenzia Artificiale al Servizio del Cittadino (AGID, 2018).
+ID  - ref120
+ER  - 
+TY  - STD
+TI  - Gilburt, B. Women leading in AI: 10 principles of responsible AI. Towards Data Sciencehttps://towardsdatascience.com/women-leading-in-ai-10-principles-for-responsible-ai-8a167fc09b7d (2019).
+UR  - https://towardsdatascience.com/women-leading-in-ai-10-principles-for-responsible-ai-8a167fc09b7d
+ID  - ref121
+ER  - 
+TY  - STD
+TI  - Privacy and Freedom of Expression in the Age of Artificial Intelligence (Privacy International/Article 19, 2018).
+ID  - ref122
+ER  - 
+TY  - JOUR
+AU  - Turilli, M.
+AU  - Floridi, L.
+PY  - 2009
+DA  - 2009//
+TI  - The ethics of information transparency
+JO  - Ethics Inf. Technol.
+VL  - 11
+UR  - https://doi.org/10.1007/s10676-009-9187-9
+DO  - 10.1007/s10676-009-9187-9
+ID  - Turilli2009
+ER  - 
+TY  - JOUR
+AU  - Taddeo, M.
+AU  - Floridi, L.
+PY  - 2018
+DA  - 2018//
+TI  - How AI can be a force for good
+JO  - Science
+VL  - 361
+UR  - https://doi.org/10.1126/science.aat5991
+DO  - 10.1126/science.aat5991
+ID  - Taddeo2018
+ER  - 
+TY  - JOUR
+AU  - Rozin, P.
+AU  - Royzman, E. B.
+PY  - 2016
+DA  - 2016//
+TI  - Negativity bias, negativity dominance, and contagion
+JO  - Person. Soc. Psychol. Rev.
+UR  - https://doi.org/10.1207/S15327957PSPR0504_2
+DO  - 10.1207/S15327957PSPR0504_2
+ID  - Rozin2016
+ER  - 
+TY  - STD
+TI  - Bentley, P. J., Brundage, M., Häggström, O. & Metzinger, T. Should We Fear Artificial Intelligence? In-Depth Analysis (European Parliament, 2018).
+ID  - ref126
+ER  - 
+TY  - STD
+TI  - Bryson, J. AI & global governance: no one should trust AI. United Nations Universityhttps://cpr.unu.edu/ai-global-governance-no-one-should-trust-ai.html (2018).
+UR  - https://cpr.unu.edu/ai-global-governance-no-one-should-trust-ai.html
+ID  - ref127
+ER  - 
+TY  - JOUR
+AU  - Winfield, A. F. T.
+AU  - Marina, J.
+PY  - 2018
+DA  - 2018//
+TI  - Ethical governance is essential to building trust in robotics and artificial intelligence systems
+JO  - Philos. Trans. R. Soc. A
+VL  - 376
+UR  - https://doi.org/10.1098/rsta.2018.0085
+DO  - 10.1098/rsta.2018.0085
+ID  - Winfield2018
+ER  - 
+TY  - STD
+TI  - Strubell, E., Ganesh, A. & McCallum, A. Energy and policy considerations for deep learning in NLP. Preprint at https://arxiv.org/abs/1906.02243 (2019).
+UR  - https://arxiv.org/abs/1906.02243
+ID  - ref129
+ER  - 
+TY  - JOUR
+AU  - Scheffran, J.
+AU  - Brzoska, M.
+AU  - Kominek, J.
+AU  - Link, P. M.
+AU  - Schilling, J.
+PY  - 2012
+DA  - 2012//
+TI  - Climate change and violent conflict
+JO  - Science
+VL  - 336
+UR  - https://doi.org/10.1126/science.1221339
+DO  - 10.1126/science.1221339
+ID  - Scheffran2012
+ER  - 
+TY  - STD
+TI  - AI for humanitarian action. Microsofthttps://www.microsoft.com/en-us/ai/ai-for-humanitarian-action (2019).
+UR  - https://www.microsoft.com/en-us/ai/ai-for-humanitarian-action
+ID  - ref131
+ER  - 
+TY  - STD
+TI  - Lancaster, C. Can artificial intelligence improve humanitarian responses? UNOPShttps://www.unops.org/news-and-stories/insights/can-artificial-intelligence-improve-humanitarian-responses (2018).
+UR  - https://www.unops.org/news-and-stories/insights/can-artificial-intelligence-improve-humanitarian-responses
+ID  - ref132
+ER  - 
+TY  - STD
+TI  - Hagendorff, D. T. The ethics of AI ethics — an evaluation of guidelines. Preprint at https://arxiv.org/abs/1903.03425 (2019).
+UR  - https://arxiv.org/abs/1903.03425
+ID  - ref133
+ER  - 
+TY  - STD
+TI  - Whittlestone, J., Nyrup, R., Alexandrova, A. & Cave, S. The role and limits of principles in AI ethics: towards a focus on tensions. In Proc. 2019 AAAI/ACM Conference on AI, Ethics, and Society 195–200 (2019).
+ID  - ref134
+ER  - 
+TY  - STD
+TI  - Mittelstadt, B. AI ethics — too principled to fail? Preprint at https://arxiv.org/abs/1906.06668 (2019).
+UR  - https://arxiv.org/abs/1906.06668
+ID  - ref135
+ER  - 
+TY  - STD
+TI  - The IEEE global initiative on ethics of autonomous and intelligent systems. IEEE Standards Associationhttps://standards.ieee.org/industry-connections/ec/autonomous-systems.html (2019).
+UR  - https://standards.ieee.org/industry-connections/ec/autonomous-systems.html
+ID  - ref136
+ER  - 

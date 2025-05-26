@@ -1,0 +1,13 @@
+,Value,Government Emphasis,Industry Emphasis,NGOs Emphasis,Academia Emphasis,Religious Frameworks Emphasis
+0,Trust,False,False,False,True,False
+1,Empathy,False,False,True,False,True
+2,Accountability,True,False,False,True,False
+3,Transparency,False,True,True,False,False
+4,Fairness,False,True,False,True,False
+5,Non-Maleficence,False,False,False,True,True
+6,Autonomy,False,True,False,False,False
+7,Inclusivity,False,False,True,False,False
+8,Harmony,True,False,False,False,True
+9,Safety,True,True,False,False,False
+10,Cultural Sensitivity,True,False,False,False,False
+11,Human Dignity,False,False,True,False,True

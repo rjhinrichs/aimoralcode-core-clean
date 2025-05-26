@@ -1,0 +1,8 @@
+Value,Explicit Mentions (Mean),Implicit Mentions (Mean),Dominant Sectors
+Inclusivity,15,20,"NGOs, Academia"
+Trust,20,15,"Industry, Academia"
+Accountability,25,15,"Government, Academia"
+Transparency,30,25,"Industry, NGOs"
+Non-Maleficence,10,20,Religious Frameworks
+Harmony,5,10,"Government, NGOs"
+Safety,20,30,"Government, Industry"

@@ -1,0 +1,5 @@
+Column,Format,Description
+command_protocol,"Start: 'Go cognate_term', Stop: 'Done'",Timing and action trigger protocol for managing card generation and workflow control.
+card_formatting,"Field headings bolded, values on next line",Improves readability and allows efficient triple-click copy/paste into structured spreadsheets.
+breakpoint_reminders,Prompt upload every 10 cards,Data integrity measure ensuring file versions stay synced and milestone completions are archived.
+canonical_definition_formula,Returns #N/A if override = 'not_applicable',Prevents schema error and ensures only valid canonical values generate inherited definitions.

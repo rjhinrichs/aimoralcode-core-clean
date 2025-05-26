@@ -1,0 +1,6 @@
+row_id,cognate_term,value_type,canonical_value_override,canonical_definition,cognate_definition,ethical_tradition,functional_justification,empirical_and_philosophical_justification,philosophical_roots,religious_sources,operational_ai_ethics_translation,sector,sector_weight,subsector,confict_term,time_frame_reference,domain_usage,alignment_layer,layer_interference,layer_interference_justification,interpretive_notes,authoritative_source,epistemic_reference,include_in_UI,language_code,term_generation_status
+21,Duty,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+22,Education,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+23,Efficiency,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+24,Empathy,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+25,Equality,,,,,,,,,,,,,,,,,,,,,,,,,to_review

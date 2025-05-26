@@ -1,0 +1,21 @@
+NBRC Concept,Category,Core Value(s),Rationale for Alignment
+Fairness,Behavioral,"Fairness, Trust","Operational fairness ensures unbiased decision-making, reinforcing trust."
+Transparency,Behavioral,"Transparency, Trust","Behavioral transparency clarifies processes, increasing user confidence and system trust."
+Empathy,Behavioral,"Trust, Fairness",Empathy fosters trust through human-centered design and promotes fairness in outcomes.
+Cultural Sensitivity,Contextual,"Fairness, Transparency",Cultural sensitivity ensures fairness across regions while maintaining global transparency.
+Harmony,Contextual,"Trust, Fairness",Harmony supports collective trust and fairness in decision-making processes.
+Safety (Evaluative),Evaluative,"Non-Maleficence, Accountability",Safety aligns with harm prevention (non-maleficence) and ensures accountability for risks.
+Sustainability (Evaluative),Evaluative,"Non-Maleficence, Trust","Sustainability builds long-term trust while minimizing harm, aligning with non-maleficence."
+Autonomy (Foundational),Foundational,"Accountability, Trust","Autonomy protects individual agency, fostering trust in user-centered AI designs."
+Non-Maleficence (Foundational),Foundational,"Non-Maleficence, Safety","Non-maleficence ensures harm prevention, prioritizing safety in all AI operations."
+Trust (Foundational),Foundational,Trust,"Trust is a foundational value for all ethical systems, reinforced through transparency and accountability."
+Accountability (Normative),Normative,Accountability,Accountability ensures responsibility for ethical and operational outcomes.
+Fairness (Normative),Normative,Fairness,Operational fairness stems from the ethical foundation of justice and equity.
+Justice (Normative),Normative,"Fairness, Accountability",Justice ensures fairness in outcomes and accountability for decisions in AI systems.
+Transparency (Normative),Normative,"Trust, Transparency",Transparency builds trust by enabling explainability and reducing ambiguity in decision-making.
+Bias Mitigation (Operational),Operational,Fairness,"Mitigating bias ensures fairness and equity in AI systems, addressing systemic inequities."
+Inclusivity (Operational),Operational,"Fairness, Trust","Inclusivity promotes diversity and equity, building trust and reinforcing fairness."
+Explainability (Operational),Operational,"Transparency, Trust","Explainability operationalizes transparency, enabling trust in AI decisions."
+Compliance (Regulatory),Regulatory,"Accountability, Transparency","Compliance ensures adherence to legal and ethical standards, reinforcing accountability."
+Auditability (Regulatory),Regulatory,"Accountability, Transparency",Auditability supports transparency and ensures decisions can be traced and reviewed.
+Traceability (Regulatory),Regulatory,"Transparency, Accountability",Traceability underpins regulatory oversight by linking actions to responsible entities.

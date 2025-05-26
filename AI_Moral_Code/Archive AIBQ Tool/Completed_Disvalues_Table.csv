@@ -1,0 +1,21 @@
+disvalue_term,definition,related_value,suppress_in_UI,appears_in_conflict
+Blame-shifting,"Avoiding ownership for actions, typically by redirecting fault to others or external conditions.",Accountability,True,True
+Irresponsibility,"Lack of duty, care, or answerability in one's actions, often resulting in ethical breaches or errors.",Ethical Responsibility,True,True
+Negligence,Failure to act with the care that someone of ordinary prudence would have exercised in a given situation.,Duty,True,True
+Obfuscation,Deliberate hiding or complicating of information to prevent transparency or understanding.,Transparency,True,True
+Opacity,"Lack of clarity, access, or traceability in system processes or ethical reasoning.",Explainability,True,True
+Exploitation,"Taking unfair advantage of individuals, systems, or asymmetries of power for personal or organizational gain.",Dignity,True,True
+Discrimination,Unjust or prejudicial treatment of individuals based on identity attributes or systemic biases.,Fairness,True,True
+Abuse of Power,"The misuse of authority or control to suppress rights, manipulate outcomes, or serve personal interests.",Justice,True,True
+Bias,Systemic or cognitive inclination that skews fair treatment or equal evaluation.,Fairness,True,True
+Manipulation,Covert influence over decisions or perceptions without informed consent.,Trust,True,True
+Deception,Intentional misrepresentation of information to influence perception or behavior.,Transparency,True,True
+Malice,"Deliberate intention to cause harm, injustice, or suffering.",Non-Maleficence,True,True
+Despotism,"Unaccountable, unchecked power exercised without regard for fairness, rights, or justice.",Justice,True,True
+Dishonesty,A pattern of deceit or withholding truth that undermines trust and ethical integrity.,Trust,True,True
+Exclusion,"Systematic or unjust omission of individuals or groups from benefits, rights, or opportunities.",Inclusivity,True,True
+Recklessness,Acting without regard for known risks or foreseeable consequences.,Safety,True,True
+Retaliation,Punitive response aimed at retribution rather than resolution or justice.,Forgiveness,True,True
+Secrecy,"Deliberate withholding of relevant or necessary information, especially where openness is ethically required.",Transparency,True,True
+Dehumanization,"Treating individuals as less than human, often eroding dignity, rights, or ethical worth.",Dignity,True,True
+Domination,Imposing control or authority without mutual consent or ethical justification.,Autonomy,True,True

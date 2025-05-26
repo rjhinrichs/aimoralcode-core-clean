@@ -1,0 +1,9 @@
+Step,Description
+Step,Description
+1. Define Evaluation Dimensions,"Use five core dimensions: Linguistic Proximity, Ethical Function Overlap, Layer Alignment Match, Philosophical Coherence, Corpus Co-occurrence."
+2. Assign Scores (0–1),Rate each canonical value against the new cognate across all dimensions.
+3. Compute Weighted Mean,Combine scores equally or by priority weighting to find the highest alignment score.
+4. NLP Embedding Comparison,Optionally use BERT or RoBERTa cosine similarity between definitions.
+5. Interpret Scores,>= 0.75: Auto-assign canonical; 0.60–0.75: Flag for human review; < 0.60: Redefine or reassess term.
+6. Assign Canonical Value,Map the cognate to the canonical value with highest validated score.
+Example – Agency,Scores highest (0.89 est.) with Autonomy across dimensions. Assigned to canonical_value_override = autonomy.

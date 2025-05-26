@@ -1,0 +1,61 @@
+Value,Sector,Explicit Mentions,Implicit Mentions
+Trust,Government,4,11
+Trust,Industry,18,6
+Trust,NGOs,16,15
+Trust,Academia,20,13
+Trust,Religious Frameworks,17,14
+Empathy,Government,15,1
+Empathy,Industry,1,4
+Empathy,NGOs,9,7
+Empathy,Academia,17,7
+Empathy,Religious Frameworks,0,6
+Accountability,Government,15,10
+Accountability,Industry,11,14
+Accountability,NGOs,15,4
+Accountability,Academia,4,7
+Accountability,Religious Frameworks,8,0
+Transparency,Government,6,8
+Transparency,Industry,10,9
+Transparency,NGOs,13,2
+Transparency,Academia,20,8
+Transparency,Religious Frameworks,11,11
+Fairness,Government,18,1
+Fairness,Industry,12,5
+Fairness,NGOs,19,9
+Fairness,Academia,18,12
+Fairness,Religious Frameworks,10,12
+Non-Maleficence,Government,7,2
+Non-Maleficence,Industry,20,9
+Non-Maleficence,NGOs,18,8
+Non-Maleficence,Academia,1,4
+Non-Maleficence,Religious Frameworks,17,14
+Autonomy,Government,3,1
+Autonomy,Industry,7,15
+Autonomy,NGOs,11,8
+Autonomy,Academia,8,0
+Autonomy,Religious Frameworks,18,1
+Inclusivity,Government,6,1
+Inclusivity,Industry,3,12
+Inclusivity,NGOs,13,10
+Inclusivity,Academia,15,2
+Inclusivity,Religious Frameworks,6,15
+Harmony,Government,4,5
+Harmony,Industry,13,1
+Harmony,NGOs,5,7
+Harmony,Academia,6,12
+Harmony,Religious Frameworks,12,9
+Safety,Government,10,15
+Safety,Industry,20,1
+Safety,NGOs,18,8
+Safety,Academia,5,0
+Safety,Religious Frameworks,5,15
+Cultural Sensitivity,Government,10,11
+Cultural Sensitivity,Industry,20,11
+Cultural Sensitivity,NGOs,18,1
+Cultural Sensitivity,Academia,18,5
+Cultural Sensitivity,Religious Frameworks,1,1
+Human Dignity,Government,7,4
+Human Dignity,Industry,4,2
+Human Dignity,NGOs,19,2
+Human Dignity,Academia,18,7
+Human Dignity,Religious Frameworks,6,6

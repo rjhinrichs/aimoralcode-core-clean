@@ -1,0 +1,29 @@
+title,nrbc,core_values,sectors,summary,score,weight,url
+Justice,,['[TBD]'],['[TBD]'],,2.21,0.66,/values/justice/
+Transparency,Canonical Value | Moral Drive of Accountability and Trust,['[TBD]'],['[TBD]'],"Definition (Stanford + Oxford Synthesis):
+Transparency is the ethical and procedural commitment to making information, decisions, intentions, and systems visible, comprehensible, and reviewable to relevant stakeholders. It requires that data flows, algorithms, institutional logic, and outcomes are not hidden behind obfuscation or complexity. In moral terms, it serves as a prerequisite for informed consent, accountability, and meaningful oversight.
+
+AI Ethics Implications:
+In AI systems, transparency enables:
+
+Interpretability of algorithmic decisions
+
+Auditing of system behavior and outcomes
+
+Detection of bias, drift, or misuse
+
+Democratization of knowledge, reducing power imbalances between developers, regulators, and users
+It is often operationalized through explainable AI (XAI), documentation standards, model cards, and transparent governance logs.",2.06,1.0,/values/transparency/
+Responsibility,Canonical Value | Regulatory and Behavioral Drive,['[TBD]'],['[TBD]'],"Responsibility refers to the obligation of agents—human or artificial—to account for their actions, outcomes, and influence. In AI ethics, this includes role-based accountability, liability chains, and clearly attributed decision pathways.",1.88,0.33,/values/responsibility/
+Non-Maleficence,Canonical Value | Normative Foundation of Safety and Precaution,['[TBD]'],['[TBD]'],"Non-Maleficence is the principle of 'do no harm.' In AI systems, it guides safety constraints, precautionary design, and harm-avoidance in autonomous and high-stakes environments such as healthcare, transport, and law",1.79,1.0,/values/non-maleficence/
+Inclusivity,Canonical Value | Social Ethics Drive,['[TBD]'],['[TBD]'],"Inclusivity is the proactive effort to ensure representation, access, and participation across diverse populations. In AI, it mandates inclusive data sets, accessibility standards, and the prevention of exclusionary or biased system outputs.",1.65,0.33,/values/inclusivity/
+Trust,Canonical Value | Relational and Trustworthiness Norm,['[TBD]'],['[TBD]'],"Trust involves justified reliance on an entity's competence, intention, and consistency. In AI, it relates to user confidence in system reliability, predictability, and alignment with human values.",1.43,0.33,/values/trust/
+Ethical Responsibility,Canonical Value | Meta-Governance and Lifecyce Justification,['[TBD]'],['[TBD]'],"Ethical Responsibility captures the duty to act in morally appropriate ways within the lifecycle of AI. This includes ethical design, deployment, oversight, and decision justification across all actors and stages.",1.36,0.66,/values/ethical-responsibility/
+Privacy,Canonical Value | Privacy Ethics Foundation and System Boundary Enforce,['[TBD]'],['[TBD]'],"Privacy is the right to control personal information and be protected from unwarranted surveillance. In AI ethics, it frames data minimization, consent-based models, and protection against profiling and behavioral inference.",1.29,0.66,/values/privacy/
+Innovation,Canonical Value | Conceptual and System-Level Driver,['[TBD]'],['[TBD]'],"Innovation is the value that drives creative transformation, progress, and responsible experimentation. In AI, it supports the ethical exploration of new capabilities while ensuring alignment with societal values and human oversight.",1.15,0.66,/values/innovation/
+Sustainability,Canonical Value | Environmental and Futures Alignment Layer,['[TBD]'],['[TBD]'],"Sustainability ensures that the development, deployment, and impact of AI systems preserve ecological, economic, and social viability over time. It guides long-term thinking, resource stewardship, and intergenerational responsibility.",1.07,0.66,/values/sustainability/
+Dignity,Canonical Value | Identity and Dignity Protection Layer,['[TBD]'],['[TBD]'],"Dignity upholds the inherent worth of every individual. In AI ethics, it governs design practices that avoid dehumanization, preserve self-respect, and enable equitable treatment regardless of background or status.",1.01,0.66,/values/dignity/
+Collaboration,Canonical Value | Relational and Cooperative Governance Layer,['[TBD]'],['[TBD]'],"Collaboration fosters cooperative intelligence, shared agency, and interdependent decision-making. In AI, it facilitates teamwork between humans and machines, interdisciplinary design, and multistakeholder governance.",0.95,0.33,/values/collaboration/
+Autonomy,Canonical Value | Personal Agency and Consent Enabler,['[TBD]'],['[TBD]'],"Autonomy is the capacity of individuals to act with self-governance and informed consent. In AI, it supports systems that respect user choices, cognitive liberty, and personal sovereignty in interaction.",0.93,0.33,/values/autonomy/
+Human Rights,Canonical Value | Universal Rights Enforcement Layer,['[TBD]'],['[TBD]'],"Human Rights frame the universal entitlements to liberty, privacy, protection, and participation. In AI ethics, they are invoked in algorithmic fairness, surveillance boundaries, and inclusion in decision processes.",0.88,0.66,/values/human-rights/
+Beneficence,Canonical Value | Human Welfare and Well-being Driver,['[TBD]'],['[TBD]'],"Beneficence commits to promoting well-being, welfare, and positive outcomes. In AI design, this principle underlies systems that enhance health, education, prosperity, and human flourishing.",0.82,0.33,/values/beneficence/

@@ -1,0 +1,7 @@
+"Metric","Description","Score","Weight","Weighted_Score"
+"Transparency Indicators","Degree of adherence to principles of openness and traceability in AI applications.",4,0.8,3.2
+"Algorithmic Fairness","Quantifiable reduction in biases related to socioeconomic, geographic, or demographic factors.",3,0.7,2.1
+"Inclusivity Measures","Measures targeting the inclusion of underrepresented groups and regional balance.",4,0.8,3.2
+"Public Trust Gains","Metrics from surveys gauging trust in AI implementations across key sectors.",3,0.7,2.1
+"Compliance Rates","Percentage of national AI initiatives complying with international ethical standards.",4,0.8,3.2
+"Governability Measures","Evaluation of mechanisms ensuring AI systems can be deactivated or controlled effectively.",5,0.9,4.5

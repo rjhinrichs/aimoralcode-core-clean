@@ -1,0 +1,251 @@
+Researcher,Name of Document/Website,Issuer,Country of Issuer,Date of Issue,Focus Area,Alignment,Gaps,Sector,URL,Values,Unnamed: 11
+Hinrichs,"African Union’s Continental Strategy for AI
+",African Executive Council in 2024 Endorsement,Africa,2024,"Harnessing AI's Benefits. Building AI Capabilities: Minimizing Risks, Stimulating Investment, Fostering Cooperation",,,Government,https://au.int/en/documents/20240809/continental-artificial-intelligence-strategy,,*******
+Hinrichs,Australia’s AI Ethics Framework,,Australia,2019,"Establishing principles to ensure the responsible design, development, and use of AI. The framework emphasizes human-centric values, fairness, transparency, privacy protection, and accountability. It encourages innovation while minimizing risks and ensuring AI benefits society. It also provides guidance for businesses and policymakers on ethical AI adoption.",,,Government,,"Privacy, Transparency",*******
+Jobin,Artificial Intelligence. Australia’s Ethics Framework: A Discussion Paper,Department of Industry Innovation and Science,Australia,4/1/2019 0:00,"Outlines principles for responsible AI development and deployment, emphasizing fairness, transparency, and accountability. The framework provides guidance to industry and government on addressing ethical challenges while fostering innovation.",,,,,Transparency,*******
+Hinrichs,University of Sydney,Sydney Artificial Intelligence Centre,Australia,on-going,"Cutting-edge research on fundamental AI and its applications.Fairness, accountability, and transparency",,,Academia,https://www.sydney.edu.au/engineering/our-research/data-science-and-computer-engineering/sydney-artificial-intelligence-centre.html,Transparency,*******
+Hinrichs,Brazil’s AI Strategy,,Brazil,4/1/2021 0:00,"Developing a comprehensive national AI strategy aimed at fostering innovation, ethical governance, and economic growth through AI. The strategy emphasizes capacity building, education, transparency, and privacy. It also promotes the integration of AI across public and private sectors to address societal challenges while ensuring adherence to ethical standards.",,,Government,,"Privacy, Transparency",*******
+Hinrichs,Montreal Declaration for Responsible AI,University of Montreal,Canada,2018,,,,Academia,,,*******
+Hinrichs,Canada’s Directive on Automated Decision-Making,,Canada,2019,,,,Government,,,*******
+Jobin,Montréal Declaration: Responsible AI,Université de Montréal,Canada,12/1/2018 0:00,"Advocates for a human-centered approach to AI, emphasizing principles such as fairness, autonomy, and solidarity. It aims to guide ethical AI development and ensure its societal benefits outweigh risks.",,,,,Solidarity,*******
+Hinrichs,University of Toronto,Department of Computer Science,Canada,on-going,"Department/Program: Schwartz Reisman Institute for Technology and Society. Research on dignity, human rights, and responsible innovation. Departments Cognitive robotics, computational imaging, computational linguistics and NLP, knowledge representation, machine learning and robotics",,,Academia,https://web.cs.toronto.edu/research/artificial-intelligence,Dignity,*******
+Hinrichs,"China’s New Generation AI Development Plan. 
+National Governance Committee for the New Generation Artificial Intelligence. (2021). ",,China,2017,"The China’s New Generation AI Development Plan was first released in 2017 by the Chinese government and serves as a national strategic framework to position China as a global leader in AI by 2030. The National Governance Committee for the New Generation Artificial Intelligence, established later, contributes to this plan by focusing specifically on governance, ethical guidelines, and regulatory frameworks for AI. The 2021 updates reflect the evolution and refinement of this broader strategy, incorporating governance measures to align AI advancements with societal and ethical principles.
+
+Key Components:
+China’s New Generation AI Development Plan (2017):
+
+Focused on technological innovation, industrial integration, and societal applications of AI.
+Aimed at achieving global AI leadership by 2030.
+National Governance Committee’s Contribution (2021):
+
+Emphasized agile governance frameworks, ethical AI principles, and risk management.
+Aimed at addressing the societal, ethical, and regulatory challenges of AI technologies.
+Thus, the two references represent different aspects of the same strategic plan, with the 2021 governance updates building upon the original 2017 framework.",,,Government,"https://www.most.gov.cn/kjbgz/202109/t20210926_177063.html
+",,*******
+Hinrichs,Alibaba’s AI for Good Framework,Alibaba,China,2018,"Alibaba's framework focuses on leveraging AI for societal benefits, such as poverty alleviation, disaster response, and environmental sustainability. It prioritizes fairness, inclusivity, and ethical responsibility, ensuring AI technologies contribute positively to global challenges.",,,Industy,,Sustainability,*******
+Hinrichs,Baidu’s AI Ethics Guidelines,Baidu,China,2018,"Promoting the responsible use of AI technologies aligned with societal values. The guidelines focus on safety, fairness, inclusivity, and mitigating potential harms of AI. They emphasize the development of transparent and interpretable AI systems to ensure trustworthiness and ethical alignment.",,,Industy,,Trust,*******
+Hinrichs,Buddhist Ethical AI Approaches,Buddhist,China,on-going,"Discussions center on compassion, mindfulness, and the reduction of suffering, applying ethical mindfulness (Sila) to AI design and governance.",,,Religion,,,*******
+Hinrichs,Confucian-Inspired AI Ethics (East Asia),Confucian,China,on-going,"Emphasizes harmony, relational ethics, and respect for hierarchical structures, aligning AI with collective well-being and societal harmony.",,,Religion,,,*******
+Hinrichs,Peking University,,China,on-going,"Focuses on the societal implications of AI, including fairness, inclusivity, and regulatory strategies.",,,Academia,,,*******
+Hinrichs,Shanghai Jiao Tong University,,China,on-going,"Studies in data privacy, transparency, and cultural implications of AI systems.",,,Academia,,"Privacy, Transparency",*******
+Hinrichs,Tsinghua University,,China,on-going,"Research on AI governance, global cooperation, and ethical guidelines aligned with China’s New Generation AI Development Plan.",,,Academia,,,*******
+Floridi,Ethically Aligned Design: Version 2,IEEE,USA,12/1/2017 0:00,Crowd-sourced by 250 global thought leaders for the ethical design of autonomous systems.,,,,,,*******
+Floridi,Montreal Declaration for Responsible AI,University of Montreal,Canada,11/1/2017 0:00,"Emphasizes the socially responsible development of AI. Declaration focusing on fairness, public interest, and autonomy",,,,,,*******
+Floridi,Asilomar AI Principles,Future of Life Institute,USA,1/1/2017 0:00,,,,,,,*******
+Jobin,Position on Robotics and Artificial Intelligence,The Greens (Green Working Group Robots),EU,2016,,,,,,,*******
+Jobin,Report with Recommendations to the Commission on Civil Law Rules on Robotics,European Parliament,EU,2/1/2017 0:00,,,,,,,*******
+Jobin,"AI4People—An Ethical Framework for a Good AI Society: Opportunities, Risks, Principles, and Recommendations",AI4People,EU,11/1/2018 0:00,"Proposes an ethical framework for AI development, emphasizing beneficence, non-maleficence, justice, autonomy, and explicability. It advocates for creating human-centric AI that promotes societal well-being while mitigating risks.",,,,,"Beneficence, Non-maleficence",*******
+Jobin,European Ethical Charter on the Use of Artificial Intelligence in Judicial Systems and Their Environment,Council of Europe: European Commission for the Efficiency of Justice (CEPEJ),EU,12/1/2018 0:00,"Focuses on the ethical deployment of AI in judicial systems, emphasizing principles such as human oversight, transparency, fairness, and accountability. It aims to ensure AI supports judicial decision-making without undermining fundamental rights.",,,,,Transparency,*******
+Jobin,Ethics Guidelines for Trustworthy AI,High-Level Expert Group on Artificial Intelligence,EU,4/1/2019 0:00,"Developed by the European Union, this framework identifies principles such as human agency, privacy, transparency, accountability, and sustainability to ensure AI systems are trustworthy and aligned with societal values.",,,,,"Trust, Privacy, Sustainability, Transparency",*******
+Hinrichs,GDPR,,European Union,2016,"Protecting privacy and personal data rights across the European Union. It emphasizes transparency, accountability, and user consent in the collection, processing, and storage of data. It provides a framework for addressing ethical concerns in AI systems, such as ensuring data integrity, fairness, and legal compliance.",,,Government,,"Privacy, Transparency",*******
+Hinrichs,AI4People (European Academic Initiative),"EISMD European Institute for Science, Media, and Democracy",European Union,2018,"Responsible AI development and deployment, focusing on human-centric values and societal impact. A European initiative that proposes an ethical framework emphasizing principles such as beneficence, non-maleficence, autonomy, justice, and explicability.",,,Academia,"http://eismd.eu
+https://www.eismd.eu/wp-content/uploads/2019/02/Ethical-Framework-for-a-Good-AI-Society.pdf","Beneficence, Non-maleficence",*******
+Hinrichs,Council of Europe’s CAHAI Report,,European Union,2020,"The Council of Europe’s CAHAI Report (Ad Hoc Committee on Artificial Intelligence) focuses on establishing a legal and ethical framework for human-centric AI that upholds human rights, democracy, and the rule of law. Key areas include:
+
+Human Rights Protection: Ensuring that AI systems respect fundamental human rights and do not lead to discrimination or harm.
+Democracy: Addressing the implications of AI for democratic processes, such as electoral integrity and freedom of expression.
+Accountability and Transparency: Developing mechanisms to ensure AI systems are explainable, auditable, and accountable to users and society.
+Ethical AI Development: Proposing guidelines to balance innovation with societal values, focusing on trust, fairness, and inclusivity.
+The report seeks to guide AI governance through international collaboration and interdisciplinary approaches.",,,Government,,"Trust, Transparency",*******
+"Hinrichs, Jobin, Floridi",EU AI Act,European Union,European Union,2021,"Prioritizes a risk-based approach to AI regulation, emphasizing transparency and human oversight while addressing compliance through stringent legal requirements. Primary Goal: Regulation and public trust. Secondary: Regulatory compliance, human rights, societal well-being, and public trust. Strong emphasis on transparency, accountability, fairness and privacy.",,"Human Centric Approach, risk-based regulation, transparency and accountability, ethical and legal compliance, international cooperation, support for innovation, AI Office. Implementation challenges, resource allocation, data availability and quality, ethical and legal compliance, global competiton, public trust and acceptance, interdisciplinary collaboration, sustainability. AI Act, civil liability framework, sectoral safety legislation, data governance act, general-purpose AI code of practice",Government,,"Trust, Privacy, Transparency",*******
+"Hinrichs, Jobin, Floridi",EU AI Act,European Union,European Union,2024,"Prioritizes a risk-based approach to AI regulation, emphasizing transparency and human oversight while addressing compliance through stringent legal requirements. Primary Goal: Regulation and public trust. Secondary: Regulatory compliance, human rights, societal well-being, and public trust. Strong emphasis on transparency, accountability, fairness and privacy.",,"Human Centric Approach, risk-based regulation, transparency and accountability, ethical and legal compliance, international cooperation, support for innovation, AI Office. Implementation challenges, resource allocation, data availability and quality, ethical and legal compliance, global competiton, public trust and acceptance, interdisciplinary collaboration, sustainability. AI Act, civil liability framework, sectoral safety legislation, data governance act, general-purpose AI code of practice",Government,,"Trust, Privacy, Transparency",*******
+Jobin,Commitments and Principles,OP Group,Finland,2018,,,,,,,*******
+Jobin,"Work in the Age of Artificial Intelligence. Four Perspectives on the Economy, Employment, Skills and Ethics",Ministry of Economic Affairs and Employment,Finland,2018,,,,,,,*******
+Jobin,Tieto’s AI Ethics Guidelines,Tieto,Finland,2019,,,,,,,*******
+Jobin,Ethique de la Recherche en Robotique,CERNA (Allistene),France,11/1/2014 0:00,,,,,,,*******
+Jobin,How Can Humans Keep the Upper Hand? Report on the Ethical Matters Raised by AI Algorithms,French Data Protection Authority (CNIL),France,12/1/2017 0:00,,,,,,,*******
+Jobin,For a Meaningful Artificial Intelligence. Towards a French and European Strategy,Mission Villani,France,3/1/2018 0:00,,,,,,,*******
+Jobin,AI Guidelines,Deutsche Telekom,Germany,2018,,,,,,,*******
+Hinrichs,SAP’s Guiding Principles for AI Ethics,SAP,Germany,2018,,,,Industy,,,*******
+Hinrichs,German Data Ethics Commission Report,,Germany,2019,"Developing ethical and legal guidelines for data use and AI governance. It focuses on transparency, accountability, data security, and algorithmic fairness, ensuring that AI technologies uphold societal values and comply with fundamental rights. The report also addresses the ethical implications of AI in automated decision-making.",,,Government,,Transparency,*******
+Jobin,Automated and Connected Driving: Report,"Federal Ministry of Transport and Digital Infrastructure, Ethics Commission",Germany,6/1/2017 0:00,,,,,,,*******
+Jobin,SAP’s Guiding Principles for Artificial Intelligence,SAP,Germany,9/1/2018 0:00,"SAP emphasizes fairness, accountability, transparency, and user trust in AI systems. Their principles guide AI deployment to align with ethical standards while enhancing business productivity.",,,,,"Trust, Transparency",*******
+Hinrichs,G20 AI Principles,,Global,2019,"Establishing global standards for human-centric AI that emphasizes fairness, accountability, transparency, and inclusivity. These principles align with the OECD AI Principles and focus on ensuring innovation while protecting human rights, fostering international collaboration, and minimizing risks associated with AI technologies.",,,Government,,Transparency,*******
+Hinrichs,OECD AI Principles,,Global,2019,,,,Government,https://oecd.ai/en/dashboards/ai-principles,,*******
+Hinrichs,UNESCO’s Recommendation on the Ethics of AI,UNESCO,Global,2021,"The UNESCO AI Recommendations set global ethical standards for AI by promoting inclusivity, sustainability, human rights, and societal well-being. These recommendations serve as both a guiding framework for international cooperation and a foundation for developing governmental regulations that align AI with these ethical principles.",,,Government,,Sustainability,*******
+Hinrichs,World Council of Churches’ AI Ethics Statement,The World Council of Churches,Global,2021,"Advocates for fairness, transparency, and human dignity, emphasizing the relational aspect of technology.",,,Religion,,"Dignity, Transparency",*******
+Jobin,Ethics Policy,Icelandic Institute for Intelligent Machines (IIIM),Iceland,2017,,,,,,,*******
+Hinrichs,"National Strategy for Artificial Intelligence (2018), developed by ",NITI Aayog and Digital Personal Data Protection Bill (2023),India,2018,"NITI Aayog. (2018). National strategy for artificial intelligence: #AIforAll. Government of India. Retrieved from https://www.niti.gov.in
+
+Ministry of Electronics and Information Technology, Government of India. (2023). The Digital Personal Data Protection Bill, 2023. Retrieved from https://www.meity.gov.in",,,Government,,,*******
+Jobin,Discussion Paper: National Strategy for Artificial Intelligence,National Institution for Transforming India (NITI Aayog),India,6/1/2018 0:00,"Outlines India’s vision for AI to promote growth, innovation, and ethical governance while addressing societal challenges. It emphasizes capacity building, transparency, inclusivity, and policy frameworks for AI adoption.",,,,,Transparency,*******
+Hinrichs,Hindu Perspectives on AI Ethics,Hindu,India,on-going,"Emerging positions focus on harmony, interconnectedness, and the minimization of harm, inspired by principles like Ahimsa (non-violence) and Dharma (moral duty).",,,Religion,,,*******
+Hinrichs,Indian Institute of Science (IISc) Bangalore,,India,on-going,,,,Academia,,,*******
+Hinrichs,Indian Institute of Technology (IIT) Delhi,,India,on-going,"Focuses on inclusive innovation, ethical AI for societal applications, and fairness in algorithmic decision-making.",,,Academia,,,*******
+Hinrichs,Indraprastha Institute of Information Technology (IIIT) Delhi,,India,on-going,"Research on ethical AI design, privacy, and algorithmic fairness.",,,Academia,,Privacy,*******
+Hinrichs,Sikh Contributions to AI Ethics,Sikh,India,on-going,"Emphasizes service (Seva), equality, and justice, advocating for AI to be a tool for inclusivity and societal upliftment.",,,Religion,,,*******
+Jobin,Ethical Principles for Artificial Intelligence and Data Analytics,"Software & Information Industry Association (SIIA), Public Policy Division",International,2017,,,,,,,*******
+Jobin,ITI AI Policy Principles,Information Technology Industry Council (ITI),International,2017,,,,,,,*******
+Jobin,Artificial Intelligence: Open Questions About Gender Inclusion,W20,International,2018,,,,,,,*******
+Jobin,Artificial Intelligence and Machine Learning: Policy Paper,Internet Society,International,5/1/2017 0:00,,,,,,,*******
+Jobin,Report of COMEST on Robotics Ethics,UNESCO/COMEST,International,9/1/2017 0:00,"The UNESCO AI Recommendations, referenced by both Jobin and Hinrichs, represent a globally endorsed framework promoting ethical AI development. Jobin focuses on the ""Report of COMEST on Robotics Ethics,"" which explores foundational ethical principles for AI systems. Hinrichs emphasizes the broader 2021 recommendations, which integrate human rights, cultural inclusivity, and environmental sustainability, aligning AI ethics with the UN's Sustainable Development Goals.",,,,,Sustainability,*******
+Jobin,"Ethically Aligned Design. A Vision for Prioritizing Human Well-being with Autonomous and Intelligent Systems, Version 2","Institute of Electrical and Electronics Engineers (IEEE), The IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems",International,12/1/2017 0:00,,,,,,,*******
+Jobin,Top 10 Principles for Ethical Artificial Intelligence,UNI Global Union,International,12/1/2017 0:00,,,,,,,*******
+Jobin,"Malicious Use of Artificial Intelligence: Forecasting, Prevention, and Mitigation",Future of Humanity Institute; University of Oxford; Centre for the Study of Existential Risk; University of Cambridge; Center for a New American Security; Electronic Frontier Foundation; OpenAI,International,2/1/2018 0:00,,,,,,,*******
+Jobin,White Paper: How to Prevent Discriminatory Outcomes in Machine Learning,"WEF, Global Future Council on Human Rights 2016-2018",International,3/1/2018 0:00,,,,,,,*******
+Jobin,Privacy and Freedom of Expression in the Age of Artificial Intelligence,Privacy International & Article 19,International,4/1/2018 0:00,,,,,,Privacy,*******
+Jobin,Charlevoix Common Vision for the Future of Artificial Intelligence,Leaders of the G7,International,6/1/2018 0:00,,,,,,,*******
+Jobin,Declaration on Ethics and Data Protection in Artificial Intelligence,ICDPPC,International,10/1/2018 0:00,"Developed by the ICDPPC, this declaration focuses on privacy, human rights, and ensuring fairness in AI-driven data processing. It provides guidelines for ethical data protection in AI systems.",,,,,Privacy,*******
+Jobin,Universal Guidelines for Artificial Intelligence,The Public Voice,International,10/1/2018 0:00,"Provides a global framework for human-centric AI governance, focusing on accountability, transparency, fairness, and mitigating risks. It aims to ensure ethical AI deployment across sectors.",,,,,Transparency,*******
+Jobin,"Ethically Aligned Design: A Vision for Prioritizing Human Well-being with Autonomous and Intelligent Systems, First Edition (EAD1e)","Institute of Electrical and Electronics Engineers (IEEE), The IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems",International,3/1/2019 0:00,"Developed by IEEE, it provides a comprehensive framework for ensuring that AI systems prioritize human well-being. It emphasizes transparency, accountability, privacy, and inclusivity in the design and deployment of AI technologies.",,,,,"Privacy, Transparency",*******
+Jobin,Ethics of AI in Radiology: European and North American Multisociety Statement,"Radiology Societies: American College of Radiology, European Society of Radiology, RSNA, SIIM, ESMI, CAR, and AAPM.",International,10/1/2019 0:00,"Addresses the ethical, social, and regulatory considerations of AI applications in healthcare. Emphasizes privacy, safety, accountability, and ensuring equitable access to AI-driven health innovations.",,,,,Privacy,*******
+Jobin,Toronto Declaration: Protecting the Right to Equality and Non-discrimination in Machine Learning Systems,Access Now; Amnesty International,International,Mary 2018,"Advocates for the protection of human rights in AI and machine learning systems, particularly the right to equality and non-discrimination. It emphasizes transparency, accountability, and the mitigation of bias in AI systems. Co-developed by organizations like Amnesty International, it highlights the risks of algorithmic discrimination and the need for frameworks to uphold fairness and inclusivity.",,,,,Transparency,*******
+Hinrichs,Islamic Ethical AI Guidelines,Islamic,Islam,on-going,"Draws from Islamic philosophy to emphasize fairness, societal benefit, and the prevention of harm in AI systems.",,,Religion,,,*******
+Hinrichs,Israel’s AI National Policy,,Israel,2021,,,,Government,,,*******
+Hinrichs,Jewish Ethics in AI (Shalom Center),Judiasm,Israel,on-going,"Discusses equity, fairness, and justice, rooted in Jewish ethical traditions and responsibilities.",,,Religion,,,*******
+Hinrichs,Vatican’s Rome Call for AI Ethics,The Vatican,Italy,2020,"Focuses on transparency, accountability, and inclusion, aligning AI with human dignity and ethical principles.",,,Religion,https://romecall.org/,"Dignity, Transparency",*******
+Jobin,L’intelligenza Artificiale al Servizio del Cittadino,Agenzia per l’Italia Digitale (AGID),Italy,3/1/2018 0:00,,,,,,,*******
+Hinrichs,"Japan's AI Principles (METI)
+Japan's Approach to AI Regulation and Its Impact on the 2023 G7 Presidency
+CSIS - Center for Strategic & International Studies
+The Japanese Society for Artificial Intelligence Ethical Guidelines","METI, CSIS",Japan,2017,Human-Centric AI Principles. Based on Social Principles of Human-Centric AI. ,,"Agile Governance: Japan emphasizes agile governance, a flexible and multistakeholder process, as a fundamental policy for digital society. This approach ensures that AI regulations are continuously updated to keep pace with technological advancements.",Government,"https://www.csis.org/analysis/japans-approach-ai-regulation-and-its-impact-2023-g7-presidency#:~:text=In%202019%2C%20the%20Japanese%20government%20published%20the%20Social,philosophies%3A%20human%20dignity%2C%20diversity%20and%20inclusion%2C%20and%20sustainability.",,*******
+Hinrichs,AI and Society Research Group. Key ,University of Tokyo,Japan,2020,"Research on inclusivity, safety, and regulatory alignment",,,Academia,,,*******
+Jobin,Report on Artificial Intelligence and Human Society,Advisory Board on Artificial Intelligence and Human Society (initiative of the Minister of State for Science and Technology Policy),Japan,3/1/2017 0:00,,,,,,,*******
+Jobin,Draft AI R&D Guidelines for International Discussions,"Institute for Information and Communications Policy (IICP), The Conference toward AI Network Society",Japan,7/1/2017 0:00,"Reflect a human-centric philosophy, emphasizing cultural harmony, ethical adaptability, and agile governance.
+Stresses the integration of AI with societal and cultural values.",,,,,,*******
+Jobin,Sony Group AI Ethics Guidelines,Sony,Japan,9/1/2018 0:00,"Sony’s guidelines focus on developing AI systems that are human-centric, inclusive, and aligned with societal values. They stress fairness, transparency, and fostering trust in AI technologies.",,,,,"Trust, Transparency",*******
+Hinrichs,Japanese Society for Artificial Intelligence,,Japan,"1991, on-going","Reflect a human-centric philosophy, emphasizing cultural harmony, ethical adaptability, and agile governance.
+Stresses the integration of AI with societal and cultural values.",,,The Japanese Society for Artificial Intelligence Ethical Guidelines,,,*******
+"Floridi, Hinrichs, Jobin",Partnership on AI’s Principles,Partnership on AI,Multi-stakeholder based in USA,2016,"The Partnership on AI Principles or Tenets, referenced by Floridi, Hinrichs, and Jobin, promote fairness, transparency, accountability, and safety-critical AI development through collaboration among academics, researchers, civil society organizations, and companies. Each researcher emphasizes its multi-stakeholder approach, with Floridi analyzing its ethical depth, Hinrichs underscoring its broad principles, and Jobin noting its collective development process.",,,Industy,https://partnershiponai.org/tenets/,Transparency,*******
+Jobin,Principles for Accountable Algorithms and a Social Impact Statement for Algorithms,"Fairness, Accountability, and Transparency in Machine Learning (FATML)",,2017,,,,,,,*******
+Jobin,10 Principles of Responsible AI,Women Leading in AI,,2018,,,,,,,
+Jobin,Dutch Artificial Intelligence Manifesto,"Special Interest Group on Artificial Intelligence (SIGAI), ICT Platform Netherlands (IPN)",Netherlands,10/1/2017 0:00,,,,,,,*******
+Jobin,Human Rights in the Robot Age Report,The Rathenau Institute,Netherlands,12/1/2017 0:00,,,,,,,*******
+Hinrichs,Nordic-Baltic Region’s AI Declaration,,Nordic Countries,2018,,,,Government,,,*******
+Jobin,Artificial Intelligence and Privacy,The Norwegian Data Protection Authority,Norway,1/1/2018 0:00,,,,,,Privacy,*******
+Floridi,"AI in the UK: Ready, Willing, and Able?",UK House of Lords Artificial Intelligence Committee,Offers five overarching principles for an AI code in the UK.,4/1/2018 0:00,Advocates for governance and readiness in AI adoption within the UK.,,,,,,*******
+"Floridi, Jobin","Statement on Artificial Intelligence, Robotics and ‘Autonomous’ Systems",European Commission’s European Group on Ethics in Science and New Technologies,Provides ethical principles for AI and robotics.,3/1/2018 0:00,"The Statement on Artificial Intelligence, Robotics, and ‘Autonomous’ Systems by the European Group on Ethics in Science and New Technologies (2018) is a foundational document in AI ethics. Jobin underscores its role in advancing principles like transparency, accountability, and non-maleficence, framing it within the global landscape of AI guidelines. Floridi integrates this document into his comparative analysis, emphasizing its alignment with traditional bioethical principles while advocating for the inclusion of explicability to address the unique challenges posed by AI systems.",,,,,"Non-maleficence, Transparency",*******
+Hinrichs,University of Edinburgh,"AI and its Applications Institute (AIAI), School of Informatics",Scotland,on-going,"Research on AI foundations and applications across various domains. Justice, inclusivity, and societal implications of AI",,,Academia,https://www.aiai.ed.ac.uk/,,*******
+Hinrichs,Singapore Model AI Governance Framework,,Singapore,2019,,,,Government,,,*******
+Jobin,Discussion Paper on Artificial Intelligence (AI) and Personal Data—Fostering Responsible Development and Adoption of AI,Personal Data Protection Commission Singapore,Singapore,6/1/2018 0:00,"Offers practical and adaptable business guidelines, focusing on managing risks and fostering inclusivity in AI deployment.
+Positions itself as a leader in creating implementation-ready ethical AI tools.",,,,,,*******
+Hinrichs,National University of Singapore (NUS),,Singapore,on-going,"Cultural diversity, fairness, and ethical AI development",,,Academia,,,*******
+Hinrichs,South Korea’s AI National Strategy,,South Korea,2019,,,,Government,"[1] Ministry of Science and ICT, National Guidelines for AI Ethics, Korea Information Society Development Institute (KISDI), 2020. [Online]. Available: https://ai.kisdi.re.kr/eng/main/contents.do?menuNo=500011.
+[2] Government of South Korea, Framework Act on the Development of Artificial Intelligence and Establishment of Trust Foundation, National Assembly of South Korea, Dec. 2024. [Online]. Available: https://iapp.org/news/a/analyzing-south-korea-s-framework-act-on-the-development-of-ai.",,*******
+Jobin,Mid- to Long-Term Master Plan in Preparation for the Intelligent Information Society,Government of the Republic of Korea,South Korea,5/1/2017 0:00,,,,,,,*******
+Hinrichs,Russia’s AI Strategy 2030,,Soviet Union,2019,,,,Government,,,*******
+Jobin,AI Principles of Telefónica,Telefónica,Spain,10/1/2018 0:00,"Telefónica’s principles emphasize transparency, accountability, and ethical AI usage. They include commitments to privacy protection, inclusivity, and creating socially beneficial AI systems.",,,,,"Privacy, Transparency",*******
+Hinrichs,ETH Zurich,ETH Zurich,Switzerland,on-going,"Sustainability, accountability, human centered design",,,Academia,,Sustainability,*******
+Hinrichs,NVIDIA’s Ethical AI Approach,NVIDIA,Taiwan,2020,,,,Industy,,,*******
+Jobin,AI Principles & Ethics,Smart Dubai,UAE,Jauary 2019,"Establishing guidelines for the ethical use of AI in public services. These principles prioritize fairness, transparency, accountability, and inclusivity while ensuring that AI technologies align with Dubai’s goals for improving governance and quality of life. They also emphasize the importance of engaging stakeholders to build trust and foster innovation.",,,,,"Trust, Transparency",*******
+Jobin,Ethics of Code: Developing AI for Business with Five Core Principles,Sage,UK,2017,,,,,,,*******
+Jobin,Ethics Framework: Responsible AI,Machine Intelligence Garage Ethics Committee,UK,2018,,,,,,,*******
+Jobin,Responsible AI and Robotics. An Ethical Framework.,Accenture UK,UK,2018,,,,,,,*******
+Jobin,Responsible AI Framework,PricewaterhouseCoopers UK,UK,2019,,,,,,,*******
+Jobin,Machine Learning: The Power and Promise of Computers that Learn by Example,The Royal Society,UK,4/1/2017 0:00,,,,,,,*******
+Jobin,"Big Data, Artificial Intelligence, Machine Learning and Data Protection",Information Commissioner’s Office,UK,9/1/2017 0:00,,,,,,,*******
+Jobin,"AI in the UK: Ready, Willing and Able?","UK House of Lords, Select Committee on Artificial Intelligence",UK,4/1/2018 0:00,,,,,,,*******
+Jobin,Initial Code of Conduct for Data-Driven Health and Care Technology,UK Department of Health & Social Care,UK,9/1/2018 0:00,"Provides ethical guidelines for using AI and data-driven technologies in healthcare. Key principles include privacy, data security, transparency, and ensuring patient welfare.",,,,,"Privacy, Transparency",*******
+Jobin,"Ethical, Social, and Political Challenges of Artificial Intelligence in Health",Future Advocacy,UK,10/1/2018 0:00,"Highlights challenges in integrating AI into healthcare, including data privacy, equity, transparency, and ethical decision-making. It advocates for inclusive governance to address disparities in AI adoption.",,,,,"Privacy, Transparency",*******
+Jobin,Business Ethics and Artificial Intelligence,Institute of Business Ethics,UK,11/1/2018 0:00," Explores the ethical considerations for integrating AI into business practices. It emphasizes accountability, transparency, fairness, and the role of corporate governance in ensuring AI aligns with societal values. It also addresses ethical risks, including bias and privacy concerns, in AI-driven decision-making.",,,,,"Privacy, Transparency",*******
+Jobin,Artificial Intelligence (AI) in Health,Royal College of Physicians,UK,5/1/2019 0:00,"Addresses the ethical, social, and regulatory considerations of AI applications in healthcare. Emphasizes privacy, safety, accountability, and ensuring equitable access to AI-driven health innovations.",,,,,Privacy,*******
+Jobin,Principles of Robotics,Engineering and Physical Sciences Research Council UK (EPSRC),UK,Aprl 2011,"Developed by the UK’s Engineering and Physical Sciences Research Council (EPSRC), these principles provide a framework for the ethical design and deployment of robots. They emphasize the importance of human oversight, accountability, transparency, and ensuring that robots are used to benefit society rather than harm it. The principles also outline the need for fairness, data privacy, and alignment with societal values.",,,,,"Privacy, Transparency",*******
+Hinrichs,UAE’s National AI Strategy 2031,United Arab Emirates,United Arab Emirates,2017,,,,Government,,,*******
+"Hinrichs, Jobin",DeepMind’s Ethics and Society Principles,Google,United Kingdeom,10/1/2017 0:00,"DeepMind’s Ethics and Society Principles, issued by Google’s UK-based DeepMind in October 2017, focus on ethical AI development with an emphasis on fairness, transparency, and societal impact. While DeepMind is headquartered in the UK, its parent company, Alphabet, is based in the USA, contributing to a global perspective on ethical AI.",,,Industy,,Transparency,*******
+Hinrichs,National AI Strategy,United Kingdom,United Kingdom,9/1/2021 0:00,"This 10-year plan aims to position the UK as a global leader in AI by focusing on three core pillars:
+
+Investing in the Long-Term Needs of the AI Ecosystem: This involves sustained support for AI research, development, and innovation to maintain the UK's status as a science and AI superpower.
+
+Ensuring AI Benefits All Sectors and Regions: The strategy emphasizes the integration of AI across various industries and regions, ensuring that the advantages of AI are distributed equitably throughout the country.
+Governing AI Effectively: Establishing a regulatory framework that promotes innovation while safeguarding public trust and aligning with fundamental values is a key component of the strategy.",,,Government,,Trust,*******
+Hinrichs,AI Opportunities Action Plan,UK Government,United Kingdom,1/1/2025 0:00,"This plan outlines 50 recommendations to enhance the UK's AI capabilities, including:
+
+Sovereign AI Development: Plans to increase AI computing power twentyfold by 2030 through the development of a new supercomputer and the establishment of a national data library.
+
+Private Sector Support: Creation of ""AI growth zones"" to facilitate the development of data centers, recruitment of elite AI talent, and support for the emergence of ""national champion"" AI companies.
+
+Public Sector Integration: Implementation of AI-powered public services to improve efficiency and reduce costs.
+
+Energy Considerations: Ensuring that AI growth is powered by clean energy, with investments in renewable sources and small nuclear reactors.
+Copyright Regime Overhaul: Adjustments to the UK's copyright laws to enhance AI competitiveness, including provisions for the use of copyrighted material with opt-out options for creators.",,,,,,
+Hinrichs,Alan Turing Institute,,United Kingdom,ongoing,"The UK’s national institute for AI and data science focuses on foundational and applied AI research to address societal challenges. Key areas include ethics, fairness, transparency, and the governance of AI systems. It emphasizes interdisciplinary collaboration to create AI systems that are trustworthy, beneficial, and aligned with public interest.",,,Academia,,"Trust, Transparency",*******
+Hinrichs,Oxford’s Governance of AI Program. Key ,University of Oxford,United Kingdom,on-going,"Research on global coordination, safety, and fairness",,,Academia,,,*******
+Hinrichs,White House Blueprint for an AI Bill of Rights (U.S.),,United States,2022,,,,Government,,,*******
+Hinrichs,Asilomar AI Principles,Future of Life Institute,Unknown,2017,"Cross referenced as The future of Life Institute's Asilomar AI Principles A set of 23 principles aimed at guiding AI development towards beneficial outcomes, covering research issues, ethics and values, and longer-term issues.",,,Industy,https://futureoflife.org/ai-principles/,,*******
+Hinrichs,PwC’s Responsible AI Toolkit,PwC,Unknown,2021,,,,Industy,,,*******
+Hinrichs,Responsible AI Collaborative (Joint Industry Initiative),Unknown,Unknown,on-going,,,,Industy,,,*******
+Jobin,AI Now Report. The Social and Economic Implications of Artificial Intelligence Technologies in the Near-Term,AI Now Institute,USA,2016,,,,,,,*******
+Jobin,AI Now 2017 Report,AI Now Institute,USA,2017,,,,,,,*******
+Jobin,Artificial Intelligence. The Public Policy Opportunity,Intel Corporation,USA,2017,,,,,,,*******
+Jobin,Intel’s AI Privacy Policy White Paper. Protecting Individuals’ Privacy and Data in the Artificial Intelligence World,Intel Corporation,USA,7/9/1905 0:00,,,,,,Privacy,*******
+Jobin,"Unified Ethical Frame for Big Data Analysis. IAF Big Data Ethics Initiative, Part A",The Information Accountability Foundation,USA,2017,,,,,,,*******
+Hinrichs,Accenture’s Responsible AI Framework,Accenture,USA,2018,,,,Industy,,,*******
+Jobin,Digital Decisions,Center for Democracy & Technology,USA,2018,,,,,,,*******
+Jobin,Everyday Ethics for Artificial Intelligence. A Practical Guide for Designers and Developers,IBM,USA,2018,,,,,https://www.ibm.com/think/topics/ai-ethics,,*******
+Hinrichs,Google AI Principles,Google,USA,2018,"Google outlines its commitment to developing AI responsibly, emphasizing objectives such as being socially beneficial, avoiding unfair bias, and ensuring accountability. Prioritize fairness, accountability, and social benefit.",,,Industy,https://ai.google/principles/,,*******
+Jobin,Governing Artificial Intelligence. Upholding Human Rights & Dignity,Data & Society,USA,2018,,,,,,Dignity,*******
+Jobin,Introducing Unity’s Guiding Principles for Ethical AI—Unity Blog,Unity Technologies,USA,2018,,,,,,,*******
+"Hinrichs, Jobin",Microsoft’s Responsible AI Principles,Microsoft,USA,2018,"Microsoft's Responsible AI Principles emphasize fairness, reliability and safety, privacy and security, inclusiveness, transparency, and accountability, combining a robust ethical framework (Hinrichs) with practical tools for developers and organizations to ensure ethical AI implementation (Jobin).",,,Industy,https://www.microsoft.com/en-us/ai/responsible-ai,"Privacy, Transparency",*******
+Hinrichs,OpenAI’s Charter,OpenAI,USA,2018,"OpenAI's charter details its mission to ensure that artificial general intelligence benefits all of humanity, highlighting principles of safety and long-term focus.",,,Industy,https://openai.com/charter/,,*******
+Jobin,Responsible Bots: 10 Guidelines for Developers of Conversational AI,Microsoft,USA,2018,,,,,,,*******
+Jobin,"Science, Law and Society (SLS) Initiative",The Future Society,USA,2018,"A multidisciplinary initiative aimed at exploring the intersection of AI, law, and societal impact. The focus is on developing policies, ethical guidelines, and legal frameworks to ensure AI technologies advance human rights, democracy, and equitable access. It encourages collaboration among scientists, policymakers, and legal experts to address the societal challenges posed by AI.",,,,,,*******
+Hinrichs,Adobe’s AI Ethics Principles,Adobe,USA,2020,,,,Industy,,,*******
+Hinrichs,Amazon’s AI Ethics Framework,Amazon,USA,2020,"Ensures responsible and transparent deployment of AI systems. The framework emphasizes avoiding bias in algorithms, enhancing accountability, and protecting user data privacy. It also includes commitments to fairness, inclusivity, and ensuring customer trust in AI-enabled solutions like AWS and Alexa.",,,Industy,,"Trust, Privacy",*******
+Hinrichs,DoD released its Ethical Principles for Artificial Intelligence in 2020,Department of Defense,USA,2020,"The DoD's Ethical Principles for Artificial Intelligence, released in 2020, emphasize the responsible development and deployment of AI technologies in defense operations. The principles focus on:
+
+Responsible Use: Ensuring AI is used in a manner consistent with legal and ethical standards.
+Equitability: Mitigating unintended bias and promoting fairness in AI systems.
+Traceability: Developing transparent and understandable AI processes for accountability.
+Reliability: Ensuring AI systems are reliable, safe, and function as intended in diverse operational contexts.
+Governability: Maintaining human oversight and the ability to deactivate or mitigate unintended consequences in AI applications.",,,Government,,,*******
+Hinrichs,Salesforce’s Ethical Use of Technology,Salesforce,USA,2020,,,,Industy,,,*******
+Hinrichs,Tesla’s AI Safety and Transparency Policies,Tesla,USA,2020,,,,Industy,,Transparency,*******
+Hinrichs,Apple’s Privacy by Design Approach,Apple,USA,2021,"Embeds privacy protections into the design and development of AI systems and products. Apple emphasizes user consent, data minimization, and secure data handling. This approach prioritizes transparency and user control, ensuring that privacy remains a core value across Apple’s AI-driven technologies. Apple's AI strategy indirectly aligns with ethical AI principles by focusing on fairness, inclusivity, and usability, ensuring its products work for a wide range of users, including those with disabilities (e.g., VoiceOver and assistive technologies).",,,Industy,,"Privacy, Transparency",*******
+Hinrichs,Intel’s Responsible AI Principles,Intel Corporation,USA,2021,,,,Industy,,,*******
+Hinrichs,Meta’s Responsible AI Guidelines,Meta,USA,2021,,,,Industy,,,*******
+Hinrichs,"Twitter’s Machine Learning Ethics, Transparency, and Accountability (META) Team",X,USA,2021,,,,Industy,,Transparency,*******
+Jobin,National Artificial Intelligence Research and Development Strategic Plan,National Science and Technology Council; Networking and Information Technology Research and Development Subcommittee,USA,10/1/2016 0:00,,,,,,,*******
+Jobin,Preparing for the Future of Artificial Intelligence,Executive Office of the President; National Science and Technology Council; Committee on Technology,USA,10/1/2016 0:00,,,,,,,*******
+Jobin,Statement on Algorithmic Transparency and Accountability,Association for Computing Machinery (ACM),USA,1/1/2017 0:00,,,,,,Transparency,*******
+Jobin,AI Principles,Future of Life Institute,USA,8/1/2017 0:00,,,,,,,*******
+Jobin,OpenAI Charter,OpenAI,USA,4/1/2018 0:00,,,,,,,*******
+"Hinrichs, Jobin",IBM’s Principles for Trust and Transparency,IBM,USA,5/1/2018 0:00,"IBM’s AI Ethics Guidelines, also referred to as Principles for Trust and Transparency, were issued in May 2018 in the USA. These guidelines emphasize accountability, transparency, and user data rights as central to fostering trust in AI systems. They reflect IBM’s commitment to ethical AI practices in the industry.",,,,,"Trust, Transparency",*******
+Jobin,Our Principles,Google,USA,6/1/2018 0:00,"Google’s AI principles prioritize fairness, safety, accountability, and user-centric design. They emphasize avoiding bias, ensuring transparency, and promoting societal benefits while restricting applications for harm or surveillance.",,,,,Transparency,*******
+Jobin,Policy Recommendations on Augmented Intelligence in Health Care H-480.940,American Medical Association (AMA),USA,6/1/2018 0:00,"Developed by the American Medical Association, this focuses on integrating AI into healthcare to enhance patient care, physician decision-making, and innovation. It stresses ethics, transparency, and minimizing bias in medical AI systems.",,,,,Transparency,*******
+Jobin,AI Now 2018 Report,AI Now Institute,USA,12/1/2018 0:00,"Identifies the social and economic implications of AI, particularly around bias, surveillance, and the impact on labor. The report advocates for greater transparency and accountability in AI systems, along with robust governance to mitigate harms.",,,,,Transparency,*******
+Hinrichs,Carnegie Mellon University,,USA,on-going,"Accountability, governances and fairness in AI Systems",,,Academia,,,*******
+Hinrichs,Harvard University,,USA,on-going,Human rights and accountability,,,Academia,,,*******
+Hinrichs,Indigenous Spiritual Perspectives on AI,Indigenous,USA,on-going,"Focus on respect for nature, interconnectedness, and sustainability, aligning AI development with ecological balance and collective well-being.",,,Religion,,Sustainability,*******
+Hinrichs,Massachusetts Institute of Technology (MIT),,USA,on-going,AI Ethics and Governance Program,,,Academia,,,*******
+Hinrichs,Stanford University HAI (SH),Stanford University,USA,on-going,,,,Academia,,,*******
+Hinrichs,Beijing Academy of Artificial Intelligence. (2019). Beijing AI principles. Retrieved from ,,,2019,"Establishing a set of global AI ethics principles emphasizing collaboration, openness, fairness, and transparency in AI development. The principles advocate for human-centric AI, long-term sustainability, and global cooperation to mitigate risks. They call for the alignment of AI advancements with societal well-being and ethical norms.",,,,https://www.baai.ac.cn/news/beijing-ai-principles.html,"Sustainability, Transparency",
+Floridi,IEEE Ethically Aligned Design,,,2019,Centers on prioritizing human well-being in AI systems.,,,,,,*******
+Hinrichs,"Ethical norms for the new generation artificial intelligence. Ministry of Science and Technology of the People's Republic of China.
+",,,2021,,,,,,,
+Hinrichs,China's updated AI governance in 2023,,,,,,,,,,
+Hinrichs,Climate and sustainability considerations,,,,,,,,,Sustainability,
+Floridi,EGE Statement,,,,Addresses ethical considerations for AI and robotics.,,,,,,*******
+Hinrichs,Generative AI,,,,,,,,,,
+Hinrichs,Human rights in AI applications,,,,,,,,,,
+Hinrichw,U.S. Blueprint for AI Bill of Rights,,,,,,,,,,
+Hinrichs,Updates on OECD AI Principles,,,,,,,,,,
+Hinrichs,Department of Veterans Affairs Establishes a Trustworthy AI Framework (Added 2/16/2025),"National Artificial Intelligence Institute
+U.S. Department of Veterans Affairs",USA,2023 or 2024,"6 Core Principles: 1. Effective & Safe - AI systems must be accurate, reliable, and robust while proactively manaing risks. 2. Secure & Private – Ensuring cybersecurity and data protection in AI applications. 3. Fair & Bias-Managed – Addressing potential biases and ensuring fairness in AI decision-making. 4. Transparent & Explainable – AI systems should provide clear, understandable reasoning for their outputs. 5. Accountable & Monitored – Implementing oversight mechanisms to track AI performance and compliance. 6. Purposeful – AI applications must serve a clear benefit to veterans while minimizing risks​","Executive Order 13960, the NIST AI Risk Management Framework, OECD AI Principles. Ensuring consistency with national and international AI ethics guidelines. The framework emhasizes measurable implementation, meaning the VA plans to assess AI maturity and compliance across its systems","The Veterans Affairs Trustworthy AI Framework presents a strong foundation for ethical AI implementation within federal agencies, but there are several notable gaps and challenges:
+
+1. Lack of Enforcement Mechanisms
+While the framework aligns with Executive Order 13960 and other national AI principles, it does not specify concrete enforcement mechanisms to ensure compliance.
+Without defined consequences for violations, AI systems could still be deployed with ethical shortcomings.
+2. Limited Transparency on AI Decision-Making
+The framework emphasizes transparency, but it does not mandate full auditability of AI decision processes.
+There is no clear protocol for external AI audits or independent oversight to verify that VA AI applications meet ethical standards.
+3. Absence of Real-World Case Studies
+The framework lacks empirical case studies showing how its principles have been successfully applied.
+It does not detail how past AI deployments within the VA have either succeeded or failed, making it harder to evaluate its practical impact.
+4. Weak Stakeholder Accountability
+The framework calls for accountability, but it does not specify who is responsible for ethical lapses in AI deployment.
+The chain of responsibility for AI failures—whether at the developer, administrator, or policymaker level—is not well defined.
+5. Challenges in Implementation Across Departments
+The VA is a large, decentralized agency, meaning AI governance is likely to vary by department and region.
+The framework does not provide clear guidelines for standardized AI governance across VA medical centers, research units, and administrative offices.
+6. No Clear Public Engagement or Redress Mechanism
+While public trust is a core principle, there is no mechanism for veterans or the public to challenge AI decisions or request explanations.
+AI-driven decisions in healthcare benefits, disability claims, or predictive analytics could significantly impact veterans, yet the framework does not specify an appeal process.
+Recommendations to Address Gaps
+To improve the Veterans Affairs Trustworthy AI Framework, consider:
+
+Mandating external audits and oversight for AI deployments.
+Providing clear enforcement mechanisms for ethical breaches.
+Introducing real-world case studies of AI successes and failures within the VA.
+Clarifying accountability structures by defining responsible parties for AI governance.
+Establishing a public-facing AI review process, allowing veterans to challenge AI-based decisions.",Military,https://department.va.gov/ai/wp-content/uploads/sites/14/2023/09/trustworth-framework.pdf?utm_source=chatgpt.com,Trust,

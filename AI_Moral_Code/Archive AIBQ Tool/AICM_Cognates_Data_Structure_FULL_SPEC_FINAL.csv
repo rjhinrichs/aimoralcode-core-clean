@@ -1,0 +1,37 @@
+Column,Format,Description
+row_id,Integer,Unique identifier for each row
+cognate_term,Title Case,"Primary term for glossary display, must be unique"
+value_type,"Enum: canonical, cognate",Defines if the term is a root value or derived synonym
+canonical_value_override,Lowercase string,Canonical anchor for cognates; empty for canonical entries
+canonical_definition,Sentence,Universal definition of the canonical value
+cognate_definition,Sentence,Specific interpretation of the cognate term
+ethical_tradition,"Comma-separated, Title Case","Philosophical schools (e.g., Deontological Ethics)"
+functional_justification,Paragraph,Operational relevance of the value in AI ethics
+empirical_and_philosophical_justification,Sentence + Percent,Reference frequency in literature and justification
+philosophical_roots,Philosopher + concept,"E.g., Kant’s moral law, Aristotle’s phronesis"
+religious_sources,"Comma-separated, sentence case","Sources from spiritual traditions (e.g., catholic social teaching)"
+operational_ai_ethics_translation,Sentence case,Technical implementation reference in AI systems
+sector,"Enum: gov, aca, ind, ngo, rel (comma-separated)",Sectors of relevance for the value
+subsector,snake_case,Applied domain or specialization
+confict_term,"snake_case, comma-separated",Red-flagged opposing terms or disvalues
+time_frame_reference,snake_case,Temporal scope of ethical concern
+domain_usage,snake_case,AI environment where the value is applied
+alignment_layer,snake_case,Normative layer of governance
+layer_interference,"Enum: normative, regulatory, behavioral, conceptual",Layer where violation is most impactful
+layer_interference_justification,Sentence,How failure appears in AI system
+interpretive_notes,Paragraph,Editorial or synthesis notes
+authoritative_source,Title Case,"Citations (e.g., Rawls 1971, UNESCO 2021)"
+epistemic_reference,Float (0.00–1.00),"Corpus frequency of value in AI ethics literature; used for scoring, filtering, and translation-safe inference."
+include_in_UI,Binary: 1 or 0,"Toggle flag for glossary visibility; 1 = include in UI, 0 = suppress."
+language_code,ISO 639-1,"Language tag (e.g., en, fr, zh)"
+term_generation_status,"Enum: completed, draft, to_review",Work status of glossary term
+disvalue_term,Title Case,"Ethical violation term (e.g., Blame-shifting)"
+disvalue_definition,Sentence,Definition of the disvalue term
+linked_cognate_term,Title Case,"Anchored positive cognate (e.g., Accountability)"
+sector,snake_case,"Contextual sector (e.g., gov, finance, defense)"
+layer_interference,"Enum: normative, regulatory, behavioral, conceptual",Layer where ethical breakdown occurs
+layer_interference_justification,Sentence,Explains how the disvalue disrupts AI governance
+appears_in_conflict,Boolean: TRUE or FALSE,Conflict flag for simulation and mapping
+disvalue_code,ID Code: D###,"Unique reference code (e.g., D101)"
+severity_weight,Float (0.60–0.95),Impact scale of disvalue in modeling
+language_code,ISO 639-1,Language tag for multilingual readiness

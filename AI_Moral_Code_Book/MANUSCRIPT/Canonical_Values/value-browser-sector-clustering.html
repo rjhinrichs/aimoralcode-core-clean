@@ -1,0 +1,59 @@
+
+--- 
+layout: page
+title: "Canonical Values Browser"
+permalink: /value-browser/
+---
+
+<link rel="stylesheet" href="{{ '/assets/css/values.css' | relative_url }}">
+
+<h1>Explore Canonical Values</h1>
+
+<!-- Filters -->
+<div id="filters" style="margin-bottom: 2rem;">
+  <!-- Reuse existing filter block from implementation -->
+  <div>
+    <label for="searchBox"><strong>Keyword Search:</strong></label><br>
+    <input type="text" id="searchBox" placeholder="Search values..." style="width: 100%; padding: 0.5rem; font-size: 1rem;">
+  </div>
+
+  <div>
+    <label for="sortSelect"><strong>Sort By:</strong></label><br>
+    <select id="sortSelect" style="padding: 0.5rem; font-size: 1rem;">
+      <option value="default">Default Order</option>
+      <option value="score">Score (High to Low)</option>
+      <option value="weight">Weight (High to Low)</option>
+      <option value="title">Alphabetical (A–Z)</option>
+    </select>
+  </div>
+
+  <div>
+    <button id="clearFiltersBtn">Clear All Filters</button>
+    <button id="exportJsonBtn">Export JSON</button>
+    <button id="exportCsvBtn">Export CSV</button>
+  </div>
+</div>
+
+<!-- Analytics Summary -->
+<div id="analytics" style="margin-bottom: 2rem; padding: 1rem; background: #f0f4f8; border-left: 4px solid #007acc;">
+  <h2>Analytics Summary</h2>
+  <p><strong>Average Score:</strong> <span id="avgScore">–</span></p>
+  <p><strong>Average Weight:</strong> <span id="avgWeight">–</span></p>
+  <p><strong>NRBC Distribution:</strong></p>
+  <ul id="nrbcCounts"></ul>
+</div>
+
+<!-- 🔥 Heatmap Section -->
+<div id="heatmap" style="margin-bottom: 2rem;">
+  <h2>Compositive Score Heatmap</h2>
+  <div id="heatmap-bars" style="display: flex; gap: 6px; flex-wrap: wrap;"></div>
+</div>
+
+<!-- 📊 Sector Clustering View -->
+<div id="sector-cluster" style="margin-bottom: 2rem;">
+  <h2>Sector Clustering</h2>
+  <div id="sector-bars" style="display: flex; flex-direction: column; gap: 6px;"></div>
+</div>
+
+<!-- Value Results -->
+<div id="value-results"></div>

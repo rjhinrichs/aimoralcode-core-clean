@@ -1,0 +1,82 @@
+row_id,cognate_term,value_type,canonical_value_override,canonical_definition,cognate_definition,ethical_tradition,functional_justification,empirical_and_philosophical_justification,philosophical_roots,religious_sources,operational_ai_ethics_translation,sector,sector_weight,subsector,confict_term,time_frame_reference,domain_usage,alignment_layer,layer_interference,layer_interference_justification,interpretive_notes,authoritative_source,epistemic_reference,include_in_UI,language_code,term_generation_status
+21,Duty,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+22,Education,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+23,Efficiency,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+24,Empathy,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+25,Equality,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+26,Equity,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+27,Ethics,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+28,Expected Value,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+29,Explainability,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+30,Fairness,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+31,Family,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+32,Fidelity,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+33,Flexibility,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+34,Forgiveness,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+35,Freedom,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+36,Friendship,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+37,Grace,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+38,Gratitude,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+39,Hope,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+40,Hospitality,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+41,"Human Flourishng
+(eudaimonia)",,,,,,,,,,,,,,,,,,,,,,,,,to_review
+42,Humility,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+43,Ideals,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+44,Institutional Justice,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+45,Integrity,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+46,Integrity,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+47,Intellect ('Aql),,,,,,,,,,,,,,,,,,,,,,,,,to_review
+48,Law,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+49,Liberty,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+50,Life (Nafs),,,,,,,,,,,,,,,,,,,,,,,,,to_review
+51,Lineage (Nasl),,,,,,,,,,,,,,,,,,,,,,,,,to_review
+52,Love (Agape),,,,,,,,,,,,,,,,,,,,,,,,,to_review
+53,Loyalty,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+54,Magnanimity,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+55,Maxim,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+56,Meekness,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+57,Mercy,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+58,Moral Duty,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+59,Moral Obligation,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+60,Moral Reasoning,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+61,Nonviolence,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+62,Norms,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+63,Observability,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+64,Open Mindedness,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+65,Patience,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+66,Peace,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+67,Principles,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+68,Procedural Safeguards,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+69,Property (Mal),,,,,,,,,,,,,,,,,,,,,,,,,to_review
+70,Protection,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+71,Protection of Faith (Din),,,,,,,,,,,,,,,,,,,,,,,,,to_review
+72,Prudence (phronesis),,,,,,,,,,,,,,,,,,,,,,,,,to_review
+73,Public Good,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+74,Reciprocity,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+75,Redress,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+76,Respect,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+77,Respect for Authority,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+78,Respect for Nature,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+79,Righteousness (Justice aligned),,,,,,,,,,,,,,,,,,,,,,,,,to_review
+80,Rights,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+81,Rule of Law,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+82,Rules,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+83,Safeguards,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+84,Safety,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+85,Security,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+86,Shared Purpose,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+87,Shared Responsibility,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+88,Social Cohesion,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+89,Social Norms,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+90,Solidarity,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+91,Standards,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+92,Stewardship,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+93,Temperance,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+94,Universalizability,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+95,Usefulness,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+96,Utility,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+97,Values,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+98,Welfare,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+99,Well Being,,,,,,,,,,,,,,,,,,,,,,,,,to_review
+100,Work Ethic,,,,,,,,,,,,,,,,,,,,,,,,,to_review
