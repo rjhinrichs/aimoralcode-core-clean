@@ -1,11 +1,25 @@
-# System files
-.DS_Store
+# Ignore temporary or scratch files
+test_sync_file.txt
+*.tmp
 *.log
 
-# Excel autosaves
-~$*
+# System files
+.DS_Store
+Thumbs.db
 
-# Python/IDE artifacts
+# Python artifacts (optional)
 __pycache__/
 *.pyc
+
+# Backup files
+*~
+*.bak
+
+# Office temp files
+~$*
+
+# Ignore node_modules or similar folders if added later
+node_modules/
+
+# Project-specific: ignore toolkit folder artifacts
 AI_Moral_Code/professionalism-ethics-toolkit_0806*/
