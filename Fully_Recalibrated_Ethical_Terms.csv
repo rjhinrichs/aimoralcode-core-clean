@@ -1,0 +1,1085 @@
+Ethical Term,Frequency,Category,Fuzzy Matched Term,Recalibrated Category,Final Category
+principles,250,Unclassified,,,Unclassified
+transparency,214,Core,Transparency,Relationtional Social Values (Interpersonal),Relationtional Social Values (Interpersonal)
+values,212,Unclassified,,,Unclassified
+accountability,179,Core,Accountability,Virtues,Virtues
+fairness,154,Core,Fairness,Personal Values,Personal Values
+inclusivity,123,Social,,,Social
+ethical responsibility,96,Core,Responsibility,Core Chosen,Core Chosen
+privacy,89,Core,,,Core
+security,86,Core,,,Core
+innovation,83,Unclassified,,,Unclassified
+sustainability,79,Unclassified,Sustainability,Regulatory,Regulatory
+safety,77,Core,,,Core
+responsibility,73,Core,Responsibility,Core Chosen,Core Chosen
+trust,55,Social,Trust,Collective Social Values (Societal),Collective Social Values (Societal)
+collaboration,46,Social,,,Social
+human rights,42,Social,Human Flourishing,Contextual and Evaluative Elements,Contextual and Evaluative Elements
+justice,39,Core,Justice,Virtues,Virtues
+human dignity,38,Social,Dignity,Relational Social Values (Interpersonal,Relational Social Values (Interpersonal
+explainability,35,Core,,,Core
+societal trust,34,Social,Trust,Collective Social Values (Societal),Collective Social Values (Societal)
+non-discrimination,33,Unclassified,,,Unclassified
+diversity,27,Social,,,Social
+robustness,27,Core,,,Core
+well-being,26,Unclassified,,,Unclassified
+autonomy,26,Core,,,Core
+environmental sustainability,26,Unclassified,Sustainability,Regulatory,Regulatory
+trustworthiness,24,Social,Trust,Collective Social Values (Societal),Collective Social Values (Societal)
+economic growth,24,Unclassified,,,Unclassified
+democratic values,23,Unclassified,,,Unclassified
+equity,23,Unclassified,,,Unclassified
+data protection,23,Core,,,Core
+equality,23,Social,,,Social
+societal well-being,21,Unclassified,,,Unclassified
+inclusive growth,19,Unclassified,,,Unclassified
+sustainable development,17,Unclassified,,,Unclassified
+governance,17,Unclassified,Ethical Governance,Ethical Governance,Ethical Governance
+safety and security,15,Core,,,Core
+ethical ai development,14,Unclassified,,,Unclassified
+dignity,14,Social,Dignity,Relational Social Values (Interpersonal,Relational Social Values (Interpersonal
+social justice,13,Core,Justice,Virtues,Virtues
+respect for human rights,12,Social,Respect,Virtues,Virtues
+human oversight,12,Unclassified,,,Unclassified
+accessibility,12,Social,,,Social
+public trust,12,Social,Trust,Collective Social Values (Societal),Collective Social Values (Societal)
+human-centric ai,11,Unclassified,,,Unclassified
+freedom,11,Unclassified,,,Unclassified
+respect,11,Social,Respect,Virtues,Virtues
+privacy and security,11,Core,,,Core
+inclusiveness,11,Unclassified,,,Unclassified
+human-centric development,11,Unclassified,,,Unclassified
+ethical ai,11,Unclassified,Ethical Governance,Ethical Governance,Ethical Governance
+competitiveness,10,Unclassified,,,Unclassified
+transparency and explainability,10,Core,Transparency,Relationtional Social Values (Interpersonal),Relationtional Social Values (Interpersonal)
+ai governance,10,Unclassified,,,Unclassified
+reliability,9,Core,,,Core
+responsible business conduct,9,Unclassified,,,Unclassified
+ethical ai use,9,Unclassified,,,Unclassified
+accuracy,8,Core,,,Core
+digital inclusion,8,Unclassified,,,Unclassified
+ethics,8,Unclassified,Ethical Governance,Ethical Governance,Ethical Governance
+non-maleficence,8,Unclassified,Non-maleficence,Aspirational Social Values (Goals),Aspirational Social Values (Goals)
+integrity,7,Unclassified,Integrity,Aspirational Social Values (Goals),Aspirational Social Values (Goals)
+international collaboration,7,Social,,,Social
+human-centered values,7,Unclassified,,,Unclassified
+interdisciplinary collaboration,7,Social,,,Social
+responsible ai development,7,Unclassified,,,Unclassified
+human capital development,7,Unclassified,,,Unclassified
+workforce development,7,Unclassified,,,Unclassified
+ethical considerations,7,Unclassified,,,Unclassified
+human-centered ai,7,Unclassified,,,Unclassified
+moral agency,7,Emerging,,,Emerging
+labour rights,6,Unclassified,,,Unclassified
+data infrastructure,6,Unclassified,,,Unclassified
+fundamental freedoms,6,Unclassified,,,Unclassified
+social responsibility,6,Core,Responsibility,Core Chosen,Core Chosen
+global cooperation,6,Unclassified,,,Unclassified
+data governance,6,Unclassified,,,Unclassified
+human control,6,Unclassified,,,Unclassified
+technological leadership,6,Unclassified,,,Unclassified
+openness,6,Unclassified,,,Unclassified
+privacy and data protection,6,Core,,,Core
+privacy protection,6,Core,,,Core
+operational,6,Unclassified,,,Unclassified
+inclusion,6,Unclassified,,,Unclassified
+responsible ai deployment,6,Unclassified,,,Unclassified
+talent development,6,Emerging,,,Emerging
+public interest,5,Unclassified,,,Unclassified
+human rights protection,5,Social,,,Social
+ethical oversight,5,Unclassified,,,Unclassified
+data-driven decision-making,5,Unclassified,,,Unclassified
+human-centric approach,5,Unclassified,,,Unclassified
+empowerment,5,Unclassified,,,Unclassified
+traceability,5,Unclassified,,,Unclassified
+accountability values,5,Core,Accountability,Virtues,Virtues
+user empowerment,5,Unclassified,,,Unclassified
+proactive governance,5,Unclassified,,,Unclassified
+beneficence,5,Unclassified,Beneficence,Normative,Normative
+ethical development,5,Unclassified,,,Unclassified
+explicability,5,Unclassified,,,Unclassified
+research and development,5,Unclassified,,,Unclassified
+reliability and safety,5,Core,,,Core
+value alignment,5,Emerging,,,Emerging
+education,5,Unclassified,,,Unclassified
+competence,5,Unclassified,,,Unclassified
+environmental responsibility,5,Core,Responsibility,Core Chosen,Core Chosen
+knowledge sharing,5,Unclassified,,,Unclassified
+cybersecurity,5,Core,,,Core
+digital transformation,5,Unclassified,,,Unclassified
+interoperability,5,Unclassified,,,Unclassified
+rule of law,5,Unclassified,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+human values,4,Unclassified,Human Flourishing,Contextual and Evaluative Elements,Contextual and Evaluative Elements
+foundational,4,Unclassified,,,Unclassified
+freedom of expression,4,Unclassified,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+normative,4,Unclassified,,,Unclassified
+digital sovereignty,4,Unclassified,,,Unclassified
+adaptability,4,Unclassified,,,Unclassified
+fairness and inclusion,4,Core,Fairness,Personal Values,Personal Values
+societal benefit,4,Unclassified,,,Unclassified
+resilience,4,Unclassified,Resilience,Structural Values (Systems),Structural Values (Systems)
+ethical use,4,Unclassified,Ethical Governance,Ethical Governance,Ethical Governance
+solidarity,4,Unclassified,Solidarity,Digital Ethics (Emerging),Digital Ethics (Emerging)
+human well-being,4,Unclassified,,,Unclassified
+common good,4,Unclassified,,,Unclassified
+shared prosperity,4,Unclassified,,,Unclassified
+robustness and safety,4,Core,,,Core
+environmental stewardship,4,Unclassified,,,Unclassified
+respect for autonomy,4,Core,Respect,Virtues,Virtues
+international cooperation,4,Unclassified,,,Unclassified
+lifelong learning,4,Unclassified,,,Unclassified
+democracy,4,Unclassified,,,Unclassified
+ecological preservation,4,Unclassified,,,Unclassified
+human agency and oversight,4,Unclassified,Human Flourishing,Contextual and Evaluative Elements,Contextual and Evaluative Elements
+continuous improvement,4,Unclassified,,,Unclassified
+human-centricity,4,Unclassified,,,Unclassified
+national competitiveness,4,Unclassified,,,Unclassified
+effectiveness,4,Unclassified,,,Unclassified
+societal impact,4,Unclassified,,,Unclassified
+human-ai collaboration,4,Social,,,Social
+collective progress,4,Unclassified,,,Unclassified
+societal and environmental well-being,4,Unclassified,,,Unclassified
+purpose limitation,4,Unclassified,,,Unclassified
+academic integrity,4,Unclassified,Integrity,Aspirational Social Values (Goals),Aspirational Social Values (Goals)
+gender equality,4,Social,,,Social
+shared responsibility,4,Core,Responsibility,Core Chosen,Core Chosen
+national security,4,Core,,,Core
+proportionality,4,Unclassified,,,Unclassified
+data minimization,4,Unclassified,,,Unclassified
+awareness of misuse,3,Unclassified,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+harmony,3,Unclassified,Social Harmony,Regulatory,Regulatory
+research and innovation,3,Unclassified,,,Unclassified
+benefit and harm,3,Unclassified,,,Unclassified
+ethical governance,3,Unclassified,Ethical Governance,Ethical Governance,Ethical Governance
+agriculture,3,Unclassified,,,Unclassified
+data privacy,3,Core,,,Core
+ethical deployment,3,Unclassified,,,Unclassified
+human-centric design,3,Unclassified,,,Unclassified
+global competitiveness,3,Unclassified,Global Impact,Structural Values (Systems),Structural Values (Systems)
+responsible ai,3,Unclassified,,,Unclassified
+human-centered approach,3,Unclassified,,,Unclassified
+data security,3,Core,,,Core
+interpretability,3,Unclassified,,,Unclassified
+fairness and non-discrimination,3,Core,Fairness,Personal Values,Personal Values
+s welfare,3,Unclassified,,,Unclassified
+risk mitigation,3,Unclassified,,,Unclassified
+public engagement,3,Unclassified,,,Unclassified
+rights,3,Unclassified,,,Unclassified
+democratic participation,3,Social,,,Social
+individual rights,3,Unclassified,,,Unclassified
+fairness and justice,3,Core,Fairness,Personal Values,Personal Values
+data sovereignty,3,Unclassified,,,Unclassified
+storage limitation,3,Unclassified,,,Unclassified
+global interoperability,3,Unclassified,Global Impact,Structural Values (Systems),Structural Values (Systems)
+safeguarding information integrity,3,Unclassified,Integrity,Aspirational Social Values (Goals),Aspirational Social Values (Goals)
+prudence,3,Unclassified,,,Unclassified
+predictability,3,Unclassified,,,Unclassified
+social benefit,3,Unclassified,,,Unclassified
+addressing mis- and disinformation,3,Unclassified,,,Unclassified
+fairness and equality,3,Core,Fairness,Personal Values,Personal Values
+reproducibility,3,Unclassified,,,Unclassified
+human privacy,3,Core,,,Core
+use wisely and properly,3,Unclassified,,,Unclassified
+open and share,3,Unclassified,,,Unclassified
+be diverse and inclusive,3,Unclassified,,,Unclassified
+responsibility and accountability,3,Core,Responsibility,Core Chosen,Core Chosen
+be ethical,3,Unclassified,Ethical Governance,Ethical Governance,Ethical Governance
+control risks,3,Unclassified,,,Unclassified
+be responsible,3,Unclassified,,,Unclassified
+for humanity,3,Unclassified,Respect for Nature,Relational Social Values (Interpersonal,Relational Social Values (Interpersonal
+do good,3,Unclassified,,,Unclassified
+principles and values,3,Unclassified,,,Unclassified
+judicial transparency,3,Core,Transparency,Relationtional Social Values (Interpersonal),Relationtional Social Values (Interpersonal)
+race avoidance,3,Unclassified,,,Unclassified
+science-policy link,3,Unclassified,,,Unclassified
+research funding,3,Unclassified,,,Unclassified
+research goal,3,Unclassified,,,Unclassified
+liability,3,Unclassified,,,Unclassified
+economic development,3,Unclassified,,,Unclassified
+personal privacy,3,Core,,,Core
+energy efficiency,3,Unclassified,,,Unclassified
+regulatory,3,Unclassified,,,Unclassified
+ai arms race,3,Unclassified,,,Unclassified
+mas,3,Unclassified,Non-maleficence,Aspirational Social Values (Goals),Aspirational Social Values (Goals)
+technological sovereignty,3,Unclassified,,,Unclassified
+capability caution,3,Unclassified,,,Unclassified
+importance,3,Unclassified,,,Unclassified
+recursive self-improvement,3,Unclassified,,,Unclassified
+risks,3,Unclassified,,,Unclassified
+non-subversion,3,Unclassified,,,Unclassified
+shared benefit,3,Social,,,Social
+liberty and privacy,3,Core,,,Core
+ai safety,3,Core,,,Core
+failure transparency,3,Core,Transparency,Relationtional Social Values (Interpersonal),Relationtional Social Values (Interpersonal)
+research culture,3,Unclassified,,,Unclassified
+legal compliance,2,Unclassified,Compliance,Structural Values (Systems),Structural Values (Systems)
+global collaboration,2,Social,Global Impact,Structural Values (Systems),Structural Values (Systems)
+contextual,2,Unclassified,,,Unclassified
+repeatability,2,Unclassified,,,Unclassified
+regulatory compliance,2,Unclassified,Compliance,Structural Values (Systems),Structural Values (Systems)
+confidentiality,2,Unclassified,,,Unclassified
+lawfulness,2,Unclassified,,,Unclassified
+equitable development,2,Unclassified,,,Unclassified
+multi-stakeholder and adaptive governance and collaboration,2,Social,Ethical Governance,Ethical Governance,Ethical Governance
+awareness and literacy,2,Unclassified,,,Unclassified
+human oversight and determination,2,Unclassified,Human Flourishing,Contextual and Evaluative Elements,Contextual and Evaluative Elements
+bias minimization,2,Unclassified,,,Unclassified
+trustworthy ai,2,Social,Trust,Collective Social Values (Societal),Collective Social Values (Societal)
+long-term vision,2,Unclassified,,,Unclassified
+national prosperity,2,Unclassified,,,Unclassified
+and explainability,2,Core,,,Core
+reliable,2,Unclassified,,,Unclassified
+promotion of human rights,2,Social,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+addressing unintended consequences,2,Unclassified,,,Unclassified
+public-private collaboration,2,Social,,,Social
+"com
+values",2,Unclassified,,,Unclassified
+honesty,2,Unclassified,Honesty,Relationtional Social Values (Interpersonal),Relationtional Social Values (Interpersonal)
+privacy and data governance,2,Core,Ethical Governance,Ethical Governance,Ethical Governance
+be made available for uses that accord with these principles,2,Unclassified,Respect for Nature,Relational Social Values (Interpersonal,Relational Social Values (Interpersonal
+uphold high standards of scientific excellence,2,Unclassified,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+incorporate privacy design principles,2,Core,,,Core
+be accountable to people,2,Unclassified,,,Unclassified
+be built and tested for safety,2,Core,Respect for Nature,Relational Social Values (Interpersonal,Relational Social Values (Interpersonal
+avoid creating or reinforcing unfair bias,2,Unclassified,,,Unclassified
+do no harm,2,Unclassified,,,Unclassified
+be socially beneficial,2,Unclassified,,,Unclassified
+ai sovereignty,2,Unclassified,,,Unclassified
+respect for human dignity,2,Social,Respect,Virtues,Virtues
+societal dialogue,2,Unclassified,,,Unclassified
+technological innovation,2,Unclassified,,,Unclassified
+selfless service,2,Unclassified,,,Unclassified
+seva,2,Unclassified,,,Unclassified
+lineage,2,Unclassified,,,Unclassified
+conceptual,2,Unclassified,,,Unclassified
+evaluative,2,Unclassified,,,Unclassified
+compliance,2,Unclassified,Compliance,Structural Values (Systems),Structural Values (Systems)
+ethics and regulation,2,Unclassified,,,Unclassified
+robustness and security,2,Core,,,Core
+bias and fairness,2,Core,Fairness,Personal Values,Personal Values
+interpretability and explainability,2,Core,,,Core
+promotion of human values,2,Unclassified,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+bias mitigation,2,Unclassified,,,Unclassified
+human responsibility,2,Core,Responsibility,Core Chosen,Core Chosen
+ethical standards,2,Unclassified,,,Unclassified
+intellect,2,Unclassified,,,Unclassified
+nafs,2,Unclassified,,,Unclassified
+life,2,Unclassified,,,Unclassified
+preservation of faith,2,Unclassified,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+human judgment,2,Unclassified,,,Unclassified
+social stability,2,Unclassified,,,Unclassified
+professional responsibility,2,Core,Responsibility,Core Chosen,Core Chosen
+safety and control,2,Core,,,Core
+ethical integrity,2,Unclassified,Integrity,Aspirational Social Values (Goals),Aspirational Social Values (Goals)
+economic and workforce considerations,2,Unclassified,,,Unclassified
+auditability,2,Unclassified,,,Unclassified
+workforce adaptation,2,Unclassified,,,Unclassified
+promotion of fairness and justice,2,Core,Fairness,Personal Values,Personal Values
+respect human rights,2,Social,Respect,Virtues,Virtues
+fostering innovation responsibly,2,Unclassified,,,Unclassified
+nasl,2,Unclassified,,,Unclassified
+ethical design,2,Unclassified,,,Unclassified
+ethical integration,2,Unclassified,,,Unclassified
+broadly distributed benefits,2,Unclassified,,,Unclassified
+long-term safety,2,Core,,,Core
+technical leadership,2,Unclassified,,,Unclassified
+cooperative orientation,2,Unclassified,,,Unclassified
+intellectual property rights,2,Unclassified,,,Unclassified
+user data rights,2,Unclassified,,,Unclassified
+humanity,2,Unclassified,,,Unclassified
+ai governance framework,2,Unclassified,,,Unclassified
+healthcare,2,Unclassified,,,Unclassified
+risk assessment,2,Unclassified,,,Unclassified
+smart cities and infrastructure,2,Unclassified,,,Unclassified
+smart mobility and transportation,2,Unclassified,,,Unclassified
+data availability and quality,2,Unclassified,,,Unclassified
+skilled workforce,2,Unclassified,,,Unclassified
+skilling for the ai age,2,Unclassified,,,Unclassified
+accelerating adoption,2,Unclassified,,,Unclassified
+impartiality,2,Unclassified,,,Unclassified
+fundamental rights,2,Unclassified,,,Unclassified
+preservation of fundamental aspects of human existence,2,Unclassified,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+fostering innovation,2,Unclassified,,,Unclassified
+and wealth,2,Unclassified,,,Unclassified
+diversity and inclusion,2,Social,,,Social
+technical robustness and safety,2,Core,,,Core
+protection of privacy and intimacy,2,Core,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+ai ethics,2,Unclassified,Digital Ethics (Emerging),Normative,Normative
+data ownership,2,Unclassified,,,Unclassified
+transparency and responsible disclosure,2,Core,Transparency,Relationtional Social Values (Interpersonal),Relationtional Social Values (Interpersonal)
+ethical conduct,2,Unclassified,,,Unclassified
+respect for individual rights,2,Social,Respect,Virtues,Virtues
+data accessibility,2,Social,,,Social
+public interest expertise,2,Unclassified,,,Unclassified
+equality and non-discrimination,2,Social,Non-maleficence,Aspirational Social Values (Goals),Aspirational Social Values (Goals)
+security and safety,2,Core,,,Core
+safe,2,Unclassified,,,Unclassified
+controllability,2,Unclassified,,,Unclassified
+infrastructure,2,Unclassified,,,Unclassified
+public-private partnerships,2,Unclassified,,,Unclassified
+education and training,2,Unclassified,,,Unclassified
+stakeholder engagement,2,Unclassified,,,Unclassified
+data integrity,2,Unclassified,Integrity,Aspirational Social Values (Goals),Aspirational Social Values (Goals)
+contestability,2,Unclassified,,,Unclassified
+social equity,2,Unclassified,,,Unclassified
+dual-use awareness,2,Unclassified,,,Unclassified
+privacy and security by design,2,Core,,,Core
+user autonomy,2,Core,,,Core
+human-centered values and equity,2,Unclassified,Human Flourishing,Contextual and Evaluative Elements,Contextual and Evaluative Elements
+adherence to social ethics,2,Unclassified,Social Harmony,Regulatory,Regulatory
+interdependence,2,Unclassified,,,Unclassified
+ethical ai governance,2,Unclassified,Ethical Governance,Ethical Governance,Ethical Governance
+public-private partnership,2,Unclassified,,,Unclassified
+regulation,2,Unclassified,,,Unclassified
+safeguarding national security and public interests,2,Core,,,Core
+protection of citizens,2,Unclassified,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+human-centric,2,Unclassified,,,Unclassified
+compliance with laws and regulations,2,Unclassified,Compliance,Structural Values (Systems),Structural Values (Systems)
+legitimate rights,2,Unclassified,,,Unclassified
+ai regulation,2,Unclassified,,,Unclassified
+comply with laws and regulations,1,Unclassified,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+this shift has been linked to google,1,Unclassified,,,Unclassified
+balancing agility and security,1,Core,,,Core
+principles include inclusive growth,1,Unclassified,,,Unclassified
+agentic ai for autonomous decision-making,1,Unclassified,Respect for Nature,Relational Social Values (Interpersonal,Relational Social Values (Interpersonal
+aligning with broader industry trends,1,Unclassified,,,Unclassified
+and accountability,1,Core,Accountability,Virtues,Virtues
+values emphasize innovation,1,Unclassified,,,Unclassified
+data quality,1,Unclassified,,,Unclassified
+scientific excellence,1,Unclassified,,,Unclassified
+and responsible business conduct,1,Unclassified,,,Unclassified
+s intent to engage more flexibly in defense and security sectors,1,Core,,,Core
+the,1,Unclassified,Authenticity,Behavioral,Behavioral
+ensure the safety and robustness of ai systems,1,Core,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+societal engagement,1,Unclassified,,,Unclassified
+act with integrity,1,Unclassified,Integrity,Aspirational Social Values (Goals),Aspirational Social Values (Goals)
+ensure transparency,1,Core,Transparency,Relationtional Social Values (Interpersonal),Relationtional Social Values (Interpersonal)
+respect privacy,1,Core,Respect,Virtues,Virtues
+avoid unfair discrimination,1,Unclassified,,,Unclassified
+contribute to sustainable development,1,Unclassified,,,Unclassified
+ethics and values,1,Unclassified,Digital Ethics (Emerging),Normative,Normative
+engage in dialogue with society,1,Unclassified,,,Unclassified
+update removed explicit prohibitions against developing ai for weapons or surveillance technologies,1,Unclassified,Respect for Nature,Relational Social Values (Interpersonal,Relational Social Values (Interpersonal
+risk-assessment,1,Unclassified,,,Unclassified
+notably,1,Unclassified,,,Unclassified
+beneficial ai,1,Unclassified,,,Unclassified
+collective well-being,1,Unclassified,,,Unclassified
+longer-term issues,1,Unclassified,,,Unclassified
+adherence to core socialist values,1,Unclassified,,,Unclassified
+enable transparency and explainability,1,Core,Transparency,Relationtional Social Values (Interpersonal),Relationtional Social Values (Interpersonal)
+advance security,1,Core,,,Core
+human control of technology,1,Unclassified,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+and reliability,1,Core,,,Core
+design for privacy,1,Core,,,Core
+promote equity and inclusion,1,Unclassified,,,Unclassified
+protect the environment,1,Unclassified,,,Unclassified
+patient safety,1,Core,,,Core
+equitable access,1,Unclassified,,,Unclassified
+legal oversight,1,Unclassified,,,Unclassified
+patient privacy,1,Core,,,Core
+protection of minors,1,Unclassified,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+high-quality ai development,1,Unclassified,,,Unclassified
+algorithmic fairness,1,Core,Fairness,Personal Values,Personal Values
+adl,1,Unclassified,,,Unclassified
+karamah,1,Unclassified,,,Unclassified
+ooliyyah,1,Unclassified,,,Unclassified
+physician involvement,1,Unclassified,,,Unclassified
+excellence,1,Unclassified,,,Unclassified
+inclusivity values,1,Social,,,Social
+ethical usage,1,Unclassified,Ethical Localization,Personal Values,Personal Values
+social harmony,1,Unclassified,Social Harmony,Regulatory,Regulatory
+intellectual property protection,1,Unclassified,,,Unclassified
+contribute to the peace and happiness of humanity,1,Unclassified,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+fostering openness and collaboration,1,Social,,,Social
+encouraging inclusivity and shared responsibility,1,Core,Responsibility,Core Chosen,Core Chosen
+ensuring security and privacy,1,Core,,,Core
+commitment to progress,1,Unclassified,,,Unclassified
+ethical ai considerations,1,Unclassified,,,Unclassified
+business and investment support,1,Unclassified,,,Unclassified
+technical support,1,Unclassified,,,Unclassified
+and societal considerations,1,Unclassified,,,Unclassified
+shared datasets and environments,1,Unclassified,,,Unclassified
+improving research effectiveness,1,Unclassified,,,Unclassified
+standards and benchmarks,1,Unclassified,,,Unclassified
+"international collaboration
+values",1,Social,,,Social
+responsible innovation,1,Unclassified,,,Unclassified
+innovation in ai research methods,1,Unclassified,,,Unclassified
+investment in ai research and development values,1,Unclassified,,,Unclassified
+promotion of big data education,1,Unclassified,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+support for data-driven businesses,1,Unclassified,Respect for Nature,Relational Social Values (Interpersonal,Relational Social Values (Interpersonal
+ethical stewardship,1,Unclassified,,,Unclassified
+cooperative risk management,1,Unclassified,,,Unclassified
+human-oriented ai,1,Unclassified,,,Unclassified
+multi-stakeholder governance,1,Unclassified,Ethical Governance,Ethical Governance,Ethical Governance
+democracy and rule of law,1,Unclassified,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+peaceful society,1,Unclassified,,,Unclassified
+diversity and inclusiveness,1,Social,,,Social
+fostering a robust ai ecosystem,1,Unclassified,,,Unclassified
+legal,1,Unclassified,,,Unclassified
+ethical,1,Unclassified,Ethical Governance,Ethical Governance,Ethical Governance
+safe innovation,1,Unclassified,,,Unclassified
+industry leaders,1,Unclassified,,,Unclassified
+knowledge,1,Unclassified,,,Unclassified
+recommendations for policymakers,1,Unclassified,Respect for Nature,Relational Social Values (Interpersonal,Relational Social Values (Interpersonal
+caution,1,Unclassified,,,Unclassified
+democratic integrity,1,Unclassified,Integrity,Aspirational Social Values (Goals),Aspirational Social Values (Goals)
+transparency and oversight,1,Core,Transparency,Relationtional Social Values (Interpersonal),Relationtional Social Values (Interpersonal)
+accountability and responsibility,1,Core,Responsibility,Core Chosen,Core Chosen
+ethical principles,1,Unclassified,,,Unclassified
+opportunities and risks of ai,1,Unclassified,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+democratic governance,1,Unclassified,,,Unclassified
+redress,1,Unclassified,,,Unclassified
+digital competence,1,Unclassified,,,Unclassified
+responsible development,1,Unclassified,,,Unclassified
+global leadership,1,Unclassified,,,Unclassified
+pro-innovation,1,Unclassified,,,Unclassified
+long-term investments in responsible ai research,1,Unclassified,,,Unclassified
+public benefit,1,Unclassified,,,Unclassified
+innovation through generative ai,1,Unclassified,,,Unclassified
+"prevention
+values",1,Unclassified,,,Unclassified
+protecting human rights,1,Social,,,Social
+innovation and growth,1,Unclassified,,,Unclassified
+knowledge-based economy,1,Unclassified,,,Unclassified
+startup acceleration,1,Unclassified,,,Unclassified
+ai-driven economic diversification,1,Unclassified,,,Unclassified
+access to computational resources,1,Unclassified,,,Unclassified
+ethical norms,1,Unclassified,Ethical Governance,Ethical Governance,Ethical Governance
+fostering responsible innovation,1,Unclassified,,,Unclassified
+ensuring privacy and data protection,1,Core,,,Core
+product development,1,Unclassified,,,Unclassified
+promoting ethical ai use,1,Unclassified,,,Unclassified
+addressing socio-economic challenges,1,Unclassified,,,Unclassified
+advancing technological sovereignty,1,Unclassified,,,Unclassified
+sustainable development and well-being,1,Unclassified,,,Unclassified
+stakeholders values,1,Unclassified,,,Unclassified
+human rights and democratic values,1,Social,Human Flourishing,Contextual and Evaluative Elements,Contextual and Evaluative Elements
+applied ai ethics support,1,Unclassified,,,Unclassified
+investor connections,1,Unclassified,,,Unclassified
+ai ethics committee,1,Unclassified,,,Unclassified
+foresight,1,Unclassified,,,Unclassified
+fostering innovation in targeted sectors such as healthcare,1,Unclassified,,,Unclassified
+leveraging ai for economic growth and inclusivity,1,Social,Respect for Nature,Relational Social Values (Interpersonal,Relational Social Values (Interpersonal
+ethical ai development and use,1,Unclassified,Ethical Governance,Ethical Governance,Ethical Governance
+promoting data privacy and security,1,Core,,,Core
+importation of best practices,1,Unclassified,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+collaborative research,1,Unclassified,,,Unclassified
+proactive mitigation,1,Unclassified,,,Unclassified
+mitigating biases and ensuring fairness,1,Core,Fairness,Personal Values,Personal Values
+smart cities,1,Unclassified,,,Unclassified
+increased turnover,1,Unclassified,,,Unclassified
+and mobility,1,Unclassified,,,Unclassified
+economic empowerment,1,Unclassified,,,Unclassified
+economic competitiveness,1,Unclassified,,,Unclassified
+new product introduction,1,Unclassified,,,Unclassified
+international leadership,1,Unclassified,,,Unclassified
+job creation,1,Unclassified,,,Unclassified
+team expansion,1,Unclassified,,,Unclassified
+shared public resources,1,Unclassified,,,Unclassified
+quality education,1,Unclassified,,,Unclassified
+continuous learning,1,Unclassified,,,Unclassified
+responsible algorithmic decisions,1,Unclassified,,,Unclassified
+promotion of innovation,1,Unclassified,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+human welfare,1,Unclassified,,,Unclassified
+nondiscrimination,1,Unclassified,,,Unclassified
+purposeful,1,Unclassified,,,Unclassified
+effective and safe,1,Unclassified,,,Unclassified
+secure and private,1,Unclassified,,,Unclassified
+fair and equitable,1,Unclassified,,,Unclassified
+transparent and explainable,1,Unclassified,,,Unclassified
+accountable and monitored,1,Unclassified,,,Unclassified
+rinciples,1,Unclassified,,,Unclassified
+equity and fairness,1,Core,Fairness,Personal Values,Personal Values
+tackling technological challenges and leveraging opportunities,1,Unclassified,,,Unclassified
+user agency,1,Unclassified,,,Unclassified
+ethical ai education,1,Unclassified,,,Unclassified
+public perception analysis,1,Unclassified,,,Unclassified
+respect for human rights and human dignity,1,Social,Respect,Virtues,Virtues
+living in peaceful just and interconnected societies,1,Unclassified,,,Unclassified
+ensuring diversity and inclusiveness,1,Social,,,Social
+environmental and ecosystem flourishing,1,Unclassified,Human Flourishing,Contextual and Evaluative Elements,Contextual and Evaluative Elements
+proportionality and do no harm,1,Unclassified,,,Unclassified
+beneficial use,1,Unclassified,,,Unclassified
+progressive development,1,Unclassified,,,Unclassified
+openness and transparency,1,Core,Transparency,Relationtional Social Values (Interpersonal),Relationtional Social Values (Interpersonal)
+people-centered development,1,Unclassified,,,Unclassified
+social impact,1,Unclassified,,,Unclassified
+effective remedy,1,Unclassified,,,Unclassified
+promoting international cooperation on ai standards to ensure fairness,1,Core,,,Core
+and shared global benefits,1,Unclassified,Global Impact,Structural Values (Systems),Structural Values (Systems)
+minimization of harm,1,Unclassified,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+addressing misuse and misinformation,1,Unclassified,,,Unclassified
+ethical integration into society,1,Unclassified,Ethical Governance,Ethical Governance,Ethical Governance
+equal opportunity,1,Unclassified,,,Unclassified
+financial literacy,1,Unclassified,,,Unclassified
+justice and fairness,1,Core,Fairness,Personal Values,Personal Values
+nature,1,Unclassified,Respect for Nature,Relational Social Values (Interpersonal,Relational Social Values (Interpersonal
+sustainable development values,1,Unclassified,,,Unclassified
+efficiency,1,Unclassified,,,Unclassified
+editorial integrity,1,Unclassified,Integrity,Aspirational Social Values (Goals),Aspirational Social Values (Goals)
+journalistic responsibility,1,Core,Responsibility,Core Chosen,Core Chosen
+pattern recognition,1,Unclassified,,,Unclassified
+predictive modeling,1,Unclassified,,,Unclassified
+real-time monitoring,1,Unclassified,,,Unclassified
+access to effective remedy,1,Unclassified,,,Unclassified
+social-systems analysis,1,Unclassified,Social Harmony,Regulatory,Regulatory
+ethical design frameworks,1,Unclassified,,,Unclassified
+ai bias and discrimination,1,Unclassified,,,Unclassified
+human rights due diligence,1,Social,,,Social
+right to human determination,1,Unclassified,Human Flourishing,Contextual and Evaluative Elements,Contextual and Evaluative Elements
+identification obligation,1,Unclassified,,,Unclassified
+assessment and accountability obligation,1,Core,Accountability,Virtues,Virtues
+renewable energy,1,Unclassified,,,Unclassified
+societal progress,1,Unclassified,,,Unclassified
+nonviolence,1,Unclassified,,,Unclassified
+alleviation of suffering,1,Unclassified,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+mindfulness,1,Unclassified,,,Unclassified
+ethical intent,1,Unclassified,,,Unclassified
+compassion,1,Social,Compassion,Operational Cultural Values,Operational Cultural Values
+ibm ai principles,1,Unclassified,,,Unclassified
+ai ethics board,1,Unclassified,Digital Ethics (Emerging),Normative,Normative
+augmenting human intelligence,1,Unclassified,Human Flourishing,Contextual and Evaluative Elements,Contextual and Evaluative Elements
+civil rights,1,Unclassified,,,Unclassified
+active inclusion,1,Unclassified,,,Unclassified
+right to understanding,1,Unclassified,,,Unclassified
+access to redress,1,Unclassified,,,Unclassified
+human identity and uniqueness,1,Unclassified,Human Flourishing,Contextual and Evaluative Elements,Contextual and Evaluative Elements
+global equality,1,Social,,,Social
+social cohesion,1,Unclassified,,,Unclassified
+"peace
+
+principles",1,Unclassified,,,Unclassified
+precautionary regulation,1,Unclassified,,,Unclassified
+accountability frameworks,1,Core,Accountability,Virtues,Virtues
+un engagement,1,Unclassified,,,Unclassified
+ecumenical collaboration,1,Social,,,Social
+workforce adaptation values,1,Unclassified,,,Unclassified
+automation,1,Unclassified,,,Unclassified
+public safety obligation,1,Core,,,Core
+humanoid robotics,1,Unclassified,,,Unclassified
+cybersecurity obligation,1,Core,,,Core
+prohibition on secret profiling,1,Unclassified,,,Unclassified
+fairness obligation,1,Core,Fairness,Personal Values,Personal Values
+and validity obligations,1,Unclassified,,,Unclassified
+data quality obligation,1,Unclassified,,,Unclassified
+public disclosure obligation,1,Unclassified,,,Unclassified
+termination obligation,1,Unclassified,,,Unclassified
+advancing ai research,1,Unclassified,,,Unclassified
+developing efficient ai models,1,Unclassified,,,Unclassified
+addressing complex challenges,1,Unclassified,,,Unclassified
+creating high-impact outcomes,1,Unclassified,Global Impact,Structural Values (Systems),Structural Values (Systems)
+inclusive deliberation,1,Unclassified,,,Unclassified
+proactive ethics,1,Unclassified,Digital Ethics (Emerging),Normative,Normative
+participatory governance,1,Unclassified,,,Unclassified
+shared egalitarian future,1,Unclassified,,,Unclassified
+democratic principles,1,Unclassified,,,Unclassified
+defending democracy,1,Unclassified,,,Unclassified
+combating socio-economic injustices,1,Core,Justice,Virtues,Virtues
+european identity,1,Unclassified,,,Unclassified
+societal values,1,Unclassified,,,Unclassified
+artificial intelligence advancements,1,Unclassified,,,Unclassified
+fostering ethical ai design,1,Unclassified,Ethical Governance,Ethical Governance,Ethical Governance
+establishing robust regulatory and governance frameworks,1,Unclassified,Ethical Governance,Ethical Governance,Ethical Governance
+workforce transformation,1,Unclassified,,,Unclassified
+veracity and robustness,1,Core,,,Core
+prevention of manipulation,1,Unclassified,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+social connectivity,1,Unclassified,Connectivity,Personal Values,Personal Values
+equal access,1,Unclassified,,,Unclassified
+limitation on human enhancement,1,Unclassified,Human Flourishing,Contextual and Evaluative Elements,Contextual and Evaluative Elements
+equitability,1,Unclassified,,,Unclassified
+governability,1,Unclassified,,,Unclassified
+strategic alignment,1,Unclassified,,,Unclassified
+realistic expectations,1,Unclassified,,,Unclassified
+partner clarity,1,Unclassified,,,Unclassified
+organizational structure,1,Unclassified,,,Unclassified
+privacy safeguards,1,Core,,,Core
+addressing the moral and ethical implications of ai,1,Unclassified,Ethical Governance,Ethical Governance,Ethical Governance
+ethical and responsible ai use,1,Unclassified,Ethical Governance,Ethical Governance,Ethical Governance
+ensuring societal trust,1,Social,Trust,Collective Social Values (Societal),Collective Social Values (Societal)
+mitigating biases and discrimination,1,Unclassified,,,Unclassified
+securing informed consent,1,Unclassified,,,Unclassified
+data minimization and purpose limitation,1,Unclassified,,,Unclassified
+accuracy and security in data handling,1,Core,,,Core
+and equitable ai access,1,Unclassified,,,Unclassified
+and human-centric ai design,1,Unclassified,Human Flourishing,Contextual and Evaluative Elements,Contextual and Evaluative Elements
+compliance with international law,1,Unclassified,Compliance,Structural Values (Systems),Structural Values (Systems)
+non-anthropomorphization,1,Unclassified,Non-maleficence,Aspirational Social Values (Goals),Aspirational Social Values (Goals)
+data management,1,Unclassified,,,Unclassified
+freedom of choice,1,Unclassified,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+human safety,1,Core,,,Core
+fallback,1,Unclassified,,,Unclassified
+"fat ml
+values",1,Unclassified,,,Unclassified
+factual accuracy,1,Core,,,Core
+journalistic integrity,1,Unclassified,Integrity,Aspirational Social Values (Goals),Aspirational Social Values (Goals)
+non-deception,1,Unclassified,,,Unclassified
+human rights impact assessment,1,Social,Human Flourishing,Contextual and Evaluative Elements,Contextual and Evaluative Elements
+legal safeguards,1,Unclassified,,,Unclassified
+digital rights,1,Unclassified,Digital Ethics (Emerging),Normative,Normative
+privacy-by-design,1,Core,,,Core
+ethical data processing,1,Unclassified,,,Unclassified
+encryption,1,Unclassified,,,Unclassified
+risk-based governance,1,Unclassified,,,Unclassified
+automated decision safeguards,1,Unclassified,,,Unclassified
+ensuring security,1,Core,,,Core
+ai transparency reporting,1,Core,Transparency,Relationtional Social Values (Interpersonal),Relationtional Social Values (Interpersonal)
+ethical ai guidelines,1,Unclassified,,,Unclassified
+alignment with ai bill of rights,1,Unclassified,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+corporate responsibility,1,Core,Responsibility,Core Chosen,Core Chosen
+algorithmic discrimination protections,1,Unclassified,,,Unclassified
+notice and explanation,1,Unclassified,,,Unclassified
+human alternatives,1,Unclassified,,,Unclassified
+consideration,1,Unclassified,,,Unclassified
+ai as tools,1,Unclassified,,,Unclassified
+privacy values,1,Core,,,Core
+ethical innovation,1,Unclassified,,,Unclassified
+efficient,1,Unclassified,,,Unclassified
+risk anticipation and protection,1,Unclassified,,,Unclassified
+personalized,1,Unclassified,,,Unclassified
+enriched experiences,1,Unclassified,,,Unclassified
+customer happiness,1,Unclassified,,,Unclassified
+resource and infrastructure resilience,1,Unclassified,Resilience,Structural Values (Systems),Structural Values (Systems)
+and use,1,Unclassified,,,Unclassified
+continuous evaluation,1,Unclassified,,,Unclassified
+awareness,1,Unclassified,,,Unclassified
+access and redress,1,Unclassified,,,Unclassified
+explanation,1,Unclassified,,,Unclassified
+data provenance,1,Unclassified,,,Unclassified
+validation and testing,1,Unclassified,,,Unclassified
+ethical ai adoption,1,Unclassified,,,Unclassified
+knowledge-sharing,1,Unclassified,,,Unclassified
+safety and reliability,1,Core,,,Core
+worker empowerment,1,Unclassified,,,Unclassified
+protection of rights,1,Unclassified,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+training,1,Unclassified,,,Unclassified
+littler,1,Unclassified,,,Unclassified
+com,1,Unclassified,Compliance,Structural Values (Systems),Structural Values (Systems)
+bakerbotts,1,Unclassified,,,Unclassified
+optimized resource use,1,Unclassified,,,Unclassified
+integrated services,1,Unclassified,,,Unclassified
+protection of human rights and freedoms,1,Social,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+seamless,1,Unclassified,,,Unclassified
+innovation cycle integrity,1,Unclassified,Integrity,Aspirational Social Values (Goals),Aspirational Social Values (Goals)
+reasonable thrift,1,Unclassified,,,Unclassified
+support for competition,1,Unclassified,,,Unclassified
+technological independence,1,Unclassified,,,Unclassified
+economic efficiency,1,Unclassified,,,Unclassified
+competitive fairness,1,Core,Fairness,Personal Values,Personal Values
+customer success,1,Unclassified,,,Unclassified
+proportionality and do not harm,1,Unclassified,,,Unclassified
+behavioral,1,Unclassified,,,Unclassified
+right to privacy and data protection,1,Core,,,Core
+equality and human flourishing,1,Social,Human Flourishing,Contextual and Evaluative Elements,Contextual and Evaluative Elements
+measurability,1,Unclassified,,,Unclassified
+inclusive dialogue,1,Unclassified,,,Unclassified
+copyright,1,Unclassified,,,Unclassified
+data accuracy,1,Core,,,Core
+"regulatory mechanisms
+values",1,Unclassified,,,Unclassified
+training capabilities,1,Unclassified,,,Unclassified
+critical thinking cultivation,1,Unclassified,,,Unclassified
+truth,1,Unclassified,,,Unclassified
+community and inclusivity,1,Social,Community,Personal Values,Personal Values
+environment stewardship,1,Unclassified,,,Unclassified
+enable human oversight,1,Unclassified,,,Unclassified
+meaningful human interaction,1,Unclassified,Human Flourishing,Contextual and Evaluative Elements,Contextual and Evaluative Elements
+environmental protection,1,Unclassified,,,Unclassified
+fairness across diverse users,1,Core,Fairness,Personal Values,Personal Values
+refusal to create harmful content,1,Unclassified,,,Unclassified
+promotion of human autonomy,1,Core,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+avoidance of deception,1,Unclassified,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+digital infrastructure,1,Unclassified,,,Unclassified
+responsible ai governance,1,Unclassified,,,Unclassified
+risk and humanitarian impact assessment,1,Unclassified,Global Impact,Structural Values (Systems),Structural Values (Systems)
+good banking and insurance practices,1,Unclassified,,,Unclassified
+corporate responsibility policies,1,Core,Responsibility,Core Chosen,Core Chosen
+un principles of responsible banking,1,Unclassified,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+un global compact initiative principles,1,Unclassified,Global Impact,Structural Values (Systems),Structural Values (Systems)
+code of business ethics,1,Unclassified,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+commitment to the paris agreement,1,Unclassified,,,Unclassified
+benevolence,1,Unclassified,,,Unclassified
+righteousness,1,Unclassified,,,Unclassified
+propriety,1,Unclassified,,,Unclassified
+wisdom,1,Unclassified,,,Unclassified
+fidelity,1,Unclassified,,,Unclassified
+relationality,1,Unclassified,,,Unclassified
+avoiding harm,1,Unclassified,,,Unclassified
+moral cultivation,1,Unclassified,,,Unclassified
+societal harmony,1,Unclassified,Social Harmony,Regulatory,Regulatory
+protection of privacy,1,Core,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+transparency in limitations,1,Core,Transparency,Relationtional Social Values (Interpersonal),Relationtional Social Values (Interpersonal)
+healthcare innovation,1,Unclassified,,,Unclassified
+avoid reinforcing harmful biases,1,Unclassified,,,Unclassified
+international competitiveness,1,Unclassified,,,Unclassified
+climate risk mitigation,1,Unclassified,,,Unclassified
+african autonomy,1,Core,,,Core
+helpfulness,1,Unclassified,,,Unclassified
+harmlessness,1,Unclassified,,,Unclassified
+regional integration,1,Unclassified,,,Unclassified
+protection of vulnerable individuals,1,Unclassified,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+refusal of illegal content,1,Unclassified,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+clarity,1,Unclassified,,,Unclassified
+human wellbeing,1,Unclassified,,,Unclassified
+truthfulness,1,Unclassified,,,Unclassified
+balance,1,Unclassified,,,Unclassified
+thoughtfulness,1,Unclassified,,,Unclassified
+intellectual exploration,1,Unclassified,,,Unclassified
+morals,1,Unclassified,,,Unclassified
+respect autonomy,1,Core,Respect,Virtues,Virtues
+protect children and vulnerable individuals,1,Unclassified,,,Unclassified
+refuse to create dangerous content,1,Unclassified,,,Unclassified
+maintain intellectual honesty,1,Unclassified,Honesty,Relationtional Social Values (Interpersonal),Relationtional Social Values (Interpersonal)
+support human flourishing,1,Emerging,Human Flourishing,Contextual and Evaluative Elements,Contextual and Evaluative Elements
+avoid manipulation,1,Unclassified,,,Unclassified
+relational integrity,1,Unclassified,Integrity,Aspirational Social Values (Goals),Aspirational Social Values (Goals)
+moral wisdom,1,Unclassified,,,Unclassified
+local first,1,Unclassified,,,Unclassified
+ethics and transparency,1,Core,Transparency,Relationtional Social Values (Interpersonal),Relationtional Social Values (Interpersonal)
+right to information,1,Unclassified,,,Unclassified
+fairness and discrimination,1,Core,Fairness,Personal Values,Personal Values
+equitable,1,Unclassified,,,Unclassified
+traceable,1,Unclassified,,,Unclassified
+governable,1,Unclassified,,,Unclassified
+societal impacts,1,Unclassified,,,Unclassified
+ai r,1,Unclassified,,,Unclassified
+d guidelines,1,Unclassified,,,Unclassified
+global standards,1,Unclassified,,,Unclassified
+ai development best practices,1,Unclassified,,,Unclassified
+national ai alliance,1,Unclassified,,,Unclassified
+investment in foundational ai research,1,Unclassified,,,Unclassified
+tackling multidisciplinary ai challenges,1,Unclassified,,,Unclassified
+data sharing,1,Unclassified,,,Unclassified
+support for startups values,1,Unclassified,,,Unclassified
+authonomy,1,Unclassified,,,Unclassified
+ethical governance of artificial intelligence,1,Unclassified,Ethical Governance,Ethical Governance,Ethical Governance
+global ai governance frameworks,1,Unclassified,Ethical Governance,Ethical Governance,Ethical Governance
+ai governance ethics,1,Unclassified,,,Unclassified
+advancement of human welfare,1,Unclassified,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+protection of privacy and security,1,Core,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+data protection by design,1,Core,,,Core
+stakeholder roles,1,Unclassified,,,Unclassified
+ai benefits and risks,1,Unclassified,,,Unclassified
+innovation-driven growth,1,Unclassified,,,Unclassified
+cooperation and integration,1,Unclassified,,,Unclassified
+people-centered,1,Unclassified,,,Unclassified
+human rights and human dignity,1,Social,Dignity,Relational Social Values (Interpersonal,Relational Social Values (Interpersonal
+peace and prosperity,1,Unclassified,,,Unclassified
+inclusion and diversity,1,Social,,,Social
+purpose specification,1,Unclassified,,,Unclassified
+ethics by design,1,Unclassified,Digital Ethics (Emerging),Normative,Normative
+protection of human rights and liberties,1,Social,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+doing good,1,Unclassified,,,Unclassified
+technological self-reliance,1,Unclassified,,,Unclassified
+procedural fairness,1,Core,Fairness,Personal Values,Personal Values
+economic and social impacts,1,Unclassified,Global Impact,Structural Values (Systems),Structural Values (Systems)
+managing ai risk,1,Unclassified,,,Unclassified
+ai morality and values,1,Unclassified,,,Unclassified
+addressing global challenges,1,Unclassified,Global Impact,Structural Values (Systems),Structural Values (Systems)
+automated decision-making,1,Unclassified,,,Unclassified
+ethical design practices,1,Unclassified,,,Unclassified
+interactive self-assessment,1,Unclassified,,,Unclassified
+disparate impacts,1,Unclassified,,,Unclassified
+legality,1,Unclassified,,,Unclassified
+algorithmic accountability,1,Core,Accountability,Virtues,Virtues
+content labeling,1,Unclassified,,,Unclassified
+strengthening of accountability,1,Core,Accountability,Virtues,Virtues
+government and public services,1,Unclassified,,,Unclassified
+technological advancement,1,Unclassified,,,Unclassified
+economic progress,1,Unclassified,,,Unclassified
+transparent and explainable ai,1,Unclassified,,,Unclassified
+fair ai,1,Unclassified,,,Unclassified
+enables individual understand and ethical interaction with ai systems,1,Unclassified,Ethical Governance,Ethical Governance,Ethical Governance
+explainability - behavioral,1,Core,,,Core
+foster innovation and open development,1,Unclassified,Open-mindedness,Contextual and Evaluative Elements,Contextual and Evaluative Elements
+create new human employment opportunities and protect people,1,Unclassified,Human Flourishing,Contextual and Evaluative Elements,Contextual and Evaluative Elements
+vital for pbulic trust,1,Social,Trust,Collective Social Values (Societal),Collective Social Values (Societal)
+liberate data responsibly,1,Unclassified,,,Unclassified
+rethink privacy values,1,Core,,,Core
+ethical data use,1,Unclassified,,,Unclassified
+bridges principle with implementation,1,Unclassified,,,Unclassified
+transparency - normative,1,Core,Transparency,Relationtional Social Values (Interpersonal),Relationtional Social Values (Interpersonal)
+enables traceability and enforceability within governance structures,1,Unclassified,Ethical Governance,Ethical Governance,Ethical Governance
+impact assessment,1,Unclassified,,,Unclassified
+accountability - regulatory,1,Core,Accountability,Virtues,Virtues
+reflects universal moral aspiration toward quality and justice,1,Core,,,Core
+productivity,1,Unclassified,,,Unclassified
+fairness - normative,1,Core,Fairness,Personal Values,Personal Values
+using the nbrc classification,1,Unclassified,,,Unclassified
+ai education,1,Unclassified,,,Unclassified
+capacity,1,Unclassified,,,Unclassified
+alignment with core socialist values,1,Unclassified,,,Unclassified
+ai-driven industrialization,1,Unclassified,,,Unclassified
+risk-based classification,1,Unclassified,,,Unclassified
+unacceptable risk,1,Unclassified,,,Unclassified
+high risk,1,Unclassified,,,Unclassified
+limited risk,1,Unclassified,,,Unclassified
+minimal risk,1,Unclassified,,,Unclassified
+governance and enforcement,1,Unclassified,,,Unclassified
+conformity assessments,1,Unclassified,,,Unclassified
+global influence,1,Unclassified,,,Unclassified
+research excellence,1,Unclassified,,,Unclassified
+inclusive participation,1,Social,,,Social
+artificial intelligence initiative act,1,Unclassified,,,Unclassified
+national strategy for ai leadership,1,Unclassified,Respect for Nature,Relational Social Values (Interpersonal,Relational Social Values (Interpersonal
+ai policy roadmap,1,Unclassified,,,Unclassified
+ai research funding,1,Unclassified,,,Unclassified
+ai safety and security,1,Core,,,Core
+safe and ethical ai,1,Unclassified,,,Unclassified
+human-ai interfaces and robotics,1,Unclassified,Human Flourishing,Contextual and Evaluative Elements,Contextual and Evaluative Elements
+multi-agent systems,1,Unclassified,,,Unclassified
+ethics and regulation values,1,Unclassified,,,Unclassified
+social inclusion,1,Unclassified,,,Unclassified
+skills and education,1,Unclassified,,,Unclassified
+addressing development challenges,1,Unclassified,,,Unclassified
+capacity building,1,Unclassified,,,Unclassified
+collaborative efforts values,1,Unclassified,,,Unclassified
+beneficial intelligence,1,Unclassified,,,Unclassified
+rights and liberties,1,Unclassified,,,Unclassified
+bias and inclusion,1,Unclassified,,,Unclassified
+labor and automation,1,Unclassified,,,Unclassified
+non-maleficence values,1,Unclassified,Non-maleficence,Aspirational Social Values (Goals),Aspirational Social Values (Goals)
+customer satisfaction,1,Unclassified,,,Unclassified
+illustrative,1,Unclassified,,,Unclassified
+cooperative,1,Unclassified,,,Unclassified
+ethics risk,1,Unclassified,Digital Ethics (Emerging),Normative,Normative
+workforce risk,1,Unclassified,,,Unclassified
+technology risk,1,Unclassified,,,Unclassified
+trustworthy,1,Social,Trust,Collective Social Values (Societal),Collective Social Values (Societal)
+secure,1,Unclassified,,,Unclassified
+transparent,1,Unclassified,Transparency,Relationtional Social Values (Interpersonal),Relationtional Social Values (Interpersonal)
+supporting,1,Unclassified,,,Unclassified
+careful,1,Unclassified,,,Unclassified
+multistakeholder engagement,1,Unclassified,,,Unclassified
+responsible,1,Unclassified,,,Unclassified
+educational enhancement,1,Unclassified,,,Unclassified
+scientific discovery,1,Unclassified,,,Unclassified
+and data protection,1,Core,,,Core
+agricultural advancement,1,Unclassified,,,Unclassified
+and safety,1,Core,,,Core
+ethics and governance,1,Unclassified,Ethical Governance,Ethical Governance,Ethical Governance
+and well-being,1,Unclassified,,,Unclassified
+digital literacy,1,Unclassified,,,Unclassified
+global well-being,1,Unclassified,,,Unclassified
+human,1,Unclassified,Human Flourishing,Contextual and Evaluative Elements,Contextual and Evaluative Elements
+social,1,Unclassified,Social Harmony,Regulatory,Regulatory
+and environmental wellbeing,1,Unclassified,,,Unclassified
+privacy protection and security,1,Core,,,Core
+safe and controllable,1,Unclassified,,,Unclassified
+promote equal access to technology,1,Unclassified,,,Unclassified
+empower human learning and growth,1,Unclassified,Human Flourishing,Contextual and Evaluative Elements,Contextual and Evaluative Elements
+bring more freedom and possibilities to humankind,1,Unclassified,,,Unclassified
+value alignment values,1,Emerging,,,Emerging
+public service enhancement,1,Unclassified,,,Unclassified
+informed consent,1,Unclassified,,,Unclassified
+optimizing employment,1,Unclassified,,,Unclassified
+harmony and cooperation,1,Unclassified,Social Harmony,Regulatory,Regulatory
+adaptation and moderation,1,Unclassified,,,Unclassified
+subdivision and implementation,1,Unclassified,,,Unclassified
+long-term planning values,1,Unclassified,,,Unclassified
+talent and research,1,Unclassified,,,Unclassified
+infrastructure development,1,Unclassified,,,Unclassified
+governance values,1,Unclassified,,,Unclassified
+assurance of controllability and trustworthiness,1,Social,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+cultivation of ethics,1,Unclassified,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+privacy by design,1,Core,,,Core
+responsible and value-centric,1,Unclassified,,,Unclassified
+control,1,Unclassified,,,Unclassified
+preventing bias and inequality,1,Social,,,Social
+continuous review and dialogue,1,Unclassified,,,Unclassified
+preserving human autonomy,1,Core,,,Core
+vulnerability identification and reporting,1,Unclassified,,,Unclassified
+information sharing,1,Unclassified,,,Unclassified
+ai governance and risk management,1,Unclassified,Ethical Governance,Ethical Governance,Ethical Governance
+security controls,1,Core,,,Core
+content authentication,1,Unclassified,,,Unclassified
+research investment,1,Unclassified,,,Unclassified
+global challenges,1,Unclassified,,,Unclassified
+international standards,1,Unclassified,,,Unclassified
+freedom and autonomy,1,Core,,,Core
+equality and justice,1,Core,Justice,Virtues,Virtues
+transparency and intelligibility,1,Core,Transparency,Relationtional Social Values (Interpersonal),Relationtional Social Values (Interpersonal)
+promoting global unity,1,Unclassified,Global Impact,Structural Values (Systems),Structural Values (Systems)
+"ethical ai development
+values",1,Unclassified,Ethical Governance,Ethical Governance,Ethical Governance
+respect for private life,1,Social,Respect,Virtues,Virtues
+ownership,1,Unclassified,,,Unclassified
+enhancing human welfare,1,Unclassified,,,Unclassified
+prohibition of discrimination,1,Unclassified,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+rights-respecting,1,Social,Respect,Virtues,Virtues
+access to remedy,1,Unclassified,,,Unclassified
+harmony and friendliness,1,Unclassified,Social Harmony,Regulatory,Regulatory
+corporate responsibility to respect human rights,1,Core,Responsibility,Core Chosen,Core Chosen
+respect for privacy,1,Core,Respect,Virtues,Virtues
+safety and controllability,1,Core,,,Core
+open collaboration,1,Social,,,Social
+agile governance values,1,Unclassified,,,Unclassified
+human rights approach,1,Social,,,Social
+non discrimination,1,Unclassified,,,Unclassified
+political participation,1,Social,,,Social
+freedom of expression values,1,Unclassified,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+maintaining life purpose,1,Unclassified,,,Unclassified
+support for innovation,1,Unclassified,,,Unclassified
+regulation and legal frameworks,1,Unclassified,,,Unclassified
+global leadership and collaboration,1,Social,Global Impact,Structural Values (Systems),Structural Values (Systems)
+ai risk assessment and management,1,Unclassified,,,Unclassified
+transparency and public awareness,1,Core,Transparency,Relationtional Social Values (Interpersonal),Relationtional Social Values (Interpersonal)
+democratic engagement,1,Unclassified,,,Unclassified
+putting people first,1,Unclassified,,,Unclassified
+regulatory conditions,1,Unclassified,,,Unclassified
+active global ai governance,1,Unclassified,Ethical Governance,Ethical Governance,Ethical Governance
+involving stakeholders,1,Unclassified,,,Unclassified
+monitoring and continuous development,1,Unclassified,,,Unclassified
+state duty to protect human rights,1,Social,Human Flourishing,Contextual and Evaluative Elements,Contextual and Evaluative Elements
+access to justice,1,Core,Justice,Virtues,Virtues
+and the right to a fair trial,1,Unclassified,,,Unclassified
+additionally,1,Unclassified,,,Unclassified
+the report proposes two novel human rights,1,Social,Human Flourishing,Contextual and Evaluative Elements,Contextual and Evaluative Elements
+bias awareness and mitigation,1,Unclassified,,,Unclassified
+human oversight in ai systems,1,Unclassified,Human Flourishing,Contextual and Evaluative Elements,Contextual and Evaluative Elements
+accountability in ai-driven research,1,Core,Accountability,Virtues,Virtues
+holistic thinking,1,Unclassified,,,Unclassified
+relational ai,1,Unclassified,,,Unclassified
+community engagement,1,Social,Community,Personal Values,Personal Values
+reciprocity,1,Social,,,Social
+cultural sovereignty,1,Unclassified,,,Unclassified
+indigenous data governance,1,Unclassified,,,Unclassified
+knowledge integration,1,Unclassified,,,Unclassified
+epistemic plurality,1,Unclassified,,,Unclassified
+sovereignty,1,Unclassified,,,Unclassified
+regeneration,1,Unclassified,,,Unclassified
+value proposition,1,Unclassified,,,Unclassified
+usability,1,Unclassified,,,Unclassified
+technical assurance,1,Unclassified,,,Unclassified
+clinical safety,1,Core,,,Core
+data transparency,1,Core,Transparency,Relationtional Social Values (Interpersonal),Relationtional Social Values (Interpersonal)
+evidence generation,1,Unclassified,,,Unclassified
+commercial strategy,1,Unclassified,,,Unclassified
+fostering digital transformation,1,Unclassified,,,Unclassified
+ethical use of ai,1,Unclassified,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+"environmental responsibility
+
+principles",1,Core,Responsibility,Core Chosen,Core Chosen
+privacy and data security,1,Core,,,Core
+autonomy in decision-making,1,Core,,,Core
+the right not to be measured,1,Unclassified,,,Unclassified
+analyzed,1,Unclassified,,,Unclassified
+or coached,1,Unclassified,,,Unclassified
+and the right to meaningful human contact,1,Unclassified,Human Flourishing,Contextual and Evaluative Elements,Contextual and Evaluative Elements
+scientific advancement,1,Unclassified,,,Unclassified
+addressing infrastructure challenges,1,Unclassified,,,Unclassified
+education and literacy,1,Unclassified,,,Unclassified
+human authorship and responsibility,1,Core,Responsibility,Core Chosen,Core Chosen
+protection against bias and discrimination,1,Unclassified,,,Unclassified
+ethical use across sectors,1,Unclassified,,,Unclassified
+fairness and equity,1,Core,Fairness,Personal Values,Personal Values
+augmentation,1,Unclassified,,,Unclassified
+compute capacity,1,Unclassified,,,Unclassified
+innovation centre,1,Unclassified,,,Unclassified
+datasets platform,1,Unclassified,,,Unclassified
+application development,1,Unclassified,,,Unclassified
+futureskills,1,Unclassified,,,Unclassified
+startup financing,1,Unclassified,,,Unclassified
+"trusted ai
+values",1,Social,Trust,Collective Social Values (Societal),Collective Social Values (Societal)
+skill enhancement,1,Unclassified,,,Unclassified
+inclusivity and sharing,1,Social,,,Social
+user safety,1,Core,,,Core
+sector-specific guidelines,1,Unclassified,,,Unclassified
+transparency values,1,Core,Transparency,Relationtional Social Values (Interpersonal),Relationtional Social Values (Interpersonal)
+privacy and consent,1,Core,,,Core
+ethical integration of ai in society,1,Unclassified,Ethical Governance,Ethical Governance,Ethical Governance
+minimize harm,1,Unclassified,,,Unclassified
+distribute benefits and risks,1,Unclassified,,,Unclassified
+ethical codes values,1,Unclassified,,,Unclassified
+patient welfare,1,Unclassified,,,Unclassified
+showing its workings,1,Unclassified,,,Unclassified
+creativity,1,Unclassified,,,Unclassified
+prohibition of harmful projects,1,Unclassified,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+rejection of military funding,1,Unclassified,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+exclusion of military-affiliated collaborations,1,Social,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+opposition to military applications of ai,1,Unclassified,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+opposition to surveillance and privacy invasion,1,Core,,,Core
+moral and ethical implications,1,Unclassified,Ethical Governance,Ethical Governance,Ethical Governance
+regulatory and governance frameworks,1,Unclassified,Ethical Governance,Ethical Governance,Ethical Governance
+technological challenges and opportunities,1,Unclassified,,,Unclassified
+ethical considerations in ai design,1,Unclassified,Ethical Governance,Ethical Governance,Ethical Governance
+international cooperation on ai standards values,1,Unclassified,,,Unclassified
+shared global benefits,1,Unclassified,Global Impact,Structural Values (Systems),Structural Values (Systems)
+fostering excellence in ai,1,Unclassified,,,Unclassified
+ensuring trustworthiness,1,Social,Trust,Collective Social Values (Societal),Collective Social Values (Societal)
+minimization of bias,1,Unclassified,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+prevention of harm,1,Unclassified,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+collaborative progress,1,Unclassified,,,Unclassified
+respect for human autonomy,1,Core,Respect,Virtues,Virtues
+ethics and regulatory framework,1,Unclassified,,,Unclassified
+fairness and equal opportunity,1,Core,Fairness,Personal Values,Personal Values
+comparing algorithmic systems,1,Unclassified,,,Unclassified
+algorithmic bias and fairness,1,Core,Fairness,Personal Values,Personal Values
+data privacy and security,1,Core,,,Core
+accountability and governance,1,Core,Accountability,Virtues,Virtues
+informed consent values,1,Unclassified,,,Unclassified
+impact on healthcare employment,1,Unclassified,Global Impact,Structural Values (Systems),Structural Values (Systems)
+regulatory and ethical oversight,1,Unclassified,Ethical Governance,Ethical Governance,Ethical Governance
+inclusive policy development,1,Unclassified,,,Unclassified
+ethical ai design,1,Unclassified,,,Unclassified
+continuous monitoring and evaluation,1,Unclassified,,,Unclassified
+strengthening regulatory frameworks,1,Unclassified,,,Unclassified
+data agency,1,Unclassified,,,Unclassified
+ethical foundations,1,Unclassified,,,Unclassified
+policy and regulation values,1,Unclassified,,,Unclassified
+interdisciplinary integrity,1,Unclassified,Integrity,Aspirational Social Values (Goals),Aspirational Social Values (Goals)
+safety and risk reduction,1,Core,,,Core
+human autonomy and control,1,Core,Human Flourishing,Contextual and Evaluative Elements,Contextual and Evaluative Elements
+ethical decision-making in dilemma situations,1,Unclassified,Ethical Governance,Ethical Governance,Ethical Governance
+responsibility and liability,1,Core,Responsibility,Core Chosen,Core Chosen
+promoting human-centric ai,1,Unclassified,Human Flourishing,Contextual and Evaluative Elements,Contextual and Evaluative Elements
+boosting research and industrial capacity,1,Unclassified,,,Unclassified
+economic transformation,1,Unclassified,,,Unclassified
+innovation-driven development,1,Unclassified,,,Unclassified
+righteous duty,1,Unclassified,,,Unclassified
+transparency and disclosure,1,Core,Transparency,Relationtional Social Values (Interpersonal),Relationtional Social Values (Interpersonal)
+accuracy and fact-checking,1,Core,,,Core
+bias awareness,1,Unclassified,,,Unclassified
+dharma,1,Unclassified,,,Unclassified
+environmental impact,1,Unclassified,Global Impact,Structural Values (Systems),Structural Values (Systems)
+clear communications about the origin of content for generative ai,1,Unclassified,Rule of Law,Digital Ethics (Emerging),Digital Ethics (Emerging)
+decision-making process,1,Unclassified,,,Unclassified
+human-centered development,1,Unclassified,Human Flourishing,Contextual and Evaluative Elements,Contextual and Evaluative Elements
+ai ecosystems,1,Unclassified,,,Unclassified
+transfer and application,1,Unclassified,,,Unclassified
+regulatory framework,1,Unclassified,,,Unclassified
+testing,1,Unclassified,,,Unclassified
+certification,1,Unclassified,,,Unclassified
+sociotechnical systems,1,Unclassified,,,Unclassified
+integration,1,Unclassified,,,Unclassified
+technology leadership,1,Unclassified,,,Unclassified
+environmental and climate protection,1,Unclassified,,,Unclassified
+european ai ecosystem values,1,Unclassified,,,Unclassified
+scientific integrity,1,Unclassified,Integrity,Aspirational Social Values (Goals),Aspirational Social Values (Goals)
+bold innovation,1,Unclassified,,,Unclassified
+transformation,1,Unclassified,,,Unclassified
+ethical global governance,1,Unclassified,Ethical Governance,Ethical Governance,Ethical Governance
+fostering research collaboration,1,Social,,,Social
+free will,1,Unclassified,,,Unclassified
+under user control,1,Unclassified,,,Unclassified
+respect of fundamental rights,1,Social,Respect,Virtues,Virtues
+quality,1,Unclassified,,,Unclassified
+respect for fundamental rights,1,Social,Respect,Virtues,Virtues
+quality and security,1,Core,,,Core
+impartiality and fairness,1,Core,Fairness,Personal Values,Personal Values
+under user control values,1,Unclassified,,,Unclassified
+labor rights,1,Unclassified,,,Unclassified
+information integrity,1,Unclassified,Integrity,Aspirational Social Values (Goals),Aspirational Social Values (Goals)
+purushartha,1,Unclassified,,,Unclassified
+ethical framework,1,Unclassified,,,Unclassified
+world as one family,1,Unclassified,,,Unclassified
+justifiability,1,Unclassified,,,Unclassified
+internal accountability,1,Core,Accountability,Virtues,Virtues
+transparency and openness,1,Core,Transparency,Relationtional Social Values (Interpersonal),Relationtional Social Values (Interpersonal)
+inclusivity and diversity,1,Social,,,Social
+sustainability values,1,Unclassified,Sustainability,Regulatory,Regulatory
+vasudhaiva kutumbakam,1,Unclassified,,,Unclassified
+human oversight values,1,Unclassified,,,Unclassified
+open data policy,1,Unclassified,,,Unclassified
+theological reflection on ai ethics,1,Unclassified,,,Unclassified

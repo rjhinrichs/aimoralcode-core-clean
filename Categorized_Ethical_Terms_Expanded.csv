@@ -1,0 +1,1085 @@
+Ethical Term,Frequency,Category
+principles,250,Unclassified
+transparency,214,Core
+values,212,Unclassified
+accountability,179,Core
+fairness,154,Core
+inclusivity,123,Social
+ethical responsibility,96,Core
+privacy,89,Core
+security,86,Core
+innovation,83,Unclassified
+sustainability,79,Unclassified
+safety,77,Core
+responsibility,73,Core
+trust,55,Social
+collaboration,46,Social
+human rights,42,Social
+justice,39,Core
+human dignity,38,Social
+explainability,35,Core
+societal trust,34,Social
+non-discrimination,33,Unclassified
+diversity,27,Social
+robustness,27,Core
+well-being,26,Unclassified
+autonomy,26,Core
+environmental sustainability,26,Unclassified
+trustworthiness,24,Social
+economic growth,24,Unclassified
+democratic values,23,Unclassified
+equity,23,Unclassified
+data protection,23,Core
+equality,23,Social
+societal well-being,21,Unclassified
+inclusive growth,19,Unclassified
+sustainable development,17,Unclassified
+governance,17,Unclassified
+safety and security,15,Core
+ethical ai development,14,Unclassified
+dignity,14,Social
+social justice,13,Core
+respect for human rights,12,Social
+human oversight,12,Unclassified
+accessibility,12,Social
+public trust,12,Social
+human-centric ai,11,Unclassified
+freedom,11,Unclassified
+respect,11,Social
+privacy and security,11,Core
+inclusiveness,11,Unclassified
+human-centric development,11,Unclassified
+ethical ai,11,Unclassified
+competitiveness,10,Unclassified
+transparency and explainability,10,Core
+ai governance,10,Unclassified
+reliability,9,Core
+responsible business conduct,9,Unclassified
+ethical ai use,9,Unclassified
+accuracy,8,Core
+digital inclusion,8,Unclassified
+ethics,8,Unclassified
+non-maleficence,8,Unclassified
+integrity,7,Unclassified
+international collaboration,7,Social
+human-centered values,7,Unclassified
+interdisciplinary collaboration,7,Social
+responsible ai development,7,Unclassified
+human capital development,7,Unclassified
+workforce development,7,Unclassified
+ethical considerations,7,Unclassified
+human-centered ai,7,Unclassified
+moral agency,7,Emerging
+labour rights,6,Unclassified
+data infrastructure,6,Unclassified
+fundamental freedoms,6,Unclassified
+social responsibility,6,Core
+global cooperation,6,Unclassified
+data governance,6,Unclassified
+human control,6,Unclassified
+technological leadership,6,Unclassified
+openness,6,Unclassified
+privacy and data protection,6,Core
+privacy protection,6,Core
+operational,6,Unclassified
+inclusion,6,Unclassified
+responsible ai deployment,6,Unclassified
+talent development,6,Emerging
+public interest,5,Unclassified
+human rights protection,5,Social
+ethical oversight,5,Unclassified
+data-driven decision-making,5,Unclassified
+human-centric approach,5,Unclassified
+empowerment,5,Unclassified
+traceability,5,Unclassified
+accountability values,5,Core
+user empowerment,5,Unclassified
+proactive governance,5,Unclassified
+beneficence,5,Unclassified
+ethical development,5,Unclassified
+explicability,5,Unclassified
+research and development,5,Unclassified
+reliability and safety,5,Core
+value alignment,5,Emerging
+education,5,Unclassified
+competence,5,Unclassified
+environmental responsibility,5,Core
+knowledge sharing,5,Unclassified
+cybersecurity,5,Core
+digital transformation,5,Unclassified
+interoperability,5,Unclassified
+rule of law,5,Unclassified
+human values,4,Unclassified
+foundational,4,Unclassified
+freedom of expression,4,Unclassified
+normative,4,Unclassified
+digital sovereignty,4,Unclassified
+adaptability,4,Unclassified
+fairness and inclusion,4,Core
+societal benefit,4,Unclassified
+resilience,4,Unclassified
+ethical use,4,Unclassified
+solidarity,4,Unclassified
+human well-being,4,Unclassified
+common good,4,Unclassified
+shared prosperity,4,Unclassified
+robustness and safety,4,Core
+environmental stewardship,4,Unclassified
+respect for autonomy,4,Core
+international cooperation,4,Unclassified
+lifelong learning,4,Unclassified
+democracy,4,Unclassified
+ecological preservation,4,Unclassified
+human agency and oversight,4,Unclassified
+continuous improvement,4,Unclassified
+human-centricity,4,Unclassified
+national competitiveness,4,Unclassified
+effectiveness,4,Unclassified
+societal impact,4,Unclassified
+human-ai collaboration,4,Social
+collective progress,4,Unclassified
+societal and environmental well-being,4,Unclassified
+purpose limitation,4,Unclassified
+academic integrity,4,Unclassified
+gender equality,4,Social
+shared responsibility,4,Core
+national security,4,Core
+proportionality,4,Unclassified
+data minimization,4,Unclassified
+awareness of misuse,3,Unclassified
+harmony,3,Unclassified
+research and innovation,3,Unclassified
+benefit and harm,3,Unclassified
+ethical governance,3,Unclassified
+agriculture,3,Unclassified
+data privacy,3,Core
+ethical deployment,3,Unclassified
+human-centric design,3,Unclassified
+global competitiveness,3,Unclassified
+responsible ai,3,Unclassified
+human-centered approach,3,Unclassified
+data security,3,Core
+interpretability,3,Unclassified
+fairness and non-discrimination,3,Core
+s welfare,3,Unclassified
+risk mitigation,3,Unclassified
+public engagement,3,Unclassified
+rights,3,Unclassified
+democratic participation,3,Social
+individual rights,3,Unclassified
+fairness and justice,3,Core
+data sovereignty,3,Unclassified
+storage limitation,3,Unclassified
+global interoperability,3,Unclassified
+safeguarding information integrity,3,Unclassified
+prudence,3,Unclassified
+predictability,3,Unclassified
+social benefit,3,Unclassified
+addressing mis- and disinformation,3,Unclassified
+fairness and equality,3,Core
+reproducibility,3,Unclassified
+human privacy,3,Core
+use wisely and properly,3,Unclassified
+open and share,3,Unclassified
+be diverse and inclusive,3,Unclassified
+responsibility and accountability,3,Core
+be ethical,3,Unclassified
+control risks,3,Unclassified
+be responsible,3,Unclassified
+for humanity,3,Unclassified
+do good,3,Unclassified
+principles and values,3,Unclassified
+judicial transparency,3,Core
+race avoidance,3,Unclassified
+science-policy link,3,Unclassified
+research funding,3,Unclassified
+research goal,3,Unclassified
+liability,3,Unclassified
+economic development,3,Unclassified
+personal privacy,3,Core
+energy efficiency,3,Unclassified
+regulatory,3,Unclassified
+ai arms race,3,Unclassified
+mas,3,Unclassified
+technological sovereignty,3,Unclassified
+capability caution,3,Unclassified
+importance,3,Unclassified
+recursive self-improvement,3,Unclassified
+risks,3,Unclassified
+non-subversion,3,Unclassified
+shared benefit,3,Social
+liberty and privacy,3,Core
+ai safety,3,Core
+failure transparency,3,Core
+research culture,3,Unclassified
+legal compliance,2,Unclassified
+global collaboration,2,Social
+contextual,2,Unclassified
+repeatability,2,Unclassified
+regulatory compliance,2,Unclassified
+confidentiality,2,Unclassified
+lawfulness,2,Unclassified
+equitable development,2,Unclassified
+multi-stakeholder and adaptive governance and collaboration,2,Social
+awareness and literacy,2,Unclassified
+human oversight and determination,2,Unclassified
+bias minimization,2,Unclassified
+trustworthy ai,2,Social
+long-term vision,2,Unclassified
+national prosperity,2,Unclassified
+and explainability,2,Core
+reliable,2,Unclassified
+promotion of human rights,2,Social
+addressing unintended consequences,2,Unclassified
+public-private collaboration,2,Social
+"com
+values",2,Unclassified
+honesty,2,Unclassified
+privacy and data governance,2,Core
+be made available for uses that accord with these principles,2,Unclassified
+uphold high standards of scientific excellence,2,Unclassified
+incorporate privacy design principles,2,Core
+be accountable to people,2,Unclassified
+be built and tested for safety,2,Core
+avoid creating or reinforcing unfair bias,2,Unclassified
+do no harm,2,Unclassified
+be socially beneficial,2,Unclassified
+ai sovereignty,2,Unclassified
+respect for human dignity,2,Social
+societal dialogue,2,Unclassified
+technological innovation,2,Unclassified
+selfless service,2,Unclassified
+seva,2,Unclassified
+lineage,2,Unclassified
+conceptual,2,Unclassified
+evaluative,2,Unclassified
+compliance,2,Unclassified
+ethics and regulation,2,Unclassified
+robustness and security,2,Core
+bias and fairness,2,Core
+interpretability and explainability,2,Core
+promotion of human values,2,Unclassified
+bias mitigation,2,Unclassified
+human responsibility,2,Core
+ethical standards,2,Unclassified
+intellect,2,Unclassified
+nafs,2,Unclassified
+life,2,Unclassified
+preservation of faith,2,Unclassified
+human judgment,2,Unclassified
+social stability,2,Unclassified
+professional responsibility,2,Core
+safety and control,2,Core
+ethical integrity,2,Unclassified
+economic and workforce considerations,2,Unclassified
+auditability,2,Unclassified
+workforce adaptation,2,Unclassified
+promotion of fairness and justice,2,Core
+respect human rights,2,Social
+fostering innovation responsibly,2,Unclassified
+nasl,2,Unclassified
+ethical design,2,Unclassified
+ethical integration,2,Unclassified
+broadly distributed benefits,2,Unclassified
+long-term safety,2,Core
+technical leadership,2,Unclassified
+cooperative orientation,2,Unclassified
+intellectual property rights,2,Unclassified
+user data rights,2,Unclassified
+humanity,2,Unclassified
+ai governance framework,2,Unclassified
+healthcare,2,Unclassified
+risk assessment,2,Unclassified
+smart cities and infrastructure,2,Unclassified
+smart mobility and transportation,2,Unclassified
+data availability and quality,2,Unclassified
+skilled workforce,2,Unclassified
+skilling for the ai age,2,Unclassified
+accelerating adoption,2,Unclassified
+impartiality,2,Unclassified
+fundamental rights,2,Unclassified
+preservation of fundamental aspects of human existence,2,Unclassified
+fostering innovation,2,Unclassified
+and wealth,2,Unclassified
+diversity and inclusion,2,Social
+technical robustness and safety,2,Core
+protection of privacy and intimacy,2,Core
+ai ethics,2,Unclassified
+data ownership,2,Unclassified
+transparency and responsible disclosure,2,Core
+ethical conduct,2,Unclassified
+respect for individual rights,2,Social
+data accessibility,2,Social
+public interest expertise,2,Unclassified
+equality and non-discrimination,2,Social
+security and safety,2,Core
+safe,2,Unclassified
+controllability,2,Unclassified
+infrastructure,2,Unclassified
+public-private partnerships,2,Unclassified
+education and training,2,Unclassified
+stakeholder engagement,2,Unclassified
+data integrity,2,Unclassified
+contestability,2,Unclassified
+social equity,2,Unclassified
+dual-use awareness,2,Unclassified
+privacy and security by design,2,Core
+user autonomy,2,Core
+human-centered values and equity,2,Unclassified
+adherence to social ethics,2,Unclassified
+interdependence,2,Unclassified
+ethical ai governance,2,Unclassified
+public-private partnership,2,Unclassified
+regulation,2,Unclassified
+safeguarding national security and public interests,2,Core
+protection of citizens,2,Unclassified
+human-centric,2,Unclassified
+compliance with laws and regulations,2,Unclassified
+legitimate rights,2,Unclassified
+ai regulation,2,Unclassified
+comply with laws and regulations,1,Unclassified
+this shift has been linked to google,1,Unclassified
+balancing agility and security,1,Core
+principles include inclusive growth,1,Unclassified
+agentic ai for autonomous decision-making,1,Unclassified
+aligning with broader industry trends,1,Unclassified
+and accountability,1,Core
+values emphasize innovation,1,Unclassified
+data quality,1,Unclassified
+scientific excellence,1,Unclassified
+and responsible business conduct,1,Unclassified
+s intent to engage more flexibly in defense and security sectors,1,Core
+the,1,Unclassified
+ensure the safety and robustness of ai systems,1,Core
+societal engagement,1,Unclassified
+act with integrity,1,Unclassified
+ensure transparency,1,Core
+respect privacy,1,Core
+avoid unfair discrimination,1,Unclassified
+contribute to sustainable development,1,Unclassified
+ethics and values,1,Unclassified
+engage in dialogue with society,1,Unclassified
+update removed explicit prohibitions against developing ai for weapons or surveillance technologies,1,Unclassified
+risk-assessment,1,Unclassified
+notably,1,Unclassified
+beneficial ai,1,Unclassified
+collective well-being,1,Unclassified
+longer-term issues,1,Unclassified
+adherence to core socialist values,1,Unclassified
+enable transparency and explainability,1,Core
+advance security,1,Core
+human control of technology,1,Unclassified
+and reliability,1,Core
+design for privacy,1,Core
+promote equity and inclusion,1,Unclassified
+protect the environment,1,Unclassified
+patient safety,1,Core
+equitable access,1,Unclassified
+legal oversight,1,Unclassified
+patient privacy,1,Core
+protection of minors,1,Unclassified
+high-quality ai development,1,Unclassified
+algorithmic fairness,1,Core
+adl,1,Unclassified
+karamah,1,Unclassified
+ooliyyah,1,Unclassified
+physician involvement,1,Unclassified
+excellence,1,Unclassified
+inclusivity values,1,Social
+ethical usage,1,Unclassified
+social harmony,1,Unclassified
+intellectual property protection,1,Unclassified
+contribute to the peace and happiness of humanity,1,Unclassified
+fostering openness and collaboration,1,Social
+encouraging inclusivity and shared responsibility,1,Core
+ensuring security and privacy,1,Core
+commitment to progress,1,Unclassified
+ethical ai considerations,1,Unclassified
+business and investment support,1,Unclassified
+technical support,1,Unclassified
+and societal considerations,1,Unclassified
+shared datasets and environments,1,Unclassified
+improving research effectiveness,1,Unclassified
+standards and benchmarks,1,Unclassified
+"international collaboration
+values",1,Social
+responsible innovation,1,Unclassified
+innovation in ai research methods,1,Unclassified
+investment in ai research and development values,1,Unclassified
+promotion of big data education,1,Unclassified
+support for data-driven businesses,1,Unclassified
+ethical stewardship,1,Unclassified
+cooperative risk management,1,Unclassified
+human-oriented ai,1,Unclassified
+multi-stakeholder governance,1,Unclassified
+democracy and rule of law,1,Unclassified
+peaceful society,1,Unclassified
+diversity and inclusiveness,1,Social
+fostering a robust ai ecosystem,1,Unclassified
+legal,1,Unclassified
+ethical,1,Unclassified
+safe innovation,1,Unclassified
+industry leaders,1,Unclassified
+knowledge,1,Unclassified
+recommendations for policymakers,1,Unclassified
+caution,1,Unclassified
+democratic integrity,1,Unclassified
+transparency and oversight,1,Core
+accountability and responsibility,1,Core
+ethical principles,1,Unclassified
+opportunities and risks of ai,1,Unclassified
+democratic governance,1,Unclassified
+redress,1,Unclassified
+digital competence,1,Unclassified
+responsible development,1,Unclassified
+global leadership,1,Unclassified
+pro-innovation,1,Unclassified
+long-term investments in responsible ai research,1,Unclassified
+public benefit,1,Unclassified
+innovation through generative ai,1,Unclassified
+"prevention
+values",1,Unclassified
+protecting human rights,1,Social
+innovation and growth,1,Unclassified
+knowledge-based economy,1,Unclassified
+startup acceleration,1,Unclassified
+ai-driven economic diversification,1,Unclassified
+access to computational resources,1,Unclassified
+ethical norms,1,Unclassified
+fostering responsible innovation,1,Unclassified
+ensuring privacy and data protection,1,Core
+product development,1,Unclassified
+promoting ethical ai use,1,Unclassified
+addressing socio-economic challenges,1,Unclassified
+advancing technological sovereignty,1,Unclassified
+sustainable development and well-being,1,Unclassified
+stakeholders values,1,Unclassified
+human rights and democratic values,1,Social
+applied ai ethics support,1,Unclassified
+investor connections,1,Unclassified
+ai ethics committee,1,Unclassified
+foresight,1,Unclassified
+fostering innovation in targeted sectors such as healthcare,1,Unclassified
+leveraging ai for economic growth and inclusivity,1,Social
+ethical ai development and use,1,Unclassified
+promoting data privacy and security,1,Core
+importation of best practices,1,Unclassified
+collaborative research,1,Unclassified
+proactive mitigation,1,Unclassified
+mitigating biases and ensuring fairness,1,Core
+smart cities,1,Unclassified
+increased turnover,1,Unclassified
+and mobility,1,Unclassified
+economic empowerment,1,Unclassified
+economic competitiveness,1,Unclassified
+new product introduction,1,Unclassified
+international leadership,1,Unclassified
+job creation,1,Unclassified
+team expansion,1,Unclassified
+shared public resources,1,Unclassified
+quality education,1,Unclassified
+continuous learning,1,Unclassified
+responsible algorithmic decisions,1,Unclassified
+promotion of innovation,1,Unclassified
+human welfare,1,Unclassified
+nondiscrimination,1,Unclassified
+purposeful,1,Unclassified
+effective and safe,1,Unclassified
+secure and private,1,Unclassified
+fair and equitable,1,Unclassified
+transparent and explainable,1,Unclassified
+accountable and monitored,1,Unclassified
+rinciples,1,Unclassified
+equity and fairness,1,Core
+tackling technological challenges and leveraging opportunities,1,Unclassified
+user agency,1,Unclassified
+ethical ai education,1,Unclassified
+public perception analysis,1,Unclassified
+respect for human rights and human dignity,1,Social
+living in peaceful just and interconnected societies,1,Unclassified
+ensuring diversity and inclusiveness,1,Social
+environmental and ecosystem flourishing,1,Unclassified
+proportionality and do no harm,1,Unclassified
+beneficial use,1,Unclassified
+progressive development,1,Unclassified
+openness and transparency,1,Core
+people-centered development,1,Unclassified
+social impact,1,Unclassified
+effective remedy,1,Unclassified
+promoting international cooperation on ai standards to ensure fairness,1,Core
+and shared global benefits,1,Unclassified
+minimization of harm,1,Unclassified
+addressing misuse and misinformation,1,Unclassified
+ethical integration into society,1,Unclassified
+equal opportunity,1,Unclassified
+financial literacy,1,Unclassified
+justice and fairness,1,Core
+nature,1,Unclassified
+sustainable development values,1,Unclassified
+efficiency,1,Unclassified
+editorial integrity,1,Unclassified
+journalistic responsibility,1,Core
+pattern recognition,1,Unclassified
+predictive modeling,1,Unclassified
+real-time monitoring,1,Unclassified
+access to effective remedy,1,Unclassified
+social-systems analysis,1,Unclassified
+ethical design frameworks,1,Unclassified
+ai bias and discrimination,1,Unclassified
+human rights due diligence,1,Social
+right to human determination,1,Unclassified
+identification obligation,1,Unclassified
+assessment and accountability obligation,1,Core
+renewable energy,1,Unclassified
+societal progress,1,Unclassified
+nonviolence,1,Unclassified
+alleviation of suffering,1,Unclassified
+mindfulness,1,Unclassified
+ethical intent,1,Unclassified
+compassion,1,Social
+ibm ai principles,1,Unclassified
+ai ethics board,1,Unclassified
+augmenting human intelligence,1,Unclassified
+civil rights,1,Unclassified
+active inclusion,1,Unclassified
+right to understanding,1,Unclassified
+access to redress,1,Unclassified
+human identity and uniqueness,1,Unclassified
+global equality,1,Social
+social cohesion,1,Unclassified
+"peace
+
+principles",1,Unclassified
+precautionary regulation,1,Unclassified
+accountability frameworks,1,Core
+un engagement,1,Unclassified
+ecumenical collaboration,1,Social
+workforce adaptation values,1,Unclassified
+automation,1,Unclassified
+public safety obligation,1,Core
+humanoid robotics,1,Unclassified
+cybersecurity obligation,1,Core
+prohibition on secret profiling,1,Unclassified
+fairness obligation,1,Core
+and validity obligations,1,Unclassified
+data quality obligation,1,Unclassified
+public disclosure obligation,1,Unclassified
+termination obligation,1,Unclassified
+advancing ai research,1,Unclassified
+developing efficient ai models,1,Unclassified
+addressing complex challenges,1,Unclassified
+creating high-impact outcomes,1,Unclassified
+inclusive deliberation,1,Unclassified
+proactive ethics,1,Unclassified
+participatory governance,1,Unclassified
+shared egalitarian future,1,Unclassified
+democratic principles,1,Unclassified
+defending democracy,1,Unclassified
+combating socio-economic injustices,1,Core
+european identity,1,Unclassified
+societal values,1,Unclassified
+artificial intelligence advancements,1,Unclassified
+fostering ethical ai design,1,Unclassified
+establishing robust regulatory and governance frameworks,1,Unclassified
+workforce transformation,1,Unclassified
+veracity and robustness,1,Core
+prevention of manipulation,1,Unclassified
+social connectivity,1,Unclassified
+equal access,1,Unclassified
+limitation on human enhancement,1,Unclassified
+equitability,1,Unclassified
+governability,1,Unclassified
+strategic alignment,1,Unclassified
+realistic expectations,1,Unclassified
+partner clarity,1,Unclassified
+organizational structure,1,Unclassified
+privacy safeguards,1,Core
+addressing the moral and ethical implications of ai,1,Unclassified
+ethical and responsible ai use,1,Unclassified
+ensuring societal trust,1,Social
+mitigating biases and discrimination,1,Unclassified
+securing informed consent,1,Unclassified
+data minimization and purpose limitation,1,Unclassified
+accuracy and security in data handling,1,Core
+and equitable ai access,1,Unclassified
+and human-centric ai design,1,Unclassified
+compliance with international law,1,Unclassified
+non-anthropomorphization,1,Unclassified
+data management,1,Unclassified
+freedom of choice,1,Unclassified
+human safety,1,Core
+fallback,1,Unclassified
+"fat ml
+values",1,Unclassified
+factual accuracy,1,Core
+journalistic integrity,1,Unclassified
+non-deception,1,Unclassified
+human rights impact assessment,1,Social
+legal safeguards,1,Unclassified
+digital rights,1,Unclassified
+privacy-by-design,1,Core
+ethical data processing,1,Unclassified
+encryption,1,Unclassified
+risk-based governance,1,Unclassified
+automated decision safeguards,1,Unclassified
+ensuring security,1,Core
+ai transparency reporting,1,Core
+ethical ai guidelines,1,Unclassified
+alignment with ai bill of rights,1,Unclassified
+corporate responsibility,1,Core
+algorithmic discrimination protections,1,Unclassified
+notice and explanation,1,Unclassified
+human alternatives,1,Unclassified
+consideration,1,Unclassified
+ai as tools,1,Unclassified
+privacy values,1,Core
+ethical innovation,1,Unclassified
+efficient,1,Unclassified
+risk anticipation and protection,1,Unclassified
+personalized,1,Unclassified
+enriched experiences,1,Unclassified
+customer happiness,1,Unclassified
+resource and infrastructure resilience,1,Unclassified
+and use,1,Unclassified
+continuous evaluation,1,Unclassified
+awareness,1,Unclassified
+access and redress,1,Unclassified
+explanation,1,Unclassified
+data provenance,1,Unclassified
+validation and testing,1,Unclassified
+ethical ai adoption,1,Unclassified
+knowledge-sharing,1,Unclassified
+safety and reliability,1,Core
+worker empowerment,1,Unclassified
+protection of rights,1,Unclassified
+training,1,Unclassified
+littler,1,Unclassified
+com,1,Unclassified
+bakerbotts,1,Unclassified
+optimized resource use,1,Unclassified
+integrated services,1,Unclassified
+protection of human rights and freedoms,1,Social
+seamless,1,Unclassified
+innovation cycle integrity,1,Unclassified
+reasonable thrift,1,Unclassified
+support for competition,1,Unclassified
+technological independence,1,Unclassified
+economic efficiency,1,Unclassified
+competitive fairness,1,Core
+customer success,1,Unclassified
+proportionality and do not harm,1,Unclassified
+behavioral,1,Unclassified
+right to privacy and data protection,1,Core
+equality and human flourishing,1,Social
+measurability,1,Unclassified
+inclusive dialogue,1,Unclassified
+copyright,1,Unclassified
+data accuracy,1,Core
+"regulatory mechanisms
+values",1,Unclassified
+training capabilities,1,Unclassified
+critical thinking cultivation,1,Unclassified
+truth,1,Unclassified
+community and inclusivity,1,Social
+environment stewardship,1,Unclassified
+enable human oversight,1,Unclassified
+meaningful human interaction,1,Unclassified
+environmental protection,1,Unclassified
+fairness across diverse users,1,Core
+refusal to create harmful content,1,Unclassified
+promotion of human autonomy,1,Core
+avoidance of deception,1,Unclassified
+digital infrastructure,1,Unclassified
+responsible ai governance,1,Unclassified
+risk and humanitarian impact assessment,1,Unclassified
+good banking and insurance practices,1,Unclassified
+corporate responsibility policies,1,Core
+un principles of responsible banking,1,Unclassified
+un global compact initiative principles,1,Unclassified
+code of business ethics,1,Unclassified
+commitment to the paris agreement,1,Unclassified
+benevolence,1,Unclassified
+righteousness,1,Unclassified
+propriety,1,Unclassified
+wisdom,1,Unclassified
+fidelity,1,Unclassified
+relationality,1,Unclassified
+avoiding harm,1,Unclassified
+moral cultivation,1,Unclassified
+societal harmony,1,Unclassified
+protection of privacy,1,Core
+transparency in limitations,1,Core
+healthcare innovation,1,Unclassified
+avoid reinforcing harmful biases,1,Unclassified
+international competitiveness,1,Unclassified
+climate risk mitigation,1,Unclassified
+african autonomy,1,Core
+helpfulness,1,Unclassified
+harmlessness,1,Unclassified
+regional integration,1,Unclassified
+protection of vulnerable individuals,1,Unclassified
+refusal of illegal content,1,Unclassified
+clarity,1,Unclassified
+human wellbeing,1,Unclassified
+truthfulness,1,Unclassified
+balance,1,Unclassified
+thoughtfulness,1,Unclassified
+intellectual exploration,1,Unclassified
+morals,1,Unclassified
+respect autonomy,1,Core
+protect children and vulnerable individuals,1,Unclassified
+refuse to create dangerous content,1,Unclassified
+maintain intellectual honesty,1,Unclassified
+support human flourishing,1,Emerging
+avoid manipulation,1,Unclassified
+relational integrity,1,Unclassified
+moral wisdom,1,Unclassified
+local first,1,Unclassified
+ethics and transparency,1,Core
+right to information,1,Unclassified
+fairness and discrimination,1,Core
+equitable,1,Unclassified
+traceable,1,Unclassified
+governable,1,Unclassified
+societal impacts,1,Unclassified
+ai r,1,Unclassified
+d guidelines,1,Unclassified
+global standards,1,Unclassified
+ai development best practices,1,Unclassified
+national ai alliance,1,Unclassified
+investment in foundational ai research,1,Unclassified
+tackling multidisciplinary ai challenges,1,Unclassified
+data sharing,1,Unclassified
+support for startups values,1,Unclassified
+authonomy,1,Unclassified
+ethical governance of artificial intelligence,1,Unclassified
+global ai governance frameworks,1,Unclassified
+ai governance ethics,1,Unclassified
+advancement of human welfare,1,Unclassified
+protection of privacy and security,1,Core
+data protection by design,1,Core
+stakeholder roles,1,Unclassified
+ai benefits and risks,1,Unclassified
+innovation-driven growth,1,Unclassified
+cooperation and integration,1,Unclassified
+people-centered,1,Unclassified
+human rights and human dignity,1,Social
+peace and prosperity,1,Unclassified
+inclusion and diversity,1,Social
+purpose specification,1,Unclassified
+ethics by design,1,Unclassified
+protection of human rights and liberties,1,Social
+doing good,1,Unclassified
+technological self-reliance,1,Unclassified
+procedural fairness,1,Core
+economic and social impacts,1,Unclassified
+managing ai risk,1,Unclassified
+ai morality and values,1,Unclassified
+addressing global challenges,1,Unclassified
+automated decision-making,1,Unclassified
+ethical design practices,1,Unclassified
+interactive self-assessment,1,Unclassified
+disparate impacts,1,Unclassified
+legality,1,Unclassified
+algorithmic accountability,1,Core
+content labeling,1,Unclassified
+strengthening of accountability,1,Core
+government and public services,1,Unclassified
+technological advancement,1,Unclassified
+economic progress,1,Unclassified
+transparent and explainable ai,1,Unclassified
+fair ai,1,Unclassified
+enables individual understand and ethical interaction with ai systems,1,Unclassified
+explainability - behavioral,1,Core
+foster innovation and open development,1,Unclassified
+create new human employment opportunities and protect people,1,Unclassified
+vital for pbulic trust,1,Social
+liberate data responsibly,1,Unclassified
+rethink privacy values,1,Core
+ethical data use,1,Unclassified
+bridges principle with implementation,1,Unclassified
+transparency - normative,1,Core
+enables traceability and enforceability within governance structures,1,Unclassified
+impact assessment,1,Unclassified
+accountability - regulatory,1,Core
+reflects universal moral aspiration toward quality and justice,1,Core
+productivity,1,Unclassified
+fairness - normative,1,Core
+using the nbrc classification,1,Unclassified
+ai education,1,Unclassified
+capacity,1,Unclassified
+alignment with core socialist values,1,Unclassified
+ai-driven industrialization,1,Unclassified
+risk-based classification,1,Unclassified
+unacceptable risk,1,Unclassified
+high risk,1,Unclassified
+limited risk,1,Unclassified
+minimal risk,1,Unclassified
+governance and enforcement,1,Unclassified
+conformity assessments,1,Unclassified
+global influence,1,Unclassified
+research excellence,1,Unclassified
+inclusive participation,1,Social
+artificial intelligence initiative act,1,Unclassified
+national strategy for ai leadership,1,Unclassified
+ai policy roadmap,1,Unclassified
+ai research funding,1,Unclassified
+ai safety and security,1,Core
+safe and ethical ai,1,Unclassified
+human-ai interfaces and robotics,1,Unclassified
+multi-agent systems,1,Unclassified
+ethics and regulation values,1,Unclassified
+social inclusion,1,Unclassified
+skills and education,1,Unclassified
+addressing development challenges,1,Unclassified
+capacity building,1,Unclassified
+collaborative efforts values,1,Unclassified
+beneficial intelligence,1,Unclassified
+rights and liberties,1,Unclassified
+bias and inclusion,1,Unclassified
+labor and automation,1,Unclassified
+non-maleficence values,1,Unclassified
+customer satisfaction,1,Unclassified
+illustrative,1,Unclassified
+cooperative,1,Unclassified
+ethics risk,1,Unclassified
+workforce risk,1,Unclassified
+technology risk,1,Unclassified
+trustworthy,1,Social
+secure,1,Unclassified
+transparent,1,Unclassified
+supporting,1,Unclassified
+careful,1,Unclassified
+multistakeholder engagement,1,Unclassified
+responsible,1,Unclassified
+educational enhancement,1,Unclassified
+scientific discovery,1,Unclassified
+and data protection,1,Core
+agricultural advancement,1,Unclassified
+and safety,1,Core
+ethics and governance,1,Unclassified
+and well-being,1,Unclassified
+digital literacy,1,Unclassified
+global well-being,1,Unclassified
+human,1,Unclassified
+social,1,Unclassified
+and environmental wellbeing,1,Unclassified
+privacy protection and security,1,Core
+safe and controllable,1,Unclassified
+promote equal access to technology,1,Unclassified
+empower human learning and growth,1,Unclassified
+bring more freedom and possibilities to humankind,1,Unclassified
+value alignment values,1,Emerging
+public service enhancement,1,Unclassified
+informed consent,1,Unclassified
+optimizing employment,1,Unclassified
+harmony and cooperation,1,Unclassified
+adaptation and moderation,1,Unclassified
+subdivision and implementation,1,Unclassified
+long-term planning values,1,Unclassified
+talent and research,1,Unclassified
+infrastructure development,1,Unclassified
+governance values,1,Unclassified
+assurance of controllability and trustworthiness,1,Social
+cultivation of ethics,1,Unclassified
+privacy by design,1,Core
+responsible and value-centric,1,Unclassified
+control,1,Unclassified
+preventing bias and inequality,1,Social
+continuous review and dialogue,1,Unclassified
+preserving human autonomy,1,Core
+vulnerability identification and reporting,1,Unclassified
+information sharing,1,Unclassified
+ai governance and risk management,1,Unclassified
+security controls,1,Core
+content authentication,1,Unclassified
+research investment,1,Unclassified
+global challenges,1,Unclassified
+international standards,1,Unclassified
+freedom and autonomy,1,Core
+equality and justice,1,Core
+transparency and intelligibility,1,Core
+promoting global unity,1,Unclassified
+"ethical ai development
+values",1,Unclassified
+respect for private life,1,Social
+ownership,1,Unclassified
+enhancing human welfare,1,Unclassified
+prohibition of discrimination,1,Unclassified
+rights-respecting,1,Social
+access to remedy,1,Unclassified
+harmony and friendliness,1,Unclassified
+corporate responsibility to respect human rights,1,Core
+respect for privacy,1,Core
+safety and controllability,1,Core
+open collaboration,1,Social
+agile governance values,1,Unclassified
+human rights approach,1,Social
+non discrimination,1,Unclassified
+political participation,1,Social
+freedom of expression values,1,Unclassified
+maintaining life purpose,1,Unclassified
+support for innovation,1,Unclassified
+regulation and legal frameworks,1,Unclassified
+global leadership and collaboration,1,Social
+ai risk assessment and management,1,Unclassified
+transparency and public awareness,1,Core
+democratic engagement,1,Unclassified
+putting people first,1,Unclassified
+regulatory conditions,1,Unclassified
+active global ai governance,1,Unclassified
+involving stakeholders,1,Unclassified
+monitoring and continuous development,1,Unclassified
+state duty to protect human rights,1,Social
+access to justice,1,Core
+and the right to a fair trial,1,Unclassified
+additionally,1,Unclassified
+the report proposes two novel human rights,1,Social
+bias awareness and mitigation,1,Unclassified
+human oversight in ai systems,1,Unclassified
+accountability in ai-driven research,1,Core
+holistic thinking,1,Unclassified
+relational ai,1,Unclassified
+community engagement,1,Social
+reciprocity,1,Social
+cultural sovereignty,1,Unclassified
+indigenous data governance,1,Unclassified
+knowledge integration,1,Unclassified
+epistemic plurality,1,Unclassified
+sovereignty,1,Unclassified
+regeneration,1,Unclassified
+value proposition,1,Unclassified
+usability,1,Unclassified
+technical assurance,1,Unclassified
+clinical safety,1,Core
+data transparency,1,Core
+evidence generation,1,Unclassified
+commercial strategy,1,Unclassified
+fostering digital transformation,1,Unclassified
+ethical use of ai,1,Unclassified
+"environmental responsibility
+
+principles",1,Core
+privacy and data security,1,Core
+autonomy in decision-making,1,Core
+the right not to be measured,1,Unclassified
+analyzed,1,Unclassified
+or coached,1,Unclassified
+and the right to meaningful human contact,1,Unclassified
+scientific advancement,1,Unclassified
+addressing infrastructure challenges,1,Unclassified
+education and literacy,1,Unclassified
+human authorship and responsibility,1,Core
+protection against bias and discrimination,1,Unclassified
+ethical use across sectors,1,Unclassified
+fairness and equity,1,Core
+augmentation,1,Unclassified
+compute capacity,1,Unclassified
+innovation centre,1,Unclassified
+datasets platform,1,Unclassified
+application development,1,Unclassified
+futureskills,1,Unclassified
+startup financing,1,Unclassified
+"trusted ai
+values",1,Social
+skill enhancement,1,Unclassified
+inclusivity and sharing,1,Social
+user safety,1,Core
+sector-specific guidelines,1,Unclassified
+transparency values,1,Core
+privacy and consent,1,Core
+ethical integration of ai in society,1,Unclassified
+minimize harm,1,Unclassified
+distribute benefits and risks,1,Unclassified
+ethical codes values,1,Unclassified
+patient welfare,1,Unclassified
+showing its workings,1,Unclassified
+creativity,1,Unclassified
+prohibition of harmful projects,1,Unclassified
+rejection of military funding,1,Unclassified
+exclusion of military-affiliated collaborations,1,Social
+opposition to military applications of ai,1,Unclassified
+opposition to surveillance and privacy invasion,1,Core
+moral and ethical implications,1,Unclassified
+regulatory and governance frameworks,1,Unclassified
+technological challenges and opportunities,1,Unclassified
+ethical considerations in ai design,1,Unclassified
+international cooperation on ai standards values,1,Unclassified
+shared global benefits,1,Unclassified
+fostering excellence in ai,1,Unclassified
+ensuring trustworthiness,1,Social
+minimization of bias,1,Unclassified
+prevention of harm,1,Unclassified
+collaborative progress,1,Unclassified
+respect for human autonomy,1,Core
+ethics and regulatory framework,1,Unclassified
+fairness and equal opportunity,1,Core
+comparing algorithmic systems,1,Unclassified
+algorithmic bias and fairness,1,Core
+data privacy and security,1,Core
+accountability and governance,1,Core
+informed consent values,1,Unclassified
+impact on healthcare employment,1,Unclassified
+regulatory and ethical oversight,1,Unclassified
+inclusive policy development,1,Unclassified
+ethical ai design,1,Unclassified
+continuous monitoring and evaluation,1,Unclassified
+strengthening regulatory frameworks,1,Unclassified
+data agency,1,Unclassified
+ethical foundations,1,Unclassified
+policy and regulation values,1,Unclassified
+interdisciplinary integrity,1,Unclassified
+safety and risk reduction,1,Core
+human autonomy and control,1,Core
+ethical decision-making in dilemma situations,1,Unclassified
+responsibility and liability,1,Core
+promoting human-centric ai,1,Unclassified
+boosting research and industrial capacity,1,Unclassified
+economic transformation,1,Unclassified
+innovation-driven development,1,Unclassified
+righteous duty,1,Unclassified
+transparency and disclosure,1,Core
+accuracy and fact-checking,1,Core
+bias awareness,1,Unclassified
+dharma,1,Unclassified
+environmental impact,1,Unclassified
+clear communications about the origin of content for generative ai,1,Unclassified
+decision-making process,1,Unclassified
+human-centered development,1,Unclassified
+ai ecosystems,1,Unclassified
+transfer and application,1,Unclassified
+regulatory framework,1,Unclassified
+testing,1,Unclassified
+certification,1,Unclassified
+sociotechnical systems,1,Unclassified
+integration,1,Unclassified
+technology leadership,1,Unclassified
+environmental and climate protection,1,Unclassified
+european ai ecosystem values,1,Unclassified
+scientific integrity,1,Unclassified
+bold innovation,1,Unclassified
+transformation,1,Unclassified
+ethical global governance,1,Unclassified
+fostering research collaboration,1,Social
+free will,1,Unclassified
+under user control,1,Unclassified
+respect of fundamental rights,1,Social
+quality,1,Unclassified
+respect for fundamental rights,1,Social
+quality and security,1,Core
+impartiality and fairness,1,Core
+under user control values,1,Unclassified
+labor rights,1,Unclassified
+information integrity,1,Unclassified
+purushartha,1,Unclassified
+ethical framework,1,Unclassified
+world as one family,1,Unclassified
+justifiability,1,Unclassified
+internal accountability,1,Core
+transparency and openness,1,Core
+inclusivity and diversity,1,Social
+sustainability values,1,Unclassified
+vasudhaiva kutumbakam,1,Unclassified
+human oversight values,1,Unclassified
+open data policy,1,Unclassified
+theological reflection on ai ethics,1,Unclassified
