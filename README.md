@@ -1,35 +1,60 @@
 # AI Moral Code
 
-This repository houses the formal documentation, architecture, and canonical taxonomy for AIMoralCode.org. It defines the aspirational ethical values, diagnostic disvalues, conflict mapping logic, and implementation tools for aligning AI systems with human values.
+This repository houses the formal documentation, architecture, and canonical taxonomy for [AIMoralCode.org](https://aimoralcode.org). It defines the canonical ethical values, diagnostic disvalues, conflict resolution structures, and implementation tools for aligning AI systems with human values.
 
-## Structure
-- `00_Foundations/`: Mission, Charter, Glossary
-- `01_Canonical_Values/`: Core values and cognate dictionary
-- `02_Disvalues_Diagnostics/`: Disvalue terms and diagnostics
-- `03_Conflict_Mapping/`: Value-disvalue-conflict alignment
-- `04_Implementation/`: Audit tools, ethical layers, MLOps alignment
-- `05_Web_Architecture/`: Site map and API integration plans
-- `Archive/`: Historical snapshots and locked records
+---
 
-## License
-To be defined.
+## 📁 Repository Structure
 
-## Maintainer
-Ran Hinrichs — [aimoralcode.org](https://aimoralcode.org)
+- `book/` – Manuscript chapters, appendices, presentations, and glossary
+- `data/` – Master frequency data, taxonomy weights, and classification models
+- `docs/` – Scheduler activity log, methodology notes, and concept papers
+- `code/` – Scripts for recalibration, parsing, analysis, and simulations
+- `conflict_mappings/` – Value-disvalue alignment structures
+- `exports/` – Presentation decks and distributable datasets
+- `_pages/` – GitHub Pages markdown files for public-facing documentation
+- `archive/` – Historical drafts and development snapshots
+- `assets/` – Logos, icons, and publication-ready visuals
 
-## Quickstart
+---
 
-To explore the system:
+## ✅ Canonical Values
 
-1. See `/00_Foundations/AI Moral Code Overview.docx` for the conceptual framework.
-2. See `/01_Canonical_Values/Deriving the 15 Canonical Values...` for taxonomy origin.
-3. See `/data/MASTER AI Moral Code Taxonomy...` for weighted value emergence.
+This repo operationalizes 15 empirically validated canonical values across 291+ global ethics documents. See:
 
-## Contributions
+- [`book/MANUSCRIPT/Appendix_A_Canonical_Value_Derivation.md`](book/MANUSCRIPT/Appendix_A_Canonical_Value_Derivation.md)
+- [`data/MASTER AI Moral Code Taxonomy with Weights April 2025.xlsx`](data/MASTER%20AI%20Moral%20Code%20Taxonomy%20with%20Weights%20April%202025.xlsx)
 
-This repository is under structured development. If you would like to collaborate or contribute to values expansion, disvalue modeling, or curriculum alignment, please contact the maintainer.
+---
 
-## Versioning
+## 🔧 Tools Included
 
-This repository uses semantically tagged commits to track major model revisions. See `/Archive/` for dated snapshots of critical architecture layers.
+- `AI_Moral_Code_Master_Task_Tracker.xlsx` → Track Phases 1–6
+- `recalibrate.py` → Reset term distributions and regenerate frequency scores
+- `test_sync_file.txt` → Git ignore placeholder
+- `.gitignore` / `.gitattributes` → Version control precision
 
+---
+
+## 👤 Maintainer
+
+Ran Hinrichs  
+[aimoralcode.org](https://aimoralcode.org)
+
+---
+
+## 📌 Contributions
+
+This repository is in active development. For collaboration on:
+
+- Disvalue modeling
+- Curriculum or ethics simulation design
+- Cross-sectoral ethical benchmarks
+
+Contact the maintainer or open a GitHub issue.
+
+---
+
+## 🕘 Versioning
+
+This repo uses structured commits and directory rotation. Major taxonomic changes are archived in `/archive/` with timestamps.
