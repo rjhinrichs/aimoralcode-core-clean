@@ -1,0 +1,342 @@
+Unique_ID,Document ID,Justice,Transparency,Responsibility,Non-maleficence,Inclusivity,Trust,Ethical Responsibility,Privacy,Innovation,Sustainability,Dignity,Collaboration,Autonomy,Human Rights,Beneficience,15,Name of Document/Website,Issuer,Sector,Country of Issuer,URL
+DOC_001,DOC_001,0,1,1,0,1,0,0,1,0,1,0,0,0,0,0,,10 Principles of Responsible AI,Women Leading in AI,Business,UK,
+DOC_002,DOC_002,0,1,1,0,1,1,1,0,1,1,0,1,0,0,0,,2025 and the Next Chapters of AI,Google Deep Minds,Industry,USA,
+DOC_003,DOC_003,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,,5 Trends for 2025,IBM Institute for Business Value (IBM IBV),Industry,USA,
+DOC_004,DOC_004,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,A Hindu Perspective on AI Risks and Opportunities,Future of Life Institute,Religious Organization,International,
+DOC_005,DOC_005,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,,A Next Generation Artificial Intelligence Development Plan,State Council of China,Government,China,
+DOC_006,DOC_006,0,1,1,0,1,1,1,0,1,0,0,0,0,0,0,,Adobe’s AI Ethics Principles,Adobe Inc.,Industry,USA,
+DOC_007,DOC_007,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,,AI and Islamic Ethics: A Framework for Ethical AI Development Based on Maqasid Al-Shariah,"International Conference on Artificial Intelligence, Navigation, Engineering, and Aviation Technology (ICANEAT)",Education and Research,Indonesia,
+DOC_008,DOC_008,0,1,1,0,1,0,1,1,0,0,0,0,0,0,0,,AI and Privacy,Norwegian Data Protection Authority (Datatilsynet),Regulatory Body,Norway,
+DOC_009,DOC_009,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,,AI and Society Research Group,Victoria University of Wellington,Education and Research,New Zeland,
+DOC_010,DOC_010,0,1,1,0,0,0,1,0,1,1,0,1,0,0,0,,"AI and Sustainability: Opportunities, Challenges, and Impact",EY (Ernst & Young),Industry,Netherlands,
+DOC_011,DOC_011,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,,"AI Ethics: Principles, Frameworks & Governance",Cimphony AI,Industry,International,
+DOC_012,DOC_012,0,1,1,0,0,1,0,0,1,1,0,1,1,0,0,,AI for Africa Blueprint,Smart Africa & Republic of South Africa,NGO,South Africa (Pan-African Scope),
+DOC_013,DOC_013,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,,AI for Good - Alibaba’s Vision for Tackling Global Challenges,Alibaba Group,Industry,China,
+DOC_014,DOC_014,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,,Digital Ethics – Deutsche Telekom's AI Guidelines,Deutsche Telekom,Industry,Germany,
+DOC_015,DOC_015,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,,AI in Islamic Ethics: Towards Pluralist Ethical Benchmarking for AI,"College of Law, Qatar University (Author: Ezieddin Elmahjub)",Education and Research,Qatar,
+DOC_016,DOC_016,1,1,1,1,1,1,1,1,0,1,0,0,0,0,0,,"AI in the UK: Ready, Willing and Able?",House of Lords Select Committee on Artificial Intelligence,Government,UK,
+DOC_017,DOC_017,1,1,1,0,1,1,1,0,0,0,1,0,0,0,0,,"AI in the UK: Ready, Willing and Able?",House of Lords Select Committee on Artificial Intelligence,Government,UK,
+DOC_018,DOC_018,1,1,1,1,1,1,1,1,0,1,0,0,0,0,0,,"AI in the UK: Ready, Willing and Able?",House of Lords Select Committee on Artificial Intelligence,Government,UK,
+DOC_019,DOC_019,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,,AI Now 2017 Report,AI Now Institute,Education and Research,USA,
+DOC_020,DOC_020,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,,AI Opportunities Action Plan,UK Government,Government,UK,
+DOC_021,DOC_021,0,1,1,0,1,1,1,0,1,0,0,0,0,1,0,,AI Policy and Governance,Center for Democracy and Technology (CDT),NGO,USA,
+DOC_022,DOC_022,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,,Asilomar AI Principles,Future of Life Institute,NGO,USA,
+DOC_023,DOC_023,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,,AI Ethics Principles,Smart Dubai,Government,UAE,https://www.digitaldubai.ae/docs/default-source/ai-principles-resources/ai-ethics.pdf?form=MG0AV3
+DOC_024,DOC_024,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,AI Principles of Telefónica,Telefónica,Business,Spain,https://www.telefonica.com/wp-content/uploads/sites/7/2021/11/principios-ai-eng-2018.pdf
+DOC_025,DOC_025,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,,AI Strategy for Mexico,"British Embassy in Mexico, in collaboration with Oxford Insights and C Minds​",Government,Mexico,
+DOC_026,DOC_026,0,1,1,0,0,0,1,0,1,1,0,1,0,0,0,,Aligning Artificial Intelligence and Climate Governance,United Nations University (UNU),NGO,International,
+DOC_027,DOC_027,0,1,0,0,1,1,0,0,1,1,0,1,0,0,0,,Annual Report of the CIFAR Pan-Canadian AI Strategy,Canadian Institute for Advanced Research (CIFAR),Education and Research,Canada,
+DOC_028,DOC_028,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,,Argentina National AI Strategy,Task Force on the Future of Work and Education for the Digital Era (T20 Argentina),Government,Argentina,
+DOC_029,DOC_029,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,,Artificial Intelligence (AI) in Health,Royal College of Physicians,Academia,UK,https://www.rcp.ac.uk/policy-and-campaigns/policy-documents/artificial-intelligence-ai-in-health
+DOC_030,DOC_030,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,,Artificial Intelligence Act,European Union,International Organization,EU,
+DOC_031,DOC_031,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,,Artificial Intelligence Act,European Union,International Organization,EU,https://artificialintelligenceact.eu/the-act/?form=MG0AV3
+DOC_032,DOC_032,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,,Artificial Intelligence Act (AI Act),European Union,Government,EU,
+DOC_033,DOC_033,0,1,1,0,0,0,1,0,1,1,0,1,0,0,0,,Artificial Intelligence and Climate Change,Heinrich Böll Stiftung,Government,Germany,
+DOC_034,DOC_034,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,Artificial Intelligence and Machine Learning: Policy Paper,Internet Society,NGO,USA,https://www.internetsociety.org/resources/doc/2017/artificial-intelligence-and-machine-learning-policy-paper/?form=MG0AV3
+DOC_035,DOC_035,0,0,1,0,1,1,1,0,1,0,0,0,0,0,0,,Artificial Intelligence Policy Priorities,U.S. Senate (Senator Martin Heinrich),Government,USA,
+DOC_036,DOC_036,0,0,1,0,1,0,1,0,1,0,0,1,0,0,0,,Artificial Intelligence Research Programme,The Alan Turing Institute,Education and Research,UK,
+DOC_037,DOC_037,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,,Artificial Intelligence Strategy,"Economic Affairs Ministry, the Research Ministry, and the Labour Ministry",Government,Germany,
+DOC_038,DOC_038,0,0,1,0,0,0,1,0,0,1,0,1,0,0,0,,Artificial Intelligence Technology Strategy,"Strategic Council for AI Technology, Government of Japan",Government,Japan,
+DOC_039,DOC_039,0,1,0,0,1,1,0,1,0,1,0,0,0,1,0,,"Artificial Intelligence. Australia’s Ethics Framework: A Discussion Paper, ",Department of Industry Innovation and Science,Government,Australia,https://www.csiro.au/-/media/D61/Reports/Artificial-Intelligence-ethics-framework.pdf?utm_source=chatgpt.com
+DOC_040,DOC_040,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,,Artificial Intelligence. The Public Policy Opportunity,Intel Corporation,Business,USA,https://community.intel.com/legacyfs/online/files/Intel-Artificial-Intelligence-Public-Policy-White-Paper-2017.pdf
+DOC_041,DOC_041,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,,Artificial Intelligence: Open Questions About Gender Inclusion,W20,Academia,Portugal,https://webfoundation.org/docs/2018/06/AI-Gender.pdf?form=MG0AV3
+DOC_042,DOC_042,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,,"Artificial Intelligence: Solving Problems, Growing the Economy, and Improving Our Quality of Life",Commonwealth Scientific and Industrial Research Organisation (CSIRO) Data61,Education and Research,Australia,
+DOC_043,DOC_043,0,0,1,0,1,0,1,0,1,0,0,1,0,0,0,,Artificial Intelligence: The Road Ahead in Low and Middle-Income Countries,Future Advocacy,NGO,UK,
+DOC_044,DOC_044,0,1,1,0,0,0,0,1,0,0,1,0,0,0,0,,Asilomar AI Principles,Future of Life Institute,Education and Research,USA,
+DOC_045,DOC_045,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,,Asilomar AI Principles,Future of Life Institute,NGO,USA,
+DOC_046,DOC_046,0,1,1,0,1,1,1,1,0,1,0,0,0,0,0,,Australia's AI Ethics Principles,"Australian Government, Department of Industry, Science and Resources",Government,Australia,
+DOC_047,DOC_047,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Baidu's AI Ethics Principles,Baidu Inc.,Industry,China,
+DOC_048,DOC_048,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,,Bases para la Agenda Digital Argentina,Government of Argentina,Government,Argentina,
+DOC_049,DOC_049,0,0,1,0,1,0,1,0,0,1,0,1,0,0,0,,Beijing AI Principles,Beijing Academy of Artificial Intelligence (BAAI),Industry,China,
+DOC_050,DOC_050,0,1,0,0,0,0,0,1,0,0,1,0,1,0,0,,Beijing AI Principles,Beijing Academy of Artificial Intelligence (BAAI),Education and Research,China,
+DOC_051,DOC_051,0,1,1,0,0,1,1,1,0,0,0,0,0,0,0,,"Big Data, Artificial Intelligence, Machine Learning and Data Protection",Information Commissioner's Office (ICO),Regulatory Body,UK,https://ico.org.uk/media/for-organisations/documents/2013559/big-data-ai-ml-and-data-protection.pdf?form=MG0AV3
+DOC_052,DOC_052,0,1,1,0,1,1,1,0,1,0,0,0,0,0,0,,Brazilian Artificial Intelligence Strategy (EBIA),"Ministry of Science, Technology, and Innovation (MCTI) of Brazil",Government,Brazil,
+DOC_053,DOC_053,0,1,1,0,1,1,1,0,1,1,0,1,0,0,0,,Building AI That Benefits Humanity,Google Deep Minds,Industry,USA,
+DOC_054,DOC_054,0,1,1,0,1,1,0,1,1,1,0,0,0,0,0,,Building Generative AI Responsibly,"Meta Platforms, Inc.",Industy,USA,
+DOC_055,DOC_055,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Business Ethics and Artificial Intelligence,Institute of Business Ethics,Business,UK,https://www.ibe.org.uk/resource/ibe-briefing-58-business-ethics-and-artificial-intelligence-pdf.html?form=MG0AV3
+DOC_056,DOC_056,0,1,1,0,1,1,1,0,1,0,0,0,0,1,0,,CDT Europe's AI Bulletin - February 2025,Center for Democracy and Technology (CDT),NGO,EU,
+DOC_057,DOC_057,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,,Center for the Governance of AI,Center for the Governance of AI,Education and Research,USA,
+DOC_058,DOC_058,0,1,0,0,1,1,0,1,1,0,0,1,0,1,0,,Charlevoix Common Vision for the Future of Artificial Intelligence,Leaders of the G7,Government,Canada,https://www.international.gc.ca/world-monde/assets/pdfs/international_relations-relations_internationales/g7/2018-06-09-artificial-intelligence-artificielle-en.pdf?form=MG0AV3
+DOC_059,DOC_059,0,0,1,0,1,0,1,1,0,1,0,0,0,0,0,,Chile Ethical Artificial Intelligence,"Ministry of Science, Technology, Knowledge, and Innovation, Chile",Government,Chile,
+DOC_060,DOC_060,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,,Chile's Ethical Artificial Intelligence Framework,"Chile's Ministry of Science, Technology, Knowledge, and Innovation",Government,Chile,
+DOC_061,DOC_061,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,,China's Emerging Approach to Regulating General-Purpose Artificial Intelligence,Asia Society Policy Institute,Government,USA,
+DOC_062,DOC_062,0,1,1,1,1,0,0,1,0,0,1,1,1,0,0,,Claude's Constitution,Anthropic,Industry,USA,
+DOC_063,DOC_063,0,1,1,0,1,1,1,1,0,1,0,1,0,0,0,,Code of Ethics for Artificial Intelligence,UPC (Universitat Politècnica de Catalunya),Education and Research,Spain,
+DOC_064,DOC_064,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,,Code of Ethics for Artificial Intelligence,"Alliance for Artificial Intelligence (A-AI), Russia",Government,Russian Federation,
+DOC_065,DOC_065,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,Commitments and Principles,OP Group,Business,Finland,https://www.op.fi/en/op-financial-group/corporate-social-responsibility/commitments-and-principles?form=MG0AV3
+DOC_066,DOC_066,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,,Confucian Ethics and Artificial Intelligence,"Institute of Philosophy, Chinese Academy of Sciences (CASIP)",Education and Research,China,
+DOC_067,DOC_067,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,,Continental Artificial Intelligence Strategy,African Union,Government,Africa,
+DOC_068,DOC_068,0,1,1,0,1,1,0,0,1,1,0,1,0,0,0,,Coordinated Plan on Artificial Intelligence 2021 Review,European Commission,Government,EU,
+DOC_069,DOC_069,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,Declaration on Ethics and Data Protection in Artificial Intelligence,ICDPPC,International Organization,France,https://www.privacyconference2018.org/system/files/2018-10/20180922_ICDPPC-40th_AI-Declaration_ADOPTED.pdf?form=MG0AV3
+DOC_070,DOC_070,0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,,Decree of the President of the Russian Federation on the Development of Artificial Intelligence in the Russian Federation,Office of the President of the Russian Federation,Government,Russia,
+DOC_071,DOC_071,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,DeepMind Ethics & Society,Deep Minds,Industry,UK,
+DOC_072,DOC_072,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,,Digital Decisions,Center for Democracy & Technology,Technology Policy,USA,https://cdt.org/insights/digital-decisions-tool/?form=MG0AV3
+DOC_073,DOC_073,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,,Directive on Automated Decision-Making,Treasury Board of Canada Secretariat,Government,Canada,
+DOC_074,DOC_074,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,Discussion Paper on Artificial Intelligence (AI) and Personal Data—Fostering Responsible Development and Adoption of AI,Personal Data Protection Commission Singapore,Government,Singapore,https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/Discussion-Paper-on-AI-and-PD---050618.pdf
+DOC_075,DOC_075,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,Discussion Paper: National Strategy for Artificial Intelligence,National Institution for Transforming India (NITI Aayog),Government,India,https://www.niti.gov.in/sites/default/files/2023-03/National-Strategy-for-Artificial-Intelligence.pdf?form=MG0AV3
+DOC_076,DOC_076,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,,DoD Ethical Principles for Artificial Intelligence,Department of Defense,Government,USA,
+DOC_077,DOC_077,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,Draft AI R&D Guidelines for International Discussions,"Institute for Information and Communications Policy (IICP), The Conference toward AI Network Society",Government,Japan,https://www.soumu.go.jp/main_content/000507517.pdf?form=MG0AV3
+DOC_078,DOC_078,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,,Dutch Artificial Intelligence Manifesto,"Special Interest Group on Artificial Intelligence (SIGAI), The Netherlands",Government,Netherlands,https://ii.tudelft.nl/bnvki/wp-content/uploads/2018/09/Dutch-AI-Manifesto.pdf?form=MG0AV3
+DOC_079,DOC_079,1,1,0,1,0,0,0,0,0,1,1,0,1,0,0,,Ethical Framework for a Good AI Society,"European Institute for Science, Media, and Democracy (EISMD)",Education and Research,EU,
+DOC_080,DOC_080,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,,Ethical Framework for a Good AI Society,"European Institute for Science, Media, and Democracy (EISMD)",Education and Research,EU,
+DOC_081,DOC_081,1,0,1,0,1,0,0,1,0,0,0,1,0,0,0,,Ethical Governance of Artificial Intelligence,Tsinghua University AI Institute,Education and Research,China,
+DOC_082,DOC_082,1,0,1,0,1,1,1,1,1,1,0,1,0,0,0,,Ethical Norms for New Generation Artificial Intelligence,"Ministry of Science and Technology, China",Government,China,
+DOC_083,DOC_083,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,"Ethical norms for the new generation artificial intelligence. Ministry of Science and Technology of the People's Republic of China.
+",Ministry for Security and Emerging Technologies,Government,China,https://www.most.gov.cn/kjbgz/202109/t20210926_177063.html
+DOC_084,DOC_084,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ethical Principles for Artificial Intelligence and  Data Analytics,"Software & Information Industry Association (SIIA), Public Policy Division",Trade Association,USA,
+DOC_085,DOC_085,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,"Ethical, Social, and Political Challenges of Artificial Intelligence in Health",Future Advocacy,Research,UK,https://futureadvocacy.com/publications/ethical-social-and-political-challenges-of-artificial-intelligence-in-health/
+DOC_086,DOC_086,1,1,0,0,0,1,0,1,1,1,1,0,1,1,0,,Ethically Aligned Design: A Vision for Prioritizing Human Well-being with Autonomous and Intelligent Systems​,IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems,Education and Research,International,
+DOC_087,DOC_087,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,,Ethically Aligned Design: Version 2,IEEE,Education and Research,USA,
+DOC_088,DOC_088,0,1,1,0,0,1,1,0,0,0,0,1,0,1,0,,"Ethically Aligned Design:
+Version 1.1",IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems,Information Technology,USA,https://standards.ieee.org/wp-content/uploads/import/documents/other/ead1e.pdf?form=MG0AV3
+DOC_089,DOC_089,0,1,1,0,1,1,1,1,1,0,0,0,0,0,0,,Ethics and Governance of Artificial Intelligence,"MIT, Daniela Rus",Education and Research,USA,"https://cyberir.mit.edu/site/global-landscape-ai-ethics-guidelines/?form=MG0AV3
+https://scholar.google.com/citations?user=910z20QAAAAJ&hl=en&form=MG0AV3"
+DOC_090,DOC_090,0,1,1,0,0,0,1,1,0,0,0,0,1,0,0,,Ethics Commission Report on Automated and Connected Driving,"Federal Ministry for Digital and Transport (BMDV), Germany",Government,Germany,https://bmdv.bund.de/SharedDocs/EN/publications/report-ethics-commission-automated-and-connected-driving.pdf?__blob=publicationFile&form=MG0AV3
+DOC_091,DOC_091,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,Ethics Guidelines for Trustworthy AI,High-Level Expert Group on Artificial Intelligence (AI HLEG),Government,Belgium,
+DOC_092,DOC_092,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,,Ethics Guidelines for Trustworthy AI,"High-Level Expert Group on Artificial Intelligence (AI HLEG), European Commission",Government,EU,https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai?form=MG0AV3
+DOC_093,DOC_093,0,1,1,0,1,1,1,1,0,0,0,0,0,0,0,,Ethics of Artificial Intelligence,The Royal Society,NGO,UK,
+DOC_094,DOC_094,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,,Ethics of Artificial Intelligence in Radiology: Summary of the Joint European and North American Multisociety Statement,"Joint European and North American Multisociety (including ACR, RSNA, ESR, and others)",Healthcare,USA,https://pubs.rsna.org/doi/pdf/10.1148/radiol.2019191586?form=MG0AV3
+DOC_095,DOC_095,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,,Ethics of Code: Developing AI for Business with Five Core Principles,Sage,Academia,UK,https://www.sage.com/investors/-/media/files/company/documents/pdf/business%20builders/latest%20news/business%20builders%20ethics%20of%20code.pdf?form=MG0AV3
+DOC_096,DOC_096,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,,Ethics Policy,Icelandic Institute for Intelligent Machines,Government,Iceland,https://www.iiim.is/ethics-policy/?form=MG0AV3
+DOC_097,DOC_097,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ethique de la Recherche en Robotique,CERNA (Allistene),Research,France,https://hal.science/ALLISTENE-CERNA/hal-01086579v1
+DOC_098,DOC_098,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,,European Approach to Artificial Intelligence,European Commission,Government,UK,
+DOC_099,DOC_099,1,1,1,0,0,0,1,1,0,0,1,0,1,1,0,,European Commission AI and Robotics Framework,European Commission,International Organization,EU,"https://op.europa.eu/en/publication-detail/-/publication/dfebe62e-4ce9-11e8-be1d-01aa75ed71a1?form=MG0AV3
+https://www.unapcict.org/sites/default/files/2019-01/EC_AI-%20Robotics-%20and%20Autonomous%20Systems.pdf?form=MG0AV4"
+DOC_100,DOC_100,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,European Ethical Charter on the Use of Artificial Intelligence in Judicial Systems,"European Commission for the Efficiency of Justice (CEPEJ), Council of Europe",Government,EU,"
+https://rm.coe.int/ethical-charter-en-for-publication-4-december-2018/16808f699c"
+DOC_101,DOC_101,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0,,European Ethical Charter on the Use of Artificial Intelligence in Judicial Systems and Their Environment,"European Commission for the Efficiency of Justice (CEPEJ), under the Council of Europe.",Government,France,
+DOC_102,DOC_102,1,1,0,0,0,1,0,1,1,1,1,0,1,1,0,,European Strategy on AI: Are we truly fostering social good,"Foffano, F., Scantamburlo, T, Cortes, A, & Bissolo, C. ",Education and Research,EU,
+DOC_103,DOC_103,0,1,1,0,1,1,1,1,0,0,0,0,0,0,0,,Everyday Ethics for Artificial Intelligence,IBM,Industry,USA,
+DOC_104,DOC_104,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Everyday Ethics for Artificial Intelligence. A Practical Guide for Designers and Developers,IBM,Business,USA,https://www.ibm.com/watson/assets/duo/pdf/everydayethics.pdf?form=MG0AV3
+DOC_105,DOC_105,0,1,0,0,1,1,0,1,0,1,0,0,0,0,0,,Evolving with innovation: The 2024 OECD AI Principles Update,Organisation for Economic Co-operation and Development (OECD),NGO,International,
+DOC_106,DOC_106,1,1,1,0,0,0,1,1,0,1,0,0,0,1,0,,Evolving with Innovation: The 2024 OECD AI Principles Update,Organisation for Economic Co-operation and Development (OECD),Government,International,
+DOC_107,DOC_107,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,,FEAT Principles,Monetary Authority of Singapore (MAS),Government,Singapore,
+DOC_108,DOC_108,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,,"FEAT Principles (Fairness, Ethics, Accountability, Transparency)",Monetary Authority of Singapore (MAS),Government,Singapore,
+DOC_109,DOC_109,0,1,1,0,1,1,0,0,1,1,0,1,0,0,0,,For a Meaningful Artificial Intelligence,Cedric Villani,Government,France,
+DOC_110,DOC_110,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,,For a Meaningful Artificial Intelligence. Towards a French and European Strategy,"Mission Villani
+Cedric Villani",Government,France,https://comite-etica.upc.edu/ca/actualitat/media/missionvillani_report_eng-vf.pdf?form=MG0AV3
+DOC_111,DOC_111,0,1,1,0,1,1,1,1,0,1,0,1,0,0,0,,For a Meaningful Artificial Intelligence: Towards a French and European Strategy,"Cédric Villani, French Parliament",Government,France,
+DOC_112,DOC_112,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,,France AI Strategy Report,European Commission,Government,France,
+DOC_113,DOC_113,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,,France AI Strategy Report,French Government,Government,France,
+DOC_114,DOC_114,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,,G20 2017 Task Force Report,Global Solutions Initiative,Government,Germany,
+DOC_115,DOC_115,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,,G20 AI Principles,G20 (via OECD AI),Government,International,
+DOC_116,DOC_116,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,,G20 AI Principles,Organisation for Economic Co-operation and Development (OECD),Government,France,
+DOC_117,DOC_117,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,,General Data Protection Regulation (GDPR),European Union,Government,EU,
+DOC_118,DOC_118,0,1,1,0,0,1,0,1,0,1,0,0,1,0,0,,General Data Protection Regulation (GDPR),European Union,Government,International,
+DOC_119,DOC_119,0,1,1,0,0,1,1,0,0,1,0,0,0,0,0,,Generative AI Ethics,"Markkula Center for Applied Ethics, Santa Clara University",Education and Research,USA,
+DOC_120,DOC_120,0,0,0,0,1,1,0,0,1,1,0,1,0,0,0,,German AI Strategy (Updated Version),Federal Government of Germany,Government,Germany,
+DOC_121,DOC_121,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,,German Standardization Roadmap on Artificial Intelligence,DIN (Deutsches Institut für Normung e.V.),Industry,Germany,
+DOC_122,DOC_122,0,0,1,0,1,0,1,0,1,1,0,1,0,0,0,,Germany AI Strategy,German Federal Government,Government,Germany,
+DOC_123,DOC_123,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,Google AI Principles,Google,Industry,USA,
+DOC_124,DOC_124,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,,Google AI Principles,Google,Industry,USA,
+DOC_125,DOC_125,1,0,1,0,1,1,1,1,0,1,0,1,0,0,0,,Governance Principles for a New Generation of AI,China's Ministry of Science and Technology,Government,China,
+DOC_126,DOC_126,0,1,1,0,1,0,1,1,0,0,0,0,0,1,0,,Governing Artificial Intelligence. Upholding Human Rights & Dignity,Data & Society,Research Institute,USA,https://datasociety.net/library/governing-artificial-intelligence/
+DOC_127,DOC_127,1,1,1,0,1,1,1,1,1,1,0,1,0,0,0,,Government-Wide Vision on Generative AI of the Netherlands,Government of the Netherlands,Government,Netherlands,
+DOC_128,DOC_128,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,,Guidelines on Artificial Intelligence for the Confederation,Swiss Federal Council,Government,Switzerland,
+DOC_129,DOC_129,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,,Guiding Principles on Business and Human Rights,United Nations Office of the High Commissioner for Human Rights (OHCHR),NGO,USA,
+DOC_130,DOC_130,0,1,1,0,0,0,0,0,0,0,1,0,0,1,0,,Guiding Principles on Trusted AI Ethics,Telia Company,Industry,Sweden,
+DOC_131,DOC_131,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,,Hiroshima Process International Code of Conduct for Organizations Developing Advanced AI Systems,"Ministry of Foreign Affairs, Japan",Government,Japan,
+DOC_132,DOC_132,1,1,1,1,0,0,0,1,0,0,1,0,1,0,0,,How Can Humans Keep the Upper Hand? Report on the Ethical Matters Raised by AI Algorithms,French Data Protection Authority (CNIL),Government and Regulatory Affairs,France,https://www.cnil.fr/en/how-can-humans-keep-upper-hand-report-ethical-matters-raised-algorithms-and-artificial-intelligence?form=MG0AV3
+DOC_133,DOC_133,1,1,1,0,0,1,0,0,0,0,1,0,0,1,0,,Human Rights and artificial intelligence (CDDH-IA),"Human Rights intergovernmental Cooperation, Council of Europe",NGO,Council of Europe,
+DOC_134,DOC_134,1,1,0,0,0,0,0,1,0,0,0,0,1,1,0,,Human Rights in the Age of Artificial Intelligence,Access Now,NGO,International,
+DOC_135,DOC_135,1,0,0,0,0,0,0,1,0,0,1,0,1,1,0,,Human Rights in the Robot Age Report,The Rathenau Institute,International Organization,Netherlands,https://www.rathenau.nl/sites/default/files/2018-02/Human%20Rights%20in%20the%20Robot%20Age-Rathenau%20Instituut-2017.pdf?form=MG0AV3
+DOC_136,DOC_136,0,1,0,0,1,0,0,1,0,1,1,1,0,0,0,,Human-Centric AI Principles,"Council for Science, Technology and Innovation, Japan",Government,Japan,
+DOC_137,DOC_137,1,1,1,0,1,1,1,1,0,1,1,0,1,0,0,,Humans and machines - Challenges of artificial intelligence,German Ethics Council (Deutscher Ethikrat),Education and Research,Germany,
+DOC_138,DOC_138,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,,IBM’s Principles for Trust and Transparency,IBM,Industry,USA,"https://www.ibm.com/policy/trust-principles/?form=MG0AV3
+https://www.ibm.com/policy/wp-content/uploads/2018/06/IBM_Principles_SHORT.V4.3.pdf?form=MG0AV3"
+DOC_139,DOC_139,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,,IndiaAI Portal,IndiaAI,Government,India,
+DOC_140,DOC_140,0,1,1,0,0,0,0,1,0,0,0,1,0,0,0,,Indian Institute of Science (IISc) Bangalore,"Committee on AI Tools for Education and Research
+Centre for Networked Intelligence  ",Academia,India,"https://iisc.ac.in/about/student-corner/academic-integrity/
+"
+DOC_141,DOC_141,0,0,1,0,1,0,1,0,0,1,0,1,0,0,0,,Indigenous Perspectives in AI,"Kathleen Sandusky
+CIFAR
+",Education and Research,Canada,
+DOC_142,DOC_142,0,1,1,0,1,0,1,1,0,0,0,0,0,0,0,,Initial Code of Conduct for Data-Driven Health and Care Technology,UK Department of Health & Social Care,Government,UK,"https://www.gov.uk/government/publications/code-of-conduct-for-data-driven-health-and-care-technology?form=MG0AV3
+https://www.gov.uk/government/publications/code-of-conduct-for-data-driven-health-and-care-technology/initial-code-of-conduct-for-data-driven-health-and-care-technology
+
+"
+DOC_143,DOC_143,0,1,1,0,1,1,1,1,0,1,0,0,0,1,0,,Intel’s Responsible AI Principles,Intel Corporation,Industy,USA,
+DOC_144,DOC_144,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,,Intel's Responsible Artificial Intelligence (RAI) Principles,Intel Corporation,Industry,USA,
+DOC_145,DOC_145,0,1,1,0,1,1,0,0,0,0,0,0,1,0,0,,Interim Measures for the Administration of Generative Artificial Intelligence,Office of the Central Cyberspace Affairs Commission,Government,China,
+DOC_146,DOC_146,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,,International AI Governance,Oxford Martin AI Governance Initiative (AIGI),Education and Research,UK,
+DOC_147,DOC_147,0,1,1,0,1,1,1,1,1,0,0,0,0,0,0,,Introducing Unity’s Guiding Principles for Ethical AI—Unity Blog,Unity Technologies,Industy,USA,
+DOC_148,DOC_148,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,,Islamic Ethical Framework for Artificial Intelligence: A Moral and Theological Perspective,"The Islamic Culture ""As-Saqafat-ul Islamia"" – Research Journal – Sheikh Zayed Islamic Centre, University of Karachi",Education and Research,Pakistan,
+DOC_149,DOC_149,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,,Israel's Policy on AI Regulation and Ethics,"Ministry of Innovation, Science and Technology and the Ministry of Justice",Government,Israel,
+DOC_150,DOC_150,0,1,1,0,1,1,0,1,1,0,0,1,0,1,0,,ITI AI Policy Principles,Information Technology Industry Council (ITI),Business,USA,https://www.itic.org/policy/artificial-intelligence?form=MG0AV3
+DOC_151,DOC_151,0,1,0,0,0,0,0,1,0,1,0,0,0,1,0,,Japanese Society for Artificial Intelligence,Japanese Society for Artificial Intelligence,Education and Research,Japan,
+DOC_152,DOC_152,0,1,0,0,0,0,0,1,0,1,1,0,1,0,0,,Japan's AI Principles,"Ministry of Economy, Trade and Industry (METI)",Government,Japan,
+DOC_153,DOC_153,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,,Jewish Ethics in AI (Shalom Center),Shalom Center,Religious Organization,Israel,
+DOC_154,DOC_154,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,,Judaism's Three Doors into AI,The Jewish Education Project (Author: David Zvi Kalman),Religious Organization,USA,
+DOC_155,DOC_155,0,1,1,0,1,0,1,1,0,0,1,0,0,0,0,,L’intelligenza Artificiale al Servizio del Cittadino,Agenzia per l’Italia Digitale (AGID),Government,Italy,"https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2018/03/21/lintelligenza-artificiale-al-servizio-del-cittadino-sfide-opportunita?form=MG0AV3
+https://libro-bianco-ia.readthedocs.io/it/latest/?form=MG0AV3"
+DOC_156,DOC_156,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,Machine Intelligence Garage,Digital Catapult,Technology Policy,UK,https://www.digicatapult.org.uk/wp-content/uploads/2021/11/Machine_Intelligence_Garage_Impact_Report-2021-1.pdf?_gl=1*a2w0ho*_up*MQ..*_ga*MTk5MjgyNTkwOC4xNzQxODAwMzEw*_ga_8GYS9S4HND*MTc0MTgwMDMwOC4xLjAuMTc0MTgwMDMwOC4wLjAuMA..
+DOC_157,DOC_157,0,1,1,0,1,1,1,1,0,0,0,0,0,0,0,,Machine Learning: The Power and Promise of Computers that Learn by Example,The Royal Society,Government,UK,https://royalsociety.org/~/media/policy/projects/machine-learning/publications/machine-learning-report.pdf?form=MG0AV3
+DOC_158,DOC_158,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,"Malicious Use of Artificial Intelligence: Forecasting, Prevention, and Mitigation",Future of Humanity Institute; University of Oxford; Centre for the Study of Existential Risk; University of Cambridge; Center for a New American Security; Electronic Frontier Foundation; OpenAI,Academia,UK,https://arxiv.org/abs/1802.07228v1
+DOC_159,DOC_159,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,,"Malicious Use of Artificial Intelligence: Forecasting, Prevention, and Mitigation",Future of Humanity Institute; University of Oxford; Centre for the Study of Existential Risk; University of Cambridge; Center for a New American Security; Electronic Frontier Foundation; OpenAI,Education and Research,UK,
+DOC_160,DOC_160,0,1,1,0,1,1,0,1,1,1,0,0,0,0,0,,Meta Llama Responsible Use Guide,"Meta Platforms, Inc.",Industry,USA,
+DOC_161,DOC_161,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Microsoft’s Responsible AI Principles,Microsoft,Industy,USA,https://www.microsoft.com/en-us/ai/responsible-ai
+DOC_162,DOC_162,0,1,1,0,1,1,0,1,1,1,0,0,0,0,0,,Microsoft’s Responsible AI Principles,Microsoft,Industy,USA,
+DOC_163,DOC_163,0,1,1,0,1,1,0,1,1,0,0,0,0,0,0,,Microsoft’s Responsible AI Principles and Approach,Microsoft,Industy,USA,
+DOC_164,DOC_164,0,1,1,0,0,1,1,1,0,0,0,0,0,0,0,,Microsoft's Six Principles for Facial Recognition Work,Microsoft,Industry,USA,
+DOC_165,DOC_165,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,Mid- to Long-Term Master Plan in Preparation for the Intelligent Information Society,Government of the Republic of Korea,Government,South Korea,https://datagovhub.elliott.gwu.edu/republic-of-korea-ai-strategy/?form=MG0AV3
+DOC_166,DOC_166,1,1,1,1,1,0,0,0,0,0,0,1,1,0,0,,Minds and Machines: Ethical Principles and Challenges in Artificial Intelligence,"Luciano Floridi et al., Atomium—EISMD Initiative",Research Institute,EU,https://link.springer.com/article/10.1007/s11023-018-9482-5?form=MG0AV3
+DOC_167,DOC_167,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,,Montreal Declaration for a Responsible Development of Artificial Intelligence​,Université de Montréal,Education and Research,Canada,
+DOC_168,DOC_168,1,0,1,0,1,1,1,1,0,1,0,1,1,0,0,,Montreal Declaration for Responsible AI,University of Montreal,Education and Research,Canada,
+DOC_169,DOC_169,0,1,1,0,1,1,1,1,1,0,0,0,0,1,0,,Name: Council of Europe’s Guidelines on Artificial Intelligence and Human Rights,Council of Europe,Government,International,
+DOC_170,DOC_170,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,,National AI Strategy,"Department for Science, Innovation and Technology, Office for Artificial Intelligence, Department for Digital, Culture, Media & Sport and Department for Business & Industry Strategy",Government,UK,
+DOC_171,DOC_171,0,1,1,0,0,1,0,0,1,1,1,0,0,0,0,,National AI Strategy,"Ministry of Science and ICT, Republic of Korea",Government,South Korea,
+DOC_172,DOC_172,0,1,0,0,0,1,0,0,1,1,0,1,0,1,0,,National AI Strategy,"Office for Artificial Intelligence, Government of the United Kingdom",Government,UK,
+DOC_173,DOC_173,0,0,1,0,1,0,0,0,1,0,0,1,0,0,0,,National Artificial Intelligence Research and Development Strategic Plan,National Science and Technology Council; Networking and Information Technology Research and Development Subcommittee,Government,USA,https://www.nitrd.gov/PUBS/national_ai_rd_strategic_plan.pdf?form=MG0AV3
+DOC_174,DOC_174,0,1,0,0,0,1,0,0,1,1,0,1,0,1,0,,National Artificial Intelligence Research and Development Strategic Plan 2023 Update,"National Science and Technology Council, Select Committee on Artificial Intelligence, Office of Science and Technology Policy",Government,USA,
+DOC_175,DOC_175,0,1,1,0,0,1,0,1,0,1,0,0,0,1,0,,National Artificial Intelligence Strategy (NAIS) 2021-2025,"Presidency of Türkiye Digital Transformation Office (DTO), Ministry of Industry and Technology (MoIT)",Government,Turkey,
+DOC_176,DOC_176,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,,National Strategy for Artificial Intelligence,Indonesia Artificial Intelligence Society (IAIS),Government,Indonesia,
+DOC_177,DOC_177,0,0,1,0,1,0,1,1,1,0,0,0,0,0,0,,National Strategy for Artificial Intelligence (#AIforAll),"NITI Aayog, India",Government,India,
+DOC_178,DOC_178,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,,National Strategy for Data & AI,Saudi Data & AI Authority (SDAIA),Government,Saudi Arabia,
+DOC_179,DOC_179,0,1,1,0,1,0,1,0,0,1,1,1,0,0,0,,National Strategy for the Development of AI in Ukraine for 2021-2030,"Ministry of Digital Transformation
+OECD, Ukraine
+Atlantic Council",Government,Ukraine,
+DOC_180,DOC_180,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,Navigating AI: Analysis and Guidance on the Use and Adoption of AI, Australian Information Industry Association (AIIA)​,Industry,Australia,
+DOC_181,DOC_181,0,0,0,0,1,1,0,1,1,1,0,1,0,1,0,,New Artificial Intelligence Legislation in Mexico,Mexican Congress,Government,Mexico,
+DOC_182,DOC_182,0,1,1,0,1,0,1,0,0,1,1,1,0,0,0,,Nordic-Baltic Region’s AI Declaration,"Ministers from Denmark, Estonia, Finland, the Faroe Islands, Iceland, Latvia, Lithuania, Norway, Sweden, and the Åland Islands",Government,Denmark,
+DOC_183,DOC_183,0,1,1,0,1,1,1,0,0,1,0,0,0,1,0,,OECD AI Principles,Organisation for Economic Co-operation and Development (OECD),Government,International,
+DOC_184,DOC_184,1,1,0,0,0,1,0,1,1,1,1,0,1,1,0,,OECD AI Principles,Organisation for Economic Co-operation and Development (OECD),Government,France,
+DOC_185,DOC_185,1,1,1,0,0,0,1,1,0,1,0,0,0,1,0,,OECD AI Principles,Organisation for Economic Co-operation and Development (OECD),Government,International,
+DOC_186,DOC_186,1,1,1,0,0,0,1,1,0,1,0,0,0,1,0,,OECD Updates AI Principles to Stay Abreast of Rapid Technological Developments,Organisation for Economic Co-operation and Development (OECD),Government,International,
+DOC_187,DOC_187,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,,"On AI, Jewish Thought Has Something Distinct to Say",Future of Life Institute (Author: David Zvi Kalman),Religious Organization,USA,
+DOC_188,DOC_188,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,,OpenAI Charter,OpenAI,Industry,USA,"https://openai.com/charter/?form=MG0AV3
+https://openai.com/index/moving-ai-governance-forward/?form=MG0AV3
+https://openai.com/trust-and-transparency/?form=MG0AV3"
+DOC_189,DOC_189,1,1,0,0,0,1,0,1,1,1,1,0,1,1,0,,OpenAI’s Charter,OpenAI,Industy,USA,
+DOC_190,DOC_190,0,1,1,0,1,1,1,0,0,1,0,1,0,0,0,,Our Principles,Google,Industry,USA,
+DOC_191,DOC_191,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,,Our Principles,Google,Industry,USA,https://blog.google/technology/ai/ai-principles/?form=MG0AV3
+DOC_192,DOC_192,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,,Oxford Martin AI Governance Initiative,"Oxford Martin School, University of Oxford",Education and Research,UK,
+DOC_193,DOC_193,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,,Oxford’s Governance of AI Program,University of Oxford,Education and Research,UK,
+DOC_194,DOC_194,1,1,0,0,0,1,0,1,1,1,1,0,1,1,0,,Partnership on AI Tenets,Partnership on AI,NGO,International,
+DOC_195,DOC_195,1,1,0,0,0,1,0,1,1,1,1,0,1,1,0,,Partnership on AI Tenets,Partnership on AI,Industy,USA,https://partnershiponai.org/tenets/
+DOC_196,DOC_196,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,Partnership on AI Tenets,Partnership on AI (PAI),NGO,USA,
+DOC_197,DOC_197,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,,Peking University Official Website,Peking University,Education and Research,China,
+DOC_198,DOC_198,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,,Policy for Use of AI in Teaching and Learning,National University of Singapore (NUS),Academia,Singapore,
+DOC_199,DOC_199,0,1,1,0,1,1,1,1,1,0,0,0,0,0,0,,Policy Recommendations on Augmented Intelligence in Health Care H-480.940,American Medical Association (AMA),Healthcare,USA,https://policysearch.ama-assn.org/policyfinder/detail/augmented%20intelligence?uri=%2FAMADoc%2FHOD.xml-H-480.940.xml&form=MG0AV3
+DOC_200,DOC_200,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,,Position on Robotics and Artificial Intelligence,Green Digital Working Group,Government,EU,https://felixreda.eu/wp-content/uploads/2017/02/Green-Digital-Working-Group-Position-on-Robotics-and-Artificial-Intelligence-2016-11-22.pdf
+DOC_201,DOC_201,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,,Preparing for the Future of AI,"Executive Office of the President, National Science and Technology Council Committee on Technology",Government,USA,
+DOC_202,DOC_202,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,,Preparing for the Future of Artificial Intelligence,Executive Office of the President; National Science and Technology Council; Committee on Technology,Government,USA,https://obamawhitehouse.archives.gov/sites/default/files/whitehouse_files/microsites/ostp/NSTC/preparing_for_the_future_of_ai.pdf?form=MG0AV3
+DOC_203,DOC_203,0,1,1,0,0,0,0,1,0,1,0,1,0,1,0,,Principled Artificial Intelligence,"Berkman Klein Center for Internet & Society, Harvard University",Education and Research,USA,
+DOC_204,DOC_204,0,1,1,0,1,0,0,0,1,0,0,1,0,0,0,,Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights-Based Approaches to Principles for AI,"Berkman Klein Center for Internet & Society, Harvard University",Education and Research,USA,
+DOC_205,DOC_205,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,,Principles for Accountable Algorithms and a Social Impact Statement for Algorithms,"Fairness, Accountability, and Transparency in Machine Learning (FATML)","Academia 
+Research",USA,"https://www.fatml.org/resources/principles-for-accountable-algorithms?form=MG0AV3
+https://sorelle.friedler.net/papers/principles.pdf?form=MG0AV3"
+DOC_206,DOC_206,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,,Principles for Ethical AI,Harvard Data Science Review,Education and Research,USA,
+DOC_207,DOC_207,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,,Principles for Using Generative A․I․ in The Times’s Newsroom,New York Times,Industry,USA,
+DOC_208,DOC_208,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,,Principles of Robotics,Engineering and Physical Sciences Research Council UK (EPSRC),Academia,UK,https://www.academia.edu/48798050/Principles_of_Robotics
+DOC_209,DOC_209,0,1,1,0,1,0,0,1,0,0,0,0,0,1,0,,Privacy and Freedom of Expression in the Age of Artificial Intelligence,Privacy International & Article 19,Civil Society,UK,https://www.article19.org/wp-content/uploads/2018/04/Privacy-and-Freedom-of-Expression-In-the-Age-of-Artificial-Intelligence-1.pdf?form=MG0AV3
+DOC_210,DOC_210,0,1,1,0,0,1,1,1,1,0,0,0,0,0,0,,Protecting Individuals’ Privacy and Data in the Artificial Intelligence World,Intel Corporation,Industry,USA,https://www.intel.com/content/dam/www/public/us/en/ai/documents/Intels-AI-Privacy-Policy-White-Paper-2018.pdf?form=MG0AV3
+DOC_211,DOC_211,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,Provisions of the Management of Deep Synthesis of Internet Information,Office of the Central Cyberspace Affairs Commission,Government,China,
+DOC_212,DOC_212,0,1,1,0,1,1,0,1,1,1,0,0,0,0,0,,Provisions on the Management of Algorithmic Recommendation in Internet Information Services,Cyberspace Administration of China (CAC),Government,China,
+DOC_213,DOC_213,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,,PwC Responsible AI,PricewaterhouseCoopers (PwC),Industry,USA,
+DOC_214,DOC_214,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,,PwC's Responsible AI,PricewaterhouseCoopers (PwC),Industry,USA,
+DOC_215,DOC_215,1,0,1,0,0,0,0,0,0,0,1,0,1,1,0,,Report of COMEST on Robotics Ethics,UNESCO/COMEST,International Organization,France,https://unesdoc.unesco.org/ark:/48223/pf0000253952?form=MG0AV3
+DOC_216,DOC_216,1,0,1,0,0,0,0,0,0,0,1,0,1,1,0,,Report of Comest on Robotics Ethics,"United Nations Educational, Scientific and Cultural Organization (UNESCO)",NGO,International,
+DOC_217,DOC_217,0,1,0,0,1,0,0,1,0,1,1,1,0,1,0,,Report on Artificial Intelligence and Human Society,Advisory Board on Artificial Intelligence and Human Society (initiative of the Minister of State for Science and Technology Policy),Government,Japan,https://www8.cao.go.jp/cstp/tyousakai/ai/summary/aisociety_en.pdf?form=MG0AV3
+DOC_218,DOC_218,0,1,1,0,0,0,0,1,0,1,0,0,0,0,0,,Report on the Use of AI at Apple Inc.,Segal Marco Advisors (Lead Filer),Industy,USA,
+DOC_219,DOC_219,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,Report with Recommendations to the Commission on Civil Law Rules on Robotics,European Parliament,Inter-Governmental Organization,EU,https://www.europarl.europa.eu/doceo/document/A-8-2017-0005_EN.html?form=MG0AV3
+DOC_220,DOC_220,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,Responsible AI #AIFORALL,National Institution for Transforming India (NITI Aayog),Government,India,
+DOC_221,DOC_221,0,1,1,0,1,1,1,1,0,1,0,0,0,0,0,,Responsible AI and Robotics. An Ethical Framework.,Accenture UK,Business,UK,"https://www.accenture.com/gb-en/insights/artificial-intelligence/responsible-ai-principles-practice?form=MG0AV3
+https://www.accenture.com/content/dam/accenture/final/a-com-migration/pdf/pdf-149/accenture-responsible-ai-final.pdf#zoom=50
+https://www.accenture.com/gb-en/services/data-ai/responsible-ai?form=MG0AV3"
+DOC_222,DOC_222,0,1,1,0,1,1,1,1,0,0,0,0,0,0,0,,Responsible AI Collaborative (Joint Industry Initiative),Responsible AI Institute,Industy,USA,
+DOC_223,DOC_223,0,1,1,0,0,1,1,0,0,1,0,0,0,0,0,,Responsible AI DoD's Ethical Principles for AI,Carnegie Mellon,Academia,USA,
+DOC_224,DOC_224,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,,Responsible AI Framework,PricewaterhouseCoopers UK,Industry,UK,https://www.pwc.co.uk/services/risk/insights/accelerating-innovation-through-responsible-ai/responsible-ai-framework.html?form=MG0AV3
+DOC_225,DOC_225,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,,Responsible AI Principles,Amazon Web Services (AWS),Industy,USA,
+DOC_226,DOC_226,0,1,1,0,1,1,1,1,1,1,0,0,0,0,0,,Responsible AI Principles and Practices,Accenture,Industry,International,
+DOC_227,DOC_227,0,1,1,0,0,1,1,1,0,0,0,0,0,0,0,,"Responsible AI Principles
+Responsible AI Transparency Report 2024",Microsoft,Industry,USA,"https://www.microsoft.com/en-us/ai/principles-and-approach/?form=MG0AV3
+https://www.microsoft.com/en-us/ai/responsible-ai?form=MG0AV3
+https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/Responsible-AI-Transparency-Report-2024.pdf"
+DOC_228,DOC_228,0,1,1,0,1,1,1,1,1,0,0,0,0,0,0,,Responsible AI: AI for All Approach Document,"NITI Aayog, India",Government,India,https://www.niti.gov.in/sites/default/files/2023-03/Responsible-AI-AIForAll-Approach-Document-for-India-Part-Principles-for-Responsible-AI.pdf?form=MG0AV3&form=MG0AV3
+DOC_229,DOC_229,0,1,1,0,0,1,1,1,1,0,0,0,1,0,0,,Responsible Bots: 10 Guidelines for Developers of Conversational AI,Microsoft,Industry,USA,https://www.microsoft.com/en-us/research/publication/responsible-bots/?form=MG0AV3
+DOC_230,DOC_230,0,1,0,0,0,0,0,1,0,0,1,0,1,0,0,,Rise of the Robots,Martin Ford,Business,USA,https://www.basicbooks.com/titles/martin-ford/rise-of-the-robots/9780465097531/
+DOC_231,DOC_231,1,1,1,0,0,1,0,0,0,0,1,0,0,1,0,,Risk Management Profile for Artificial Intelligence and Human Rights,US Department of State,Government,USA,"https://2021-2025.state.gov/risk-management-profile-for-ai-and-human-rights/?form=MG0AV3
+"
+DOC_232,DOC_232,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,,Robots Should Be Slaves,"Hertie School in Berlin, Joanna Bryson",Academia,EU,https://www.joannajbryson.org/publications
+DOC_233,DOC_233,0,1,1,0,0,1,0,1,1,0,1,0,0,0,0,,Rome Call for AI Ethics,"Pontifical Academy for Life, Microsoft, IBM, FAO, Italian Ministry of Innovation",Religion,Italy,https://romecall.org/
+DOC_234,DOC_234,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,,Russia’s AI Strategy 2030,President of the Russian Federation,Government,Russian Federation,"https://cset.georgetown.edu/wp-content/uploads/Decree-of-the-President-of-the-Russian-Federation-on-the-Development-of-Artificial-Intelligence-in-the-Russian-Federation-.pdf?form=MG0AV3
+https://government.ru/en/news/49604/?form=MG0AV3
+https://wp.oecd.ai/app/uploads/2021/12/Ukraine_National_Strategy_for_Development_of_Artificial_Intelligence_in_Ukraine_2021-2030.pdf"
+DOC_235,DOC_235,0,1,0,0,0,1,0,1,1,1,0,0,0,1,0,,Salesforce’s Ethical Use of Technology,Salesforce,Industy,USA,"https://www.salesforce.com/company/ethical-use-policy/?form=MG0AV3
+https://www.salesforce.com/company/ethical-and-humane-use/?form=MG0AV3"
+DOC_236,DOC_236,0,1,1,0,0,0,0,1,0,1,0,1,0,0,0,,SAP’s Guiding Principles for Artificial Intelligence,SAP,Industy,Germany,https://www.sap.com/documents/2022/01/a8431b91-117e-0010-bca6-c68f7e60039b.html?form=MG0AV3
+DOC_237,DOC_237,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,,"Science, Law and Society (SLS) Initiative",The Future Society,Civil Society,USA,https://thefuturesociety.org/principles-law-and-society-initiative/?form=MG0AV3
+DOC_238,DOC_238,1,1,0,0,0,1,0,1,1,1,1,0,1,1,0,,"Scotland’s AI Strategy: Trustworthy, Ethical, and Inclusive",Scottish Government,Government,Scotland,
+DOC_239,DOC_239,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,Shanghai Jiao Tong University Global News,Shanghai Jiao Tong University,Academia,China,https://global.sjtu.edu.cn/en/news/view/1520
+DOC_240,DOC_240,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,Sikh Contributions to AI Ethics,Sikh,Religion,India,https://www.sikhnet.com/news/ai-and-sikhism%C2%A0?form=MG0AV3&form=MG0AV3
+DOC_241,DOC_241,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,Singapore Model AI Governance Framework,Personal Data Protection Commission SIngapore,Government,Singapore,https://www.pdpc.gov.sg/help-and-resources/2020/01/model-ai-governance-framework
+DOC_242,DOC_242,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,Singapore's Approach to AI Governance,Personal Data Protection Commission Singapore,Government,Singapore,https://www.pdpc.gov.sg/help-and-resources/2020/01/model-ai-governance-framework
+DOC_243,DOC_243,0,1,1,0,1,1,1,0,0,0,0,1,0,0,0,,Smart Dubai AI Ethics Principles and Guidelines,Smart Dubai,Government,UAE,
+DOC_244,DOC_244,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Smart Dubai Initiative,Smart Dubai Office,Government,UAE,
+DOC_245,DOC_245,0,1,1,0,0,0,1,1,0,0,0,0,0,1,0,,Sony Group AI Ethics Guidelines,Sony,Business,Japan,https://www.sony.com/en/SonyInfo/sony_ai/responsible_ai.html?form=MG0AV3
+DOC_246,DOC_246,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,Sony Group AI Ethics Guidelines,Sony Group,Industry,Japan,
+DOC_247,DOC_247,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,South Korea's AI Framework Act,Korean Information Society Development Institute (KISDI),Government,South Korea," https://ai.kisdi.re.kr/eng/main/contents.do?menuNo=500011.
+https://iapp.org/news/a/analyzing-south-korea-s-framework-act-on-the-development-of-ai."
+DOC_248,DOC_248,0,1,1,0,1,1,0,0,1,0,0,1,0,0,0,,Stanford University HAI (SH),Stanford University,Academia,USA,"https://news.stanford.edu/stories/2025/01/report-outlines-stanford-principles-for-use-of-ai?form=MG0AV3
+https://provost.stanford.edu/2025/01/09/report-of-the-ai-at-stanford-advisory-committee/
+https://events.stanford.edu/event/ai-governance-at-a-turning-point-new-realities-post-ai-action-summit?form=MG0AV3
+https://ethicsinsociety.stanford.edu/tech-ethics/career-pathways-professional-development/ethics-technology-and-public-policy-for-practitioners?form=MG0AV3
+https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2024-10/GenAI_Report_REV_ExecutiveSummary%20as%20of%20Oct%2025%202024.pdf
+"
+DOC_249,DOC_249,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,,Statement on Algorithmic Transparency and Accountability,Association for Computing Machinery (ACM),Academia,USA,https://www.acm.org/binaries/content/assets/public-policy/2017_usacm_statement_algorithms.pdf?form=MG0AV3
+DOC_250,DOC_250,1,1,1,0,0,0,1,1,0,0,1,0,1,1,0,,"Statement on Artificial Intelligence, Robotics, and 'Autonomous' Systems​",European Group on Ethics in Science and New Technologies (EGE),Government,EU,
+DOC_251,DOC_251,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,,Strategic Program on Artificial Intelligence,"Ministry of Education, University and Research, the Ministry of Economic Development and the Minister of Technological Innovation and Digital Transition",Government,Italy,
+DOC_252,DOC_252,0,1,0,0,0,1,0,0,1,1,0,0,0,1,0,,"Summary of the Brazilian Artificial Intelligence Strategy (EBIA)
+Issuer: Ministry of Science, Technology, and Innovations (MCTI)","Minister of Science, Technology, Innovation and Communications (MCTIC)",Government,Brazil,
+DOC_253,DOC_253,0,1,1,0,1,1,0,1,1,1,0,0,0,0,0,,Sweden to Lead AI Cooperation in Nordic-Baltic Region,Government Offices of Sweden,Government,Sweden,
+DOC_254,DOC_254,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,Telefónica's Artificial Intelligence Principles,Telefónica,Industry,Spain,
+DOC_255,DOC_255,0,1,1,0,0,1,1,0,1,1,0,1,0,0,0,,Tencent's Responsible AI Principles,Tencent Holdings Ltd.,Industry,China,
+DOC_256,DOC_256,0,1,1,0,0,1,0,1,1,0,0,0,0,0,0,,Tesla’s AI Safety and Transparency Policies,Tesla,Industy,USA,"https://www.tesla.com/legal/additional-resources?form=MG0AV3
+https://www.forbes.com/sites/lanceeliot/2022/10/02/five-key-ways-that-ai-ethics-and-ai-laws-reveal-troubling-concerns-for-teslas-ai-day-showcase-and-the-ever-expanding-ai-ambitions-of-elon-musk/?form=MG0AV3
+https://montrealethics.ai/applying-the-taii-framework-on-tesla-bot/?form=MG0AV3
+"
+DOC_257,DOC_257,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,,The DOL publishes best practices that employers can follow to decrease the legal risks associated with using AI in employment decisions,K&L Gates Endowment for Ethics and Computational Technologies,Business,USA,https://www.klgates.com/The-DOL-Publishes-Best-Practices-That-Employers-Can-Follow-to-Decrease-the-Legal-Risks-Associated-With-Using-AI-in-Employment-Decisions?form=MG0AV3
+DOC_258,DOC_258,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,The Ethical and Moral Implications of Artificial Intelligence,Allistene (Cerna Ethics Commission on Digital Technology and AI),NGO,France,
+DOC_259,DOC_259,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,,The Ethics of Advanced AI Assistants,Google DeepMind,Industry,USA,
+DOC_260,DOC_260,0,0,1,0,1,0,1,0,1,0,0,1,0,0,0,,The Future of Work and Education for the Digital Age,Think20 (T20) Japan,Education and Research,Japan,
+DOC_261,DOC_261,1,1,1,1,0,1,1,1,0,0,0,0,0,0,0,,The global landscape of AI ethics guidelines,"Nature Machine Intelligence​, Jobin",Academia,USA,
+DOC_262,DOC_262,0,1,1,0,1,0,1,0,1,1,0,0,0,0,0,,The Heart and the Chip: Our Bright Future with Robots,Daniela Rus and Gregory Mone,Academia,USA,
+DOC_263,DOC_263,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,,The Montréal Declaration for a Responsible Development of Artificial Intelligence,Université de Montréal,Academic,Canada,https://montrealdeclaration-responsibleai.com/the-declaration?utm_source=chatgpt.com
+DOC_264,DOC_264,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,,The New York Times Embraces AI,New York Times,Industry,USA,
+DOC_265,DOC_265,0,1,1,0,0,1,1,1,0,0,0,0,0,1,0,,The role of artificial intelligence in predicting human rights violations,OpenGlobalRights,Government,USA,
+DOC_266,DOC_266,0,1,1,0,1,0,1,1,1,0,0,0,0,1,0,,The Toronto Declaration: Protecting the Rights to Equality and Non-Discrimination in Machine Learning Systems,Amnesty International and Access Now,Government,International,
+DOC_267,DOC_267,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,There is a blind spot in AI Research,"Google Deep Minds
+Crawford and Calo Article","Research
+Business",USA,https://www.nature.com/articles/538311a
+DOC_268,DOC_268,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,,Tieto’s AI Ethics Guidelines,Tieto,Business,Finland,https://www.tietoevry.com/en/newsroom/all-news-and-releases/press-releases/2018/10/tieto-strengthens-commitment-to-ethical-use-of-ai/?form=MG0AV3
+DOC_269,DOC_269,1,0,1,0,0,0,0,0,0,0,1,0,1,1,0,,Top 10 Principles for Ethical Artificial Intelligence,UNI Global Union,International Organization,Switzerland,https://unesdoc.unesco.org/ark:/48223/pf0000253952?form=MG0AV3
+DOC_270,DOC_270,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,,Toronto Declaration: Protecting the Right to Equality and Non-discrimination in Machine Learning Systems,Access Now; Amnesty International,NGO,Canada,https://www.accessnow.org/press-release/the-toronto-declaration-protecting-the-rights-to-equality-and-non-discrimination-in-machine-learning-systems/?form=MG0AV3
+DOC_271,DOC_271,0,1,0,0,1,1,0,0,1,1,0,0,0,0,0,,Towards an AI Strategy n Mexico: Harnessing the AI Revolution,"British Embassy in Mexico, Oxford Insights, C Minds",NGO,Mexico,
+DOC_272,DOC_272,0,1,1,0,1,1,1,0,1,1,0,1,0,0,0,,"Translation: Artificial Intelligence Law, Model Law v.1.0 (Expert Suggestion Draft)",Digichina,Academia,USA,
+DOC_273,DOC_273,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,Trusthworthy AI,nVidia,Business,Taiwan,https://www.nvidia.com/en-us/ai-data-science/trustworthy-ai/?form=MG0AV3
+DOC_274,DOC_274,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,,Trustworthy AI Framework,"Department of Veterans Affairs (VA), United States",Government,USA,
+DOC_275,DOC_275,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,,"Twitter’s Machine Learning Ethics, Transparency, and Accountability (META) Team",X,Industy,USA,"https://blog.x.com/en_us/topics/company/2021/introducing-responsible-machine-learning-initiative
+https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-025-00527-5?form=MG0AV3
+https://www.emerald.com/insight/content/doi/10.1108/jrim-05-2024-0237/full/html?form=MG0AV3
+https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-023-00445-y?form=MG0AV3"
+DOC_276,DOC_276,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,,UAE’s National AI Strategy 2031,His Highness Sheikh Mohammed bin Rashid Al Maktoum Vice President and Prime Minister of the UAE and Ruler of Dubai,Government,UAE,"https://preprodafd-staticcdn.mbzuai.ac.ae/mbzuaiwpdev01/2022/07/UAE-National-Strategy-for-Artificial-Intelligence-2031.pdf?form=MG0AV3
+https://ai.gov.ae/strategy/?form=MG0AV3
+"
+DOC_277,DOC_277,0,1,1,0,0,0,0,1,0,1,1,1,0,1,0,,UNESCO’s Recommendation on the Ethics of AI,UNESCO,Government,France,https://unesdoc.unesco.org/ark:/48223/pf0000381137?form=MG0AV3
+DOC_278,DOC_278,0,1,1,0,1,1,0,0,1,1,0,0,0,0,0,,"Unified Ethical Frame for Big Data Analysis. IAF Big Data Ethics Initiative, Part A",The Information Accountability Foundation,Academia,USA,"https://bigdata.fpf.org/wp-content/uploads/2015/11/IAF-Unified-Ethical-Frame-for-Big-Data-Analysis.pdf?form=MG0AV3
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2510934&form=MG0AV3"
+DOC_279,DOC_279,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,,Universal Guidelines for Artificial Intelligence,The Public Voice,International Organization,USA,https://www.caidp.org/universal-guidelines-for-ai/?form=MG0AV3
+DOC_280,DOC_280,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,,Universal Guidelines for Artificial Intelligence,Center for AI and Digital Policy (CAIDP),NGO,Belgium,
+DOC_281,DOC_281,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,University of Sydney,Sydney Artificial Intelligence Centre,Academia,Australia,https://www.sydney.edu.au/engineering/our-research/data-science-and-computer-engineering/sydney-artificial-intelligence-centre.html
+DOC_282,DOC_282,0,1,1,0,0,1,1,1,1,0,0,0,0,0,0,,University of Toronto AI Research Initiatives,University of Toronto,Education and Research,Canada,
+DOC_283,DOC_283,0,1,1,0,1,1,1,1,1,0,0,0,0,0,0,,Updating Unity's guiding principles for ethical AI,Unity Technologies,Industry,USA,https://unity.com/blog/engine-platform/updating-unitys-guiding-principles-for-ethical-ai?form=MG0AV3
+DOC_284,DOC_284,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Values for the Future: The Role of Ethics in European and Global Governance,European Group on Ethics in Science and New Technologies (EGE),Government,EU,
+DOC_285,DOC_285,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,,Web Summit 2024,Web Summit in Lisbon,Business,EU,https://websummit.com/blog/news/web-summit-2024-hosts-sold-out-event-with-record-breaking-71528-attendees
+DOC_286,DOC_286,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,,What Buddhism Can Do for AI Ethics,MIT Technology Review,Education and Research,China,
+DOC_287,DOC_287,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,,What is AI Ethics,IBM,Business,USA,"https://www.ibm.com/policy/trust-principles/?form=MG0AV3
+https://www.ibm.com/think/topics/ai-ethics"
+DOC_288,DOC_288,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,,White House Blueprint for an AI Bill of Rights (U.S.),White House,Government,USA,"https://bidenwhitehouse.archives.gov/ostp/ai-bill-of-rights/?form=MG0AV3
+https://data.aclum.org/wp-content/uploads/2025/01/OSTP_www_whitehouse_gov_ostp_ai-bill-of-rights.pdf?form=MG0AV3"
+DOC_289,DOC_289,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,G7,,,,http://g7germany.de
+DOC_290,DOC_290,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,G10,,,,
+DOC_291,DOC_291,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,G15,,,,
