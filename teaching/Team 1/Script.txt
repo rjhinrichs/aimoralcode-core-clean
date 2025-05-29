@@ -1,0 +1,27 @@
+from docx import Document
+import os
+
+def generate_team1_feedback(name, role, evaluation_summary, objective_alignment, output_dir="/mnt/data"):
+    # Sanitize filename
+    filename = f"{name.replace(' ', '_')}_Feedback_Spring2025.docx"
+    file_path = os.path.join(output_dir, filename)
+
+    # Create document
+    doc = Document()
+    doc.add_heading(f"Evaluation Feedback – {name}", level=1)
+
+    doc.add_heading("Evaluation Summary", level=2)
+    doc.add_paragraph(evaluation_summary)
+
+    doc.add_heading("Assignment Objectives – How You Met Them", level=2)
+    doc.add_paragraph(objective_alignment)
+
+    doc.save(file_path)
+    return file_path
+
+# Example usage:
+# name = "Amanda Iverson"
+# role = "Project Coordinator"
+# evaluation_summary = "..."
+# objective_alignment = "..."
+# generate_team1_feedback(name, role, evaluation_summary, objective_alignment)
