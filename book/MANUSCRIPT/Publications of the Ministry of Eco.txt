@@ -1,0 +1,44 @@
+Publications of the Ministry of Economic Affairs and Employment  
+Ministry
+https://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/160391/TEMrap_47_2017_verkkojulkaisu.pdf?sequence=1&isAllowed=y
+Finland’s Age of Artificial Intelligence Turning Finland into a leading country in the application of artificial intelligence Objective and recommendations for measures
+
+Work in the age of artificial intelligence Four perspectives on the economy, employment, skills and ethics
+
+https://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/160980/TEMjul_21_2018_Work_in_the_age.pdf
+
+"Values and ethics are no limit or 
+obstacle to innovation and change; they are the gist of innovation 
+and change. They represent the compass indicating what 
+responsible, inclusive and sustainable ways of future-making are".  from Values for the Future: The Role of Ethics in European ... 2021. 
+
+Also, I can use this as a disclaimer to the AI Moral Code
+" Instead they are 
+the outcome of dynamic debate and lived practice. from Values for the Future: above
+
+Also from the same document, this is good to explain why we are using AI to improve the human experience, and why I used it to codify the AI Debate 
+" Scientific progress and technological innovation impact 
+every aspect of our lives and ethics and values are at the heart of 
+4                            
+European Group on Ethics in Science and New Technologies 
+Values for the Future: The role of ethics in European and global governance 
+shaping our world through innovations."
+
+Also,this describes how critical Humans are in the AI Partnership
+" AI Partnered Ethics are "is situated in a socio-political context where citizens 
+are at the centre of inclusive and participatory policy making, with 
+innovative means for democratic participation and public 
+engagement. "
+from the Values doc. above.
+
+Here's a good list:
+Complexities
+Wicked Problems
+Deep Uncertainty
+Unforeseen Consequences
+
+Lot of wisdom in this document
+The trust of citizens in science and technology policy and social 
+acceptance by citizens will also depend on whether a policy option 
+exemplifies ethical virtues such as inclusion, fairness, democracy, 
+openness, responsibility, integrity and accountability.
