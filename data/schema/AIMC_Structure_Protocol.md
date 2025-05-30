@@ -1,8 +1,8 @@
 
-# Ongoing Structural Refinement Protocol (OSRP)
+# AIMC Structure Protocol
 
 ## Purpose
-To ensure the AI Moral Code database structure is continuously refined for:
+To ensure the AI Moral Code (AIMC) database structure is continuously refined for:
 - Semantic fidelity
 - Computational efficiency
 - Interpretability

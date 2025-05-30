@@ -1,0 +1,69 @@
+{
+  "title": "AIMC Structure Protocol",
+  "version": "1.0",
+  "description": "Schema anchor for ongoing refinement of the AI Moral Code dataset.",
+  "principles": {
+    "field_integrity": {
+      "description": "Every field must serve a human or machine purpose.",
+      "rules": [
+        {
+          "field": "Name of Document",
+          "format": "sentence_case"
+        },
+        {
+          "field": "matched_pdf",
+          "format": "snake_case"
+        },
+        {
+          "field": "canonical_snake_title",
+          "optional": true,
+          "use_case": "graph-based processing"
+        }
+      ]
+    },
+    "value_curation": {
+      "description": "Canonical forms must represent normative identities.",
+      "guidelines": [
+        "Use compressed canonical forms only when semantics are preserved",
+        "Track legacy or original labels in auxiliary columns (e.g., Notes)"
+      ]
+    },
+    "naming_conventions": {
+      "description": "Defines structure and formatting rules per column.",
+      "fields": {
+        "Name of Document": "sentence_case",
+        "matched_pdf": "snake_case (max 10 words, must include .pdf)",
+        "confirmed_match": "Yes/No",
+        "citation_label": "APA 7 style"
+      }
+    },
+    "execution": {
+      "description": "Define the transformation and data pipeline fluidity.",
+      "formats": [
+        "CSV",
+        "JSON",
+        "PDF"
+      ],
+      "principles": [
+        "No redundancy unless needed for linkage",
+        "Ordering follows: bibliographic \u2192 ethical classification"
+      ]
+    },
+    "architecture": {
+      "description": "Directory structure and file placement best practices.",
+      "folders": {
+        "/data/schema/": "blueprints",
+        "/data/verified/": "truth-validated document links",
+        "/exports/": "publications and ML outputs"
+      }
+    }
+  },
+  "operational_mandate": [
+    "Schema expansions",
+    "Data ingestion logic",
+    "Renaming functions",
+    "Inference models",
+    "Publication pipelines"
+  ],
+  "motto": "Grace and elegance are not abstract. They are encoded."
+}
