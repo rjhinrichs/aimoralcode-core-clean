@@ -1,0 +1,17 @@
+snake_case_column_names
+unique_id
+researcher
+name_of_document
+issuer
+date_of_issue
+url
+country
+matched_pdf
+confirmed_match
+citation_label
+citation_source
+normalized_principles
+normalized_values
+disvalue_flag
+notes
+likely_file_match
