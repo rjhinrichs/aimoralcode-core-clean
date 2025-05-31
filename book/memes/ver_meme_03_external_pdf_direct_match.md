@@ -17,6 +17,7 @@
    - `name_of_document`
    - `issuer`
    - `date_of_issue`
+   - `country`
 3. Rename using snake_case based on document title.
 4. Save into /book/BIBLIOGRAPHY.
 5. Update MASTER:
@@ -25,13 +26,27 @@
    - `citation_label`: Issuer, Year
    - `citation_source`: Title of Document
 
-## Use Case Anchor
-- DOC_ID: doc_003
-- Title: "5 Trends for 2025"
-- Issuer: IBM Institute for Business Value (IBM IBV)
-- Year: 2025
-- URL: https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/business-trends-2025
-- matched_pdf: `5-trends-for-2025-report.pdf`
+## Use Case Anchors
+- DOC_003  
+  Title: 5 Trends for 2025  
+  Issuer: IBM Institute for Business Value (IBM IBV)  
+  Country: USA  
+  matched_pdf: 5-trends-for-2025-report.pdf  
+  confirmed_match: Yes
+
+- DOC_006  
+  Title: Adobe's AI Ethics Principles  
+  Issuer: Adobe Inc.  
+  Country: USA  
+  matched_pdf: adobe_ai_ethics_principles.pdf  
+  confirmed_match: Yes
+
+- DOC_007  
+  Title: AI and Islamic Ethics: A Framework for Ethical AI Development Based on Maqasid Al-Shariah  
+  Issuer: ICANEAT  
+  Country: Indonesia  
+  matched_pdf: artificial_intelligence_islamic_ethics_maqasid_al_shariah.pdf  
+  confirmed_match: Yes
 
 ## Notes
 This is the preferred verification method when high-quality, publisher-hosted PDFs are available. This meme requires minimal intervention and should be prioritized when possible.
