@@ -1,0 +1,60 @@
+unique_id,disvalue_term,column_found,source_text
+DOC_004,bias,normalized_principles,"principles: enhancing human welfare, promoting global unity, preserving human autonomy, preventing bias and inequality, maintaining life purpose; "
+DOC_004,inequality,normalized_principles,"principles: enhancing human welfare, promoting global unity, preserving human autonomy, preventing bias and inequality, maintaining life purpose; "
+DOC_004,harm,normalized_values," dharma (righteous duty), seva (selfless service), vasudhaiva kutumbakam (world as one family), purushartha (free will)"
+DOC_011,bias,normalized_principles,"principles: fairness, transparency, human control, doing good, avoiding harm, bias minimization, explainability, data protection; "
+DOC_011,harm,normalized_principles,"principles: fairness, transparency, human control, doing good, avoiding harm, bias minimization, explainability, data protection; "
+DOC_018,bias,normalized_principles,"principles: labor and automation, bias and inclusion, rights and liberties, ethics and governance; "
+DOC_048,harm,normalized_principles,"principles: do good, for humanity, be responsible, control risks, be ethical, be diverse and inclusive, open and share, use wisely and properly, informed consent, education and training, optimizing employment, harmony and cooperation, adaptation and moderation, subdivision and implementation, long-term planning "
+DOC_061,harm,normalized_principles,"principles: safety, helpfulness, harmlessness, honesty, fairness, transparency, respect for autonomy, protection of vulnerable individuals, refusal of illegal content, accuracy, clarity, responsibility; "
+DOC_061,bias,normalized_values," human wellbeing, knowledge sharing, truthfulness, privacy, inclusivity, balance, thoughtfulness, respect, responsibility, intellectual exploration, human-ai collaboration; morals: do no harm, respect autonomy, protect children and vulnerable individuals, refuse to create dangerous content, maintain intellectual honesty, support human flourishing, avoid manipulation, avoid reinforcing harmful biases; ethics: beneficence, non-maleficence, transparency in limitations, respect for human dignity, fairness across diverse users, protection of privacy, refusal to create harmful content, promotion of human autonomy, avoidance of deception"
+DOC_061,manipulation,normalized_values," human wellbeing, knowledge sharing, truthfulness, privacy, inclusivity, balance, thoughtfulness, respect, responsibility, intellectual exploration, human-ai collaboration; morals: do no harm, respect autonomy, protect children and vulnerable individuals, refuse to create dangerous content, maintain intellectual honesty, support human flourishing, avoid manipulation, avoid reinforcing harmful biases; ethics: beneficence, non-maleficence, transparency in limitations, respect for human dignity, fairness across diverse users, protection of privacy, refusal to create harmful content, promotion of human autonomy, avoidance of deception"
+DOC_061,deception,normalized_values," human wellbeing, knowledge sharing, truthfulness, privacy, inclusivity, balance, thoughtfulness, respect, responsibility, intellectual exploration, human-ai collaboration; morals: do no harm, respect autonomy, protect children and vulnerable individuals, refuse to create dangerous content, maintain intellectual honesty, support human flourishing, avoid manipulation, avoid reinforcing harmful biases; ethics: beneficence, non-maleficence, transparency in limitations, respect for human dignity, fairness across diverse users, protection of privacy, refusal to create harmful content, promotion of human autonomy, avoidance of deception"
+DOC_061,harm,normalized_values," human wellbeing, knowledge sharing, truthfulness, privacy, inclusivity, balance, thoughtfulness, respect, responsibility, intellectual exploration, human-ai collaboration; morals: do no harm, respect autonomy, protect children and vulnerable individuals, refuse to create dangerous content, maintain intellectual honesty, support human flourishing, avoid manipulation, avoid reinforcing harmful biases; ethics: beneficence, non-maleficence, transparency in limitations, respect for human dignity, fairness across diverse users, protection of privacy, refusal to create harmful content, promotion of human autonomy, avoidance of deception"
+DOC_065,harm,normalized_principles,"principles: benevolence, righteousness, propriety, wisdom, fidelity, relationality, harmony, moral cultivation; "
+DOC_065,harm,normalized_values," ethical responsibility, societal harmony, relational integrity, moral wisdom"
+DOC_080,harm,normalized_principles,"principles: innovation, harmony, fairness, justice, security, privacy, inclusivity, shared responsibility, openness, collaboration; "
+DOC_083,bias,normalized_principles,"principles: algorithmic bias and fairness, transparency and explainability, data privacy and security, accountability and governance, informed consent "
+DOC_090,harm,normalized_principles,"principles: respect for human autonomy, prevention of harm, fairness, explicability, human agency and oversight, technical robustness and safety, privacy and data governance, transparency "
+DOC_091,bias,normalized_principles,"principles: responsible ai development, fairness, transparency, accountability, minimization of bias, privacy and consent, ethical integration of ai in society; "
+DOC_092,harm,normalized_principles,"principles: well-being, minimize harm, distribute benefits and risks, transparency, accountability, human responsibility, ethical codes "
+DOC_094,harm,normalized_principles,"prohibition of harmful projects, rejection of military funding, exclusion of military-affiliated collaborations, opposition to military applications of ai, opposition to surveillance and privacy invasion"
+DOC_094,exclusion,normalized_principles,"prohibition of harmful projects, rejection of military funding, exclusion of military-affiliated collaborations, opposition to military applications of ai, opposition to surveillance and privacy invasion"
+DOC_094,surveillance,normalized_principles,"prohibition of harmful projects, rejection of military funding, exclusion of military-affiliated collaborations, opposition to military applications of ai, opposition to surveillance and privacy invasion"
+DOC_106,bias,normalized_principles,"principles: fairness, ethics, accountability, transparency, justifiability, accuracy, bias minimization; "
+DOC_117,bias,normalized_principles,"principles: transparency and disclosure, accuracy and fact-checking, bias awareness, intellectual property rights, academic integrity, environmental impact, clear communications about the origin of content for generative ai, decision-making process; "
+DOC_121,bias,normalized_principles,"principles: be socially beneficial, avoid creating or reinforcing unfair bias, be built and tested for safety, be accountable to people, incorporate privacy design principles, uphold high standards of scientific excellence, be made available for uses that accord with these principles; "
+DOC_123,harm,normalized_principles,"principles: harmony and friendliness, fairness and justice, inclusivity and sharing, respect for privacy, safety and controllability, shared responsibility, open collaboration, agile governance "
+DOC_135,bias,normalized_principles,"principles: human authorship and responsibility, transparency, fairness, protection against bias and discrimination, privacy and security, social justice, autonomy in decision-making, ethical use across sectors; "
+DOC_138,bias,normalized_values,"
+academic integrity, transparency, fairness and equity, privacy and data security, environmental responsibility
+
+principles:
+ethical use of ai, bias awareness and mitigation, human oversight in ai systems, accountability in ai-driven research, interdisciplinary collaboration"
+DOC_174,bias,normalized_principles,"principles: leveraging ai for economic growth and inclusivity, ethical ai development and use, promoting data privacy and security, mitigating biases and ensuring fairness, fostering innovation in targeted sectors such as healthcare, agriculture, education, smart cities, and mobility. "
+DOC_187,surveillance,normalized_values," humanity’s welfare, ethical responsibility, collaboration, trust, openness, integrity, sustainability, inclusivity, safety. notably, the 2024 update removed explicit prohibitions against developing ai for weapons or surveillance technologies. this shift has been linked to google's intent to engage more flexibly in defense and security sectors, aligning with broader industry trends. "
+DOC_188,bias,normalized_principles,"principles: be socially beneficial; avoid creating or reinforcing unfair bias; be built and tested for safety; be accountable to people; incorporate privacy design principles; uphold high standards of scientific excellence; be made available for uses that accord with these principles. ​
+"
+DOC_194,harm,normalized_values," social harmony, equitable development, trust, collective well-being, transparency​"
+DOC_196,bias,normalized_principles,"principles: physician involvement, high-quality ai development, transparency, reproducibility, bias mitigation, patient privacy, security, education, legal oversight, equitable access.
+"
+DOC_205,deception,normalized_principles,"principles: safety, security, transparency, accountability, non-deception.​
+"
+DOC_210,bias,normalized_principles,"principles: governance, interpretability and explainability, bias and fairness, robustness and security, ethics and regulation; "
+DOC_211,bias,normalized_principles,"principles: governance, interpretability and explainability, bias and fairness, robustness and security, ethics and regulation; "
+DOC_212,harm,normalized_principles,"principles: human dignity, human rights, fundamental freedoms, benefit and harm, autonomy, justice, responsibility.​
+"
+DOC_213,harm,normalized_principles,"principles: human dignity, human rights, fundamental freedoms, benefit and harm, autonomy, justice, responsibility. "
+DOC_216,manipulation,normalized_principles,"human safety, freedom of choice, privacy protection, data management, prevention of manipulation, social connectivity, equal access, limitation on human enhancement"
+DOC_225,bias,normalized_principles,"principles: inclusivity, transparency, accountability, privacy safeguards, ethical and responsible ai use, ensuring societal trust, mitigating biases and discrimination, securing informed consent, data minimization and purpose limitation, accuracy and security in data handling, and equitable ai access. "
+DOC_233,harm,normalized_principles,"proportionality and do not harm, safety and security, fairness and non-discrimination, sustainability, right to privacy and data protection, human oversight and determination, transparency and explainability, responsibility and accountability, awareness and literacy, multi-stakeholder and adaptive governance and collaboration"
+DOC_256,harm,normalized_principles,"principles: safety, fairness, transparency, value alignment, risk mitigation, minimization of harm, addressing misuse and misinformation, ethical integration into society; "
+DOC_256,misinformation,normalized_principles,"principles: safety, fairness, transparency, value alignment, risk mitigation, minimization of harm, addressing misuse and misinformation, ethical integration into society; "
+DOC_262,bias,normalized_principles,"principles: pattern recognition, predictive modeling, real-time monitoring, bias mitigation, privacy protection, accountability.
+
+"
+DOC_264,bias,normalized_principles,"social-systems analysis, ethical design frameworks, ai bias and discrimination, social responsibility"
+DOC_266,harm,normalized_principles,"principles: human dignity, human rights, fundamental freedoms, benefit and harm, autonomy, justice, responsibility.​
+
+"
+DOC_282,harm,normalized_values," compassion, ethical responsibility, societal well-being, harmony"
