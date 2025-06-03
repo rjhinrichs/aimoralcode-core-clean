@@ -1,32 +1,49 @@
-# Temporary or scratch files
-*.tmp
-*.log
-*~
-*.bak
-*.swp
-
-# macOS and Windows system files
+# System files
 .DS_Store
 Thumbs.db
 
-# Office temporary files (e.g., Word/Excel autosaves)
+# Backup files
+*~
+*.bak
+
+# Office temporary and lock files
 ~$*
+*.tmp
+*.log
 
-# Python artifacts
+# Python cache and environment
 __pycache__/
-*.pyc
+*.py[cod]
+*.so
+.env
+.venv/
+*.egg-info/
 
-# Jupyter auto-saves
-*.ipynb_checkpoints/
+# Notebooks and checkpoints
+.ipynb_checkpoints/
+*.ipynb
 
-# Node/JS (if ever used)
+# Node artifacts (if ever added)
 node_modules/
 
-# Ignore toolkit artifacts and experimental sync/test files
+# VSCode / JetBrains IDEs
+.vscode/
+.idea/
+
+# Data artifacts that do not belong in source control
+*.zip
+*.tar.gz
+*.7z
+
+# Local test files
 test_sync_file.txt
+
+# Project-specific: ignore toolkit folder artifacts
 AI_Moral_Code/professionalism-ethics-toolkit_0806*/
 
-# Optional: ignore temporary export folders
-exports/
-outputs/
+# CSVs and raw files manually excluded from Git LFS
+book/DATA/*.csv
+book/DATA/*.xlsx
+book/BIBLIOGRAPHY/*.pdf
+book/BIBLIOGRAPHY/*.docx
 
