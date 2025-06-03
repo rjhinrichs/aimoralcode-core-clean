@@ -1,12 +1,9 @@
-# Track large binary formats with Git LFS
-*.pptx filter=lfs diff=lfs merge=lfs -text
+# Remove LFS tracking for these file types
+*.pdf !filter !diff !merge
+*.docx !filter !diff !merge
+*.xlsx !filter !diff !merge
+*.csv  !filter !diff !merge
 
-# Optional: Prevent these from being treated as text
-*.png  filter=lfs diff=lfs merge=lfs -text
-*.jpg  filter=lfs diff=lfs merge=lfs -text
-*.jpeg filter=lfs diff=lfs merge=lfs -text
-
-# Ensure JSON and CSV remain diffable (not managed by LFS)
-*.json text
-*.csv  text
-
+# Optional: prevent future accidental LFS tracking
+*.zip  !filter !diff !merge
+*.pptx !filter !diff !merge
