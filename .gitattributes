@@ -1,9 +1,0 @@
-# Remove LFS tracking for these file types
-*.pdf !filter !diff !merge
-*.docx !filter !diff !merge
-*.xlsx !filter !diff !merge
-*.csv  !filter !diff !merge
-
-# Optional: prevent future accidental LFS tracking
-*.zip  !filter !diff !merge
-*.pptx !filter !diff !merge
