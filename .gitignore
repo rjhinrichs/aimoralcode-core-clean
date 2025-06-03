@@ -1,49 +1,50 @@
-# System files
+# --- SYSTEM AND EDITOR FILES ---
 .DS_Store
 Thumbs.db
+*.swp
+*.swo
 
-# Backup files
-*~
-*.bak
-
-# Office temporary and lock files
-~$*
+# --- BACKUP / TEMPORARY FILES ---
 *.tmp
+*.bak
+*~
 *.log
+~$*
 
-# Python cache and environment
+# --- PYTHON & NOTEBOOK ENVIRONMENT ---
 __pycache__/
-*.py[cod]
-*.so
-.env
-.venv/
+*.pyc
+*.pyo
+*.pyd
 *.egg-info/
-
-# Notebooks and checkpoints
 .ipynb_checkpoints/
-*.ipynb
+.venv/
+.env
 
-# Node artifacts (if ever added)
-node_modules/
+# --- JUPYTER AND DATA SCIENCE OUTPUT ---
+*.ipynb_checkpoints/
+*.RData
+*.rds
+*.sav
 
-# VSCode / JetBrains IDEs
+# --- VISUAL STUDIO CODE & IDE SETTINGS ---
 .vscode/
 .idea/
 
-# Data artifacts that do not belong in source control
+# --- NODE MODULES & JS BUILD FILES (future-proofing) ---
+node_modules/
+dist/
+build/
+
+# --- ZIP & ARCHIVE FILES ---
 *.zip
 *.tar.gz
 *.7z
+*.rar
 
-# Local test files
+# --- PROJECT-SPECIFIC IGNORE RULES ---
 test_sync_file.txt
-
-# Project-specific: ignore toolkit folder artifacts
+book/memes/
+exports/
+outputs/
 AI_Moral_Code/professionalism-ethics-toolkit_0806*/
-
-# CSVs and raw files manually excluded from Git LFS
-book/DATA/*.csv
-book/DATA/*.xlsx
-book/BIBLIOGRAPHY/*.pdf
-book/BIBLIOGRAPHY/*.docx
-
