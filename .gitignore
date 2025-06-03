@@ -1,25 +1,32 @@
-# Ignore temporary or scratch files
-test_sync_file.txt
+# Temporary or scratch files
 *.tmp
 *.log
+*~
+*.bak
+*.swp
 
-# System files
+# macOS and Windows system files
 .DS_Store
 Thumbs.db
 
-# Python artifacts (optional)
+# Office temporary files (e.g., Word/Excel autosaves)
+~$*
+
+# Python artifacts
 __pycache__/
 *.pyc
 
-# Backup files
-*~
-*.bak
+# Jupyter auto-saves
+*.ipynb_checkpoints/
 
-# Office temp files
-~$*
-
-# Ignore node_modules or similar folders if added later
+# Node/JS (if ever used)
 node_modules/
 
-# Project-specific: ignore toolkit folder artifacts
+# Ignore toolkit artifacts and experimental sync/test files
+test_sync_file.txt
 AI_Moral_Code/professionalism-ethics-toolkit_0806*/
+
+# Optional: ignore temporary export folders
+exports/
+outputs/
+
